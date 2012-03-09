@@ -1,7 +1,7 @@
-OPEN RELATIONSHIP GRAPH
-=======================
+SMALL WORLD GRAPH
+=================
 
-Open Relationship Graph is a JSON graph that describes how concepts relate to one another. There is code to generate it from Wikipedia and such open sources, and to utilize (finding paths between concepts). Unlike Neo4J, it is not a graph database, and unlike Twitter's recently open sourced Cassovary graph processing library, it cannot currently handle graphs of billions of edges. However, future directions may include expanding its size capabilities. 
+Small World Graph is a JSON graph that describes how concepts relate to one another. There is code to generate it from Wikipedia and such open sources, and to utilize (finding paths between concepts). Unlike Neo4J, it is not a graph database, and unlike Twitter's recently open sourced Cassovary graph processing library, it cannot currently handle graphs of billions of edges. However, future directions may include expanding its size capabilities. 
 
 
 CODE
