@@ -1,0 +1,19 @@
+<mediawiki>
+  <page>
+    <title>Textman</title>
+    <id>43715</id>
+    <revision>
+      <id>244657982</id>
+      <timestamp>2008-10-11T22:25:17Z</timestamp>
+      <contributor>
+        <username>S711</username>
+        <id>4257015</id>
+      </contributor>
+      <minor />
+      <comment>wikif.</comment>
+      <text xml:space="preserve">
+[http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;orig_db=pubmed&amp;term=%28%22premature%20ejaculation%22&amp;#91;Title&amp;#47;Abstract&amp;#93;%29%20AND%20%28%22withdrawal%22&amp;#91;Title&amp;#47;Abstract&amp;#93;%20OR%20%22coitus%20interruptus%22&amp;#91;Title&amp;#47;Abstract&amp;#93;%29&amp;cmd=&amp;cmd_current=|&lt;nowiki&gt;(&quot;premature ejaculation&quot;[Title/Abstract]) AND (&quot;withdrawal&quot;[Title/Abstract] OR &quot;coitus interruptus&quot;[Title/Abstract])&lt;/nowiki&gt;].
+</text>
+    </revision>
+  </page>
+</mediawiki>

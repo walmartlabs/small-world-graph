@@ -1,0 +1,23 @@
+Header
+4  operation
+4  payload_size
+
+Request Format
+4  tuple_count
+4  tuple_1_length
+1  first_char_of_tuple
+1  second_char..
+1  ...
+1  nul_character
+4  tuple_2_length
+...
+
+
+Response Format
+4  page_count
+4  page_1_id
+4  page_1_title_length
+1  first_char_of_page2
+...
+
+

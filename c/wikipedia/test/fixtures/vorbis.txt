@@ -1,0 +1,41 @@
+{{Otheruses4|the audio compression codec|the Discworld character|Discworld characters#Vorbis{{!}}Discworld characters}}
+
+{{infobox file format
+| name         = Vorbis
+| logo         = [[Image:XiphophorusLogoSVG.svg]]
+| caption      = Xiph.org Logo
+| extension    = .ogg .oga &lt;ref&gt;{{cite web | url=http://wiki.xiph.org/index.php/MIME_Types_and_File_Extensions | title=Xiph.org wiki, MIME Types and File Extensions | accessdate=2007-10-13}}&lt;/ref&gt;
+| mime         = audio/ogg
+| owner        = [[Xiph.Org Foundation]]
+| creatorcode  = 
+| genre = [[Audio codec]]
+| containerfor = 
+| containedby  = [[Ogg]]
+| extendedfrom =
+| extendedto   = 
+| standard     = [http://xiph.org/vorbis/doc/Vorbis_I_spec.html Specification]
+}}
+
+'''Vorbis''' is a [[free software|free]] and [[open source software|open source]], [[Lossy compression|lossy]] audio [[codec]] project headed by the [[Xiph.Org Foundation]] and intended to serve as a replacement for [[MP3]].&lt;ref&gt;{{cite web|author=Xiph.Org Foundation|authorlink=Xiph.Org Foundation|url=http://www.xiph.org/about/|title=Xiph.org: About|date=1999-05-14|accessdate=2008-03-15}}&lt;/ref&gt; It is most commonly used in conjunction with the [[Ogg]] [[Container format (digital)|container]] and is therefore called '''Ogg Vorbis'''.
+
+Vorbis development began following a September 1998 letter from [[Fraunhofer Society|Fraunhofer Gesellschaft]] announcing plans to charge licensing fees for the MP3 audio format. Soon after, founder [[Chris Montgomery|Christopher &quot;Monty&quot; Montgomery]] commenced work on the project and was assisted by a growing number of other developers. They continued refining the [[source code]] until a stable version 1.0 of the codec was released on [[July 19]], [[2002]].
+
+The latest official version is 1.2.0 released on [[2007-07-25]], but there are some fine-tuned [[Fork (software development)|forks]], most notably [[#aoTuV|aoTuV]], that offer better audio quality, particularly at low bitrates.  Work is in progress to merge back those improvements.  Source code (called ''libvorbis'') for the Xiph.Org Foundation release is available from the official download page.&lt;ref name=&quot;titleXiph.org: Downloads&quot;&gt;{{cite web|author=Xiph.Org Foundation|url=http://www.xiph.org/downloads/ |title=Xiph.org: Downloads |accessdate=2008-01-12}}&lt;/ref&gt;
+
+==Name==
+&quot;Vorbis&quot; is named after a ''[[Discworld]]'' character, [[Exquisitor Vorbis]] in ''[[Small Gods]]'', by [[Terry Pratchett]]. Coincidentally, [[Nanny Ogg]] is another Discworld character, a witch who appears in several books including ''[[Witches Abroad]]'', though the [[Ogg]] format was not named after her. &quot;Ogg&quot; is in fact derived from [[ogging]], [[jargon]] that arose in the computer game [[Netrek]].&lt;ref&gt;{{cite web|url=http://xiph.org/xiphname|title=xiph.org: naming|author=Xiph.Org Foundation}}&lt;/ref&gt;
+
+==Usage==
+[[Image:Amarokplayingvorbis.png|right|250px|thumb|The [[Amarok (software)|Amarok]] software playing a Vorbis-encoded song. Also demonstrates [[Unicode]] support.]]
+
+The Vorbis format has proven popular among supporters of [[free software]].&lt;ref&gt;{{cite web |url=http://www.gnu.org/philosophy/audio/audio.html |title=Recordings about our Philosophy - GNU Project - Free Software Foundation (FSF) |accessdate=2008-01-12}}&lt;/ref&gt; They argue that its higher fidelity and completely free nature, unencumbered by patents, make it a well-suited replacement for patented and restricted formats like MP3. However, MP3 has been widely used since the late-1990s and as of 2008, continues to remain popular in the consumer electronics industry.
+
+Vorbis has different uses for consumer products.  Many [[video game]] titles such as [[18 Wheels of Steel]], [[Halo (series)|Halo]], [[Unreal Tournament]], [[Mafia: The City of Lost Heaven]], [[Grand Theft Auto: San Andreas]], [[Crimsonland]], [[Devil May Cry 3]] and [[Guitar Hero: On Tour]] store in-game audio as Vorbis. Popular software players support Vorbis playback either natively or through an external [[plugin]]. A number of Web sites use it, such as [[Jamendo]] and [[Mindawn]], as well as several national radio stations like [[CBC Radio]], JazzRadio, and [[Virgin Radio]].
+
+==Quality: Codec comparisons==
+
+For many applications, Vorbis has clear advantages over other [[List of codecs#Lossy data compression|lossy audio codecs]] in that it is patent-free and has free and [[open-source software|open-source]] implementations and therefore is free to use, implement, or modify as one sees fit, yet produces smaller files than most other codecs at equivalent or higher quality.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/dna/h2g2/A6556511|title=Ogg Vorbis - Better Than Mp3?|author=MedO|authorlink=h2g2}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.eskimo.com/~nanook/knowledge/oggvorbis.html|title=Ogg Vorbis - An Alternative to MP3|author=Nanook}}&lt;/ref&gt;
+
+Listening tests have attempted to find the best quality lossy audio codecs at certain [[bitrate]]s. Some conclusions made by recent listening tests:
+* Low bitrate (less than 64 kbit/s): the most recent public multiformat test at 48 kbit/s shows that aoTuV Vorbis has a better quality than [[Windows Media Audio|WMA]] and [[Advanced Audio Coding|LC-AAC]], the same quality as [[Windows Media Audio|WMA Professional]], and a lower quality than [[HE-AAC]].&lt;ref name=mf48&gt;{{cite web |url=http://www.maresweb.de/listening-tests/mf-48-1/results.htm |title=Results of Public, Multiformat Listening Test @ 48 kbps (November 2006) |accessdate=2008-01-12}}&lt;/ref&gt;
+* Mid to low bitrates (less than 128 kbit/s down to 64 kb/s): private tests at 80 kbit/s and 96 kbit/s shows that aoTuV Vorbis has a better quality than other lossy audio codecs ([[Advanced Audio Coding|LC-AAC]],

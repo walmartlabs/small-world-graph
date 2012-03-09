@@ -1,0 +1,20 @@
+relationship_server:
+  host: 127.0.0.1
+  port: 5555
+memcached:
+  host: 127.0.0.1
+  port: 11211
+page_memcached:
+  host: 127.0.0.1
+  port: 11212
+database:
+  host: 127.0.0.1
+  port: 3306
+  db: rel_benchmark
+  user: root
+sphinx:
+  host: 127.0.0.1
+  port: 3314
+mail_server:
+  host: 127.0.0.1
+  port: 25

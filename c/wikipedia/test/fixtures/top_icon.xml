@@ -1,0 +1,25 @@
+<mediawiki>
+  <page>
+    <title>Template:Top icon</title>
+    <id>211803</id>
+    <revision>
+      <id>1830700</id>
+      <timestamp>2009-11-09T06:15:29Z</timestamp>
+      <contributor>
+        <username>Jamesofur</username>
+        <id>76268</id>
+      </contributor>
+      <minor />
+      <comment>41 revisions from [[:en:Template:Top icon]]</comment>
+      <text xml:space="preserve">{{#switch: {{NAMESPACE}}
+| {{ns:2}}
+| {{ns:3}} 
+| {{ns:10}} = &lt;div style=&quot;display:none; right:{{#expr: {{{number|{{{icon_nr|0}}}}}}*(2+{{{width|15}}})+10+{{{offset|{{{extra_offset|0}}}}}} }}px; {{{style|}}}&quot; class=&quot;metadata topicon nopopups {{{class|}}}&quot; id=&quot;{{{id|}}}&quot;&gt;[[File:{{{image|{{{imagename}}}}}}|{{{width|15}}}px|link={{{link|{{{wikilink|}}}}}}|{{{text|{{{description}}}}}}]]&lt;/div&gt;
+| #default  = {{tlx|Top icon}} cannot be used outside of the User, Template, or User talk namespaces. {{#ifeq:{{NAMESPACE}}|{{ns:0}}|Try {{tlx|Spoken Wikipedia}} or {{tlx|Featured article}} instead.}}}}&lt;noinclude&gt;
+{{pp-template|small=yes}}
+{{Documentation}}
+&lt;!-- PLEASE ADD THIS TEMPLATE'S CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS --&gt;
+&lt;/noinclude&gt;</text>
+    </revision>
+  </page>
+</mediawiki>

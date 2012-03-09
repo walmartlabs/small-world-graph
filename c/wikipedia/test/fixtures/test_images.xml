@@ -1,0 +1,21 @@
+<mediawiki>
+  <page>
+    <title>Textman</title>
+    <id>43715</id>
+    <revision>
+      <id>244657982</id>
+      <timestamp>2008-10-11T22:25:17Z</timestamp>
+      <contributor>
+        <username>S711</username>
+        <id>4257015</id>
+      </contributor>
+      <minor />
+      <comment>wikif.</comment>
+      <text xml:space="preserve">
+[[Image:Basic.png]]
+[[Image:Basic.png|alt=Hello|thumb|other stuff [[Here]] and more|more=you]]
+[[Image:British Isles Euler diagram.svg|thumb|250px|left|Euler diagram of the [[British Isles]]|alt=Hello World Dude]]
+      </text>
+    </revision>
+  </page>
+</mediawiki>

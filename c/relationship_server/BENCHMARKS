@@ -1,0 +1,61 @@
+== Hash of Hashes with ThomasWangHash
+  == C++ Benchmark
+  Running 2 test cases...
+  2008-Jul-15 15:03:30.422323 Starting Store
+  2008-Jul-15 15:04:24.307307 Finished Store(00:00:53.884984)
+  2008-Jul-15 15:04:24.307577 Starting 10000 distance calls
+  2008-Jul-15 15:04:35.832959 Finished 10000 distance calls(00:00:11.525382)
+  2008-Jul-15 15:04:35.833091 Starting 10000 sites_close_to calls
+  2008-Jul-15 15:04:48.942907 Finished 10000 sites_close_to calls(00:00:13.109816)
+  Number of Hash Entries: 29498
+  Number of Buckets: 65536
+  Max Number of Buckets: 2147483648
+
+  == Ruby Benchmark
+  Benchmarking Import of Data from ~/relationships (305.81824)
+  Benchmarking 10000 calls to 'distances' (89.31730)
+  Benchmarking 10000 calls to 'sites_close_to' (0.55507)
+
+== 64bit Hash
+  == C++ Benchmark
+  Memory Usage for 5.05 million records: 158m
+  Running 2 test cases...
+  2008-Jul-15 15:06:03.187171 Starting Store
+  2008-Jul-15 15:06:42.668553 Finished Store(00:00:39.481382)
+  2008-Jul-15 15:06:42.668812 Starting 10000 distance calls
+  2008-Jul-15 15:06:54.369833 Finished 10000 distance calls(00:00:11.701021)
+  2008-Jul-15 15:06:54.370015 Starting 10000 sites_close_to calls
+  2008-Jul-15 15:06:54.379999 Finished 10000 sites_close_to calls(00:00:00.009984)
+  Number of Hash Entries: 5056951
+  Number of Buckets: 8388608
+  Max Number of Buckets: 2147483648
+
+  == C++ Glue Benchmark
+  Running 2 test cases...
+  2008-Jul-15 15:17:12.056508 Starting Store
+  2008-Jul-15 15:19:32.777344 Finished Store(00:02:20.720836)
+  2008-Jul-15 15:19:32.777561 Starting 10000 distance calls
+  2008-Jul-15 15:19:50.463528 Finished 10000 distance calls(00:00:17.685967)
+  2008-Jul-15 15:19:50.463640 Starting 10000 sites_close_to calls
+  2008-Jul-15 15:19:58.781556 Finished 10000 sites_close_to calls(00:00:08.317916)
+
+  == Indexer Benchmark
+  2008-Jul-21 14:04:06.276287 Starting Calculations
+  Computed 0.00M iterations out of 398.001M Hash Size: 0 Elapsed Time (00:00:00.000002)
+  Computed 17.25M iterations out of 398.001M Hash Size: 734010 Elapsed Time (00:01:00.000049)
+  Computed 37.34M iterations out of 398.001M Hash Size: 1548474 Elapsed Time (00:02:00.000171)
+  Computed 101.00M iterations out of 398.001M Hash Size: 2748915 Elapsed Time (00:03:00.000290)
+  Computed 182.43M iterations out of 398.001M Hash Size: 4064563 Elapsed Time (00:04:00.000430)
+  Computed 270.74M iterations out of 398.001M Hash Size: 5271690 Elapsed Time (00:05:00.000590)
+  Computed 368.18M iterations out of 398.001M Hash Size: 6117050 Elapsed Time (00:06:00.000762)
+  2008-Jul-21 14:10:13.008765 Finished Calculations(00:06:06.732478)
+
+  Resulting Memory Usage by Server: 365m
+
+  == Ruby Benchmark
+  Benchmarking Import of Data from ~/relationships (310.96672)
+  Benchmarking 1000 calls to 'distances' (8.58815)
+  Benchmarking 1000 calls to 'sites_close_to' (0.22792)
+
+
+

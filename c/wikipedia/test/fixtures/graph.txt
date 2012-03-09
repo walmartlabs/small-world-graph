@@ -1,0 +1,9 @@
+A|B
+C|A
+C|B
+D|A
+E|A
+E|B
+E|F
+E|G
+R>A

@@ -1,0 +1,122 @@
+import sys,os
+
+from os.path import join, dirname, abspath
+from Utils import cmd_output
+
+def build(bld):
+    
+#  bld(
+#    name = 'lenses_controller',
+#    features = 'cxx cshlib',
+#    source = """
+#      lenses_controller.cpp
+#      smallworld_client.cpp
+#    """,
+#    after = 'chibi_lib',
+#    target = 'lenses_controller',
+#    uselib_local = ['benchmark','hash_fns', 'chibi_lib'],
+#    uselib = 'TOKYOCABINET PILLOWTALK CURL'
+##  )
+
+  bld(
+    name = 'concept_resolver',
+    features = 'cxx cshlib',
+    source = """
+      concept_resolver.cpp
+      string_pool.cpp
+    """,
+    target = 'concept_resolver',
+    uselib_local = ['benchmark','hash_fns'],
+    uselib = 'TOKYOCABINET PILLOWTALK CURL'
+  )
+
+  bld(
+    name = 'concept_resolver_test',
+    features = 'cxx cprogram',
+    source = """
+      concept_resolver_test.cpp
+    """,
+    cxxflags = '-fPIC',
+    target = 'concept_resolver_test',
+    uselib_local = ['benchmark','hash_fns', 'concept_resolver'],
+    uselib = 'TOKYOCABINET PILLOWTALK'
+  )
+
+  bld(
+    name = 'concept_controller',
+    features = 'cxx cshlib',
+    source = """
+      concept_controller.cpp
+    """,
+    after = 'chibi_lib',
+    target = 'concept_controller',
+    uselib_local = ['benchmark','hash_fns', 'concept_resolver', 'chibi_lib'],
+    uselib = 'TOKYOCABINET PILLOWTALK CURL'
+  )
+
+  bld(
+    name = 'canonicalizer_client',
+    features = 'cxx cshlib',
+    source = """
+      canonicalizer_client.cpp
+    """,
+    after = "concept_controller",
+    target = "canonicalizer_client",
+    export_incdirs = '.',
+    uselib = 'PILLOWTALK CURL'
+  )
+
+  bld(
+    name = 'canonicalizer_client_test',
+    features = 'cxx cprogram',
+    source = """
+      canonicalizer_client_test.cpp
+    """,
+    after = "canonicalizer_client",
+    target = "canonicalizer_client_test",
+    uselib_local = ['canonicalizer_client'],
+    uselib = 'PILLOWTALK CURL'
+  )
+
+  bld(
+    name = "canonicalizer_m2",
+    features = "cxx cprogram",
+    source = """
+      canonicalizer_m2.cpp
+      m2pp.cpp
+      utils.cpp
+      thread_safe_queue.cpp
+    """,
+    after = "concept_resolver",
+    target = "canonicalizer_m2",
+    uselib_local = ["benchmark","hash_fns","concept_resolver"],
+    uselib = "TOKYOCABINET PILLOWTALK CURL ZEROMQ JSONC"
+  )
+
+  bld(
+    name = "canonicalizer_m2_fork",
+    features = "cxx cprogram",
+    source = """
+      canonicalizer_m2_fork.cpp
+      m2pp.cpp
+      utils.cpp
+    """,
+    after = "concept_resolver",
+    target = "canonicalizer_m2_fork",
+    uselib_local = ["benchmark","hash_fns","concept_resolver"],
+    uselib = "TOKYOCABINET PILLOWTALK CURL ZEROMQ JSONC"
+  )
+
+  bld(
+    name = "canonicalizer_m2_single",
+    features = "cxx cprogram",
+    source = """
+      canonicalizer_m2_single.cpp
+      m2pp.cpp
+      utils.cpp
+    """,
+    after = "concept_resolver",
+    target = "canonicalizer_m2_single",
+    uselib_local = ["benchmark","hash_fns","concept_resolver"],
+    uselib = "TOKYOCABINET PILLOWTALK CURL ZEROMQ JSONC"
+  )

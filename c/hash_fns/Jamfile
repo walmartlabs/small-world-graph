@@ -1,0 +1,6 @@
+project hash_fns 
+  : requirements <include>/usr/local/include/boost-1_35/
+  : usage-requirements <include>.
+  ;
+
+alias hash_fns_lib ;

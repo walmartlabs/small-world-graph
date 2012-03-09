@@ -1,0 +1,6 @@
+def build(bld):
+  bld(
+    uselib = '',
+    export_incdirs = '.',
+    name = 'hash_fns'
+  )

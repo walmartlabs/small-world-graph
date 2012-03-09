@@ -1,0 +1,442 @@
+&lt;includeonly&gt;{{formatnum:{{{1}}}}}&amp;nbsp;{{#ifeq:{{{abbr}}}|on|{{#switch:{{{lk|}}}|on=[[{{#switch:{{{2|}}}
+|AU=   astronomical unit{{!}}AU
+|ft=   foot (unit of length){{!}}ft
+|yd=   yard{{!}}yd
+|in=   inch{{!}}in
+|mm=   millimetre{{!}}mm
+|cm=   centimetre{{!}}cm
+|m=metre{{!}}m
+|km=   kilometre{{!}}km
+|mi=   mile{{!}}mi
+|nmi=  nautical mile{{!}}nmi
+|acre= {{#ifeq:{{{sing}}}|on|acre|acres}}
+|ha=   hectare{{!}}ha
+|sqft= square foot{{!}}sq&amp;nbsp;ft
+|sqyd= square yard{{!}}sq&amp;nbsp;yd
+|sqm=  square metre{{!}}m²
+|sqkm= square kilometre{{!}}km²
+|sqmi= square mile{{!}}sq&amp;nbsp;mi
+|sqnmi=square nautical mile{{!}}sq&amp;nbsp;nmi
+|ft:s|ft/s= feet per second{{!}}ft/s
+|mi:h|mi/h|mph= miles per hour{{!}}mph
+|knot|kt= knot (speed){{!}}kt
+|m:s|m/s=  metre per second{{!}}m/s
+|km:h|kph|km/h= kilometres per hour{{!}}km/h
+|°C|C=   Celsius{{!}}°C
+|°F|F=   Fahrenheit{{!}}°F
+|K=Kelvin{{!}}K
+|°R|R=   Rankine{{!}}°R
+|lb= Pound{{!}}lb
+|kg= Kilogram{{!}}kg
+}}]]|={{#switch:{{{2|}}}
+|AU=   AU
+|ft=   ft
+|yd=   yd
+|in=   in
+|mm=   mm
+|cm=   cm
+|m=m
+|km=   km
+|mi=   mi
+|nmi=  nmi
+|acre= {{#ifeq:{{{sing}}}|on|acre|acres}}
+|ha=   ha
+|sqft= sq&amp;nbsp;ft
+|sqyd= sq&amp;nbsp;yd
+|sqm=  m²
+|sqkm= km²
+|sqmi= sq&amp;nbsp;mi
+|sqnmi=sq&amp;nbsp;nmi
+|ft:s|ft/s= ft/s
+|mi:h|mi/h|mph= mph
+|knot|kt= kt
+|m:s|m/s=  m/s
+|km:h|kph|km/h= km/h
+|°C|C=   °C
+|°F|F=   °F
+|K=K
+|°R|R=   °R
+|lb= lb
+|kg= kg
+}}}} | {{#switch:{{{lk|}}}|on=[[{{#switch:{{{2|}}}
+|AU=   astronomical unit{{!}}{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}astronomical units}}}}
+|ft=   foot (unit of length){{!}}{{#ifeq:{{{1}}}|1|foot|{{#ifeq:{{{sing}}}|on|foot|feet}}}}
+|yd=   yard{{!}}{{#ifeq:{{{1}}}|1|yard|{{#ifeq:{{{sing}}}|on|yard|yards}}}}
+|in=   inch{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}inches}}}}
+|mm=   {{#switch:{{{sp|}}}|us=millimeter|=millimetre}}{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}{{#switch:{{{sp|}}}|us=millimeters|=millimetres}}}}}}
+|cm=   {{#switch:{{{sp|}}}|us=centimeter|=centimetre}}{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}{{#switch:{{{sp|}}}|us=centimeters|=centimetres}}}}}}
+|m={{#switch:{{{sp|}}}|us=meter|=metre}}{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}{{#switch:{{{sp|}}}|us=meters|=metres}}}}}}
+|km=   {{#switch:{{{sp|}}}|us=kilometer|=kilometre}}{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}{{#switch:{{{sp|}}}|us=kilometers|=kilometres}}}}}}
+|mi=   mile{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}miles}}}}
+|nmi=  nautical mile{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}nautical miles}}}}
+|acre= acre{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}acres}}}}
+|ha=   hectare{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}hectares}}}}
+|sqft= square foot{{!}}square {{#ifeq:{{{1}}}|1|foot|{{#ifeq:{{{sing}}}|on|foot|feet}}}}
+|sqyd= square yard{{!}}square {{#ifeq:{{{1}}}|1|yard|{{#ifeq:{{{sing}}}|on|yard|yards}}}}
+|sqm=  square {{#switch:{{{sp|}}}|us=meter|=metre}}{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}square {{#switch:{{{sp|}}}|us=meters|=metres}}}}}}
+|sqkm= square {{#switch:{{{sp|}}}|us=kilometer|=kilometre}}{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}square {{#switch:{{{sp|}}}|us=kilometers|=kilometres}}}}}}
+|sqmi= square mile{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}square miles}}}}
+|sqnmi=square nautical mile{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}square nautical miles}}}}
+|ft:s|ft/s= feet per second{{#ifeq:{{{1}}}|1|{{!}}foot per second|{{#ifeq:{{{sing}}}|on||{{!}}foot per second}}}}
+|mi:h|mi/h|mph= miles per hour{{#ifeq:{{{1}}}|1|{{!}}mile per hour|{{#ifeq:{{{sing}}}|on||{{!}}mile per hour}}}}
+|knot|kt= knot (speed){{!}}{{#ifeq:{{{1}}}|1|knot|{{#ifeq:{{{sing}}}|on|knot|knots}}}}
+|m:s|m/s=  {{#switch:{{{sp|}}}|us=meters|=metres}} per second{{#ifeq:{{{1}}}|1|{{!}}{{#switch:{{{sp|}}}|us=meter|=metre}} per second|{{#ifeq:{{{sing}}}|on||{{!}}{{#switch:{{{sp|}}}|us=meter|=metre}} per second}}}}
+|km:h|kph|km/h= {{#switch:{{{sp|}}}|us=kilometers|=kilometres}} per hour{{#ifeq:{{{1}}}|1|{{!}}{{#switch:{{{sp|}}}|us=kilometer|=kilometre}} per hour|{{#ifeq:{{{sing}}}|on||{{!}}{{#switch:{{{sp|}}}|us=kilometer|=kilometre}} per hour}}}}
+|°C|C=   Celsius{{!}}°C
+|°F|F=   Fahrenheit{{!}}°F
+|K=Kelvin{{!}}K
+|°R|R=   Rankine{{!}}°R
+|lb= pound{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}pounds}}}}
+|kg= kilogram{{#ifeq:{{{1}}}|1||{{#ifeq:{{{sing}}}|on||{{!}}kilograms}}}}
+}}]]|={{#switch:{{{2|}}}
+|AU=   {{#ifeq:{{{1}}}|1|astronomical unit|{{#ifeq:{{{sing}}}|on|astronomical unit|astronomical units}}}}
+|ft=   {{#ifeq:{{{1}}}|1|foot|{{#ifeq:{{{sing}}}|on|foot|feet}}}}
+|yd=   {{#ifeq:{{{1}}}|1|yard|{{#ifeq:{{{sing}}}|on|yard|yards}}}}
+|in=   {{#ifeq:{{{1}}}|1|inch|{{#ifeq:{{{sing}}}|on|inch|inches}}}}
+|mm=   {{#ifeq:{{{1}}}|1|{{#switch:{{{sp|}}}|us=millimeter|=millimetre}}|{{#ifeq:{{{sing}}}|on|{{#switch:{{{sp|}}}|us=millimeter|=millimetre}}|{{#switch:{{{sp|}}}|us=millimeters|=millimetres}}}}}}
+|cm=   {{#ifeq:{{{1}}}|1|{{#switch:{{{sp|}}}|us=centimeter|=centimetre}}|{{#ifeq:{{{sing}}}|on|{{#switch:{{{sp|}}}|us=centimeter|=centimetre}}|{{#switch:{{{sp|}}}|us=centimeters|=centimetres}}}}}}
+|m={{#ifeq:{{{1}}}|1|{{#switch:{{{sp|}}}|us=meter|=metre}}|{{#ifeq:{{{sing}}}|on|{{#switch:{{{sp|}}}|us=meter|=metre}}|{{#switch:{{{sp|}}}|us=meters|=metres}}}}}}
+|km=   {{#ifeq:{{{1}}}|1|{{#switch:{{{sp|}}}|us=kilometer|=kilometre}}|{{#ifeq:{{{sing}}}|on|{{#switch:{{{sp|}}}|us=kilometer|=kilometre}}|{{#switch:{{{sp|}}}|us=kilometers|=kilometres}}}}}}
+|mi=   {{#ifeq:{{{1}}}|1|mile|{{#ifeq:{{{sing}}}|on|mile|miles}}}}
+|nmi=  {{#ifeq:{{{1}}}|1|nautical mile|{{#ifeq:{{{sing}}}|on|nautical mile|nautical miles}}}}
+|acre= {{#ifeq:{{{1}}}|1|acre|{{#ifeq:{{{sing}}}|on|acre|acres}}}}
+|ha=   {{#ifeq:{{{1}}}|1|hectare|{{#ifeq:{{{sing}}}|on|hectare|hectares}}}}
+|sqft= {{#ifeq:{{{1}}}|1|square foot|{{#ifeq:{{{sing}}}|on|square foot|square feet}}}}
+|sqyd= {{#ifeq:{{{1}}}|1|square yard|{{#ifeq:{{{sing}}}|on|square yard|square yards}}}}
+|sqm=  {{#ifeq:{{{1}}}|1|square {{#switch:{{{sp|}}}|us=meter|=metre}}|{{#ifeq:{{{sing}}}|on|square {{#switch:{{{sp|}}}|us=meter|=metre}}|square {{#switch:{{{sp|}}}|us=meters|=metres}}}}}}
+|sqkm= {{#ifeq:{{{1}}}|1|square {{#switch:{{{sp|}}}|us=kilometer|=kilometre}}|{{#ifeq:{{{sing}}}|on|square {{#switch:{{{sp|}}}|us=kilometer|=kilometre}}|square {{#switch:{{{sp|}}}|us=kilometers|=kilometres}}}}}}
+|sqmi= {{#ifeq:{{{1}}}|1|square mile|{{#ifeq:{{{sing}}}|on|square mile|square miles}}}}
+|sqnmi={{#ifeq:{{{1}}}|1|square nautical mile|{{#ifeq:{{{sing}}}|on|square nautical mile|square nautical miles}}}}
+|ft:s|ft/s= {{#ifeq:{{{1}}}|1|foot per second|{{#ifeq:{{{sing}}}|on|foot per second|feet per second}}}}
+|mi:h|mi/h|mph= {{#ifeq:{{{1}}}|1|mile per hour|{{#ifeq:{{{sing}}}|on|mile per hour|miles per hour}}}}
+|knot|kt= {{#ifeq:{{{1}}}|1|knot|{{#ifeq:{{{sing}}}|on|knot|knots}}}}
+|m:s|m/s=  {{#ifeq:{{{1}}}|1|{{#switch:{{{sp|}}}|us=meter|=metre}} per second|{{#ifeq:{{{sing}}}|on|{{#switch:{{{sp|}}}|us=meter|=metre}} per second|{{#switch:{{{sp|}}}|us=meters|=metres}} per second}}}}
+|km:h|kph|km/h= {{#ifeq:{{{1}}}|1|{{#switch:{{{sp|}}}|us=kilometer|=kilometre}} per hour|{{#ifeq:{{{sing}}}|on|{{#switch:{{{sp|}}}|us=kilometer|=kilometre}} per hour|{{#switch:{{{sp|}}}|us=kilometers|=kilometres}} per hour}}}}
+|°C|C=   °C
+|°F|F=   °F
+|K=K
+|°R|R=   °R
+|lb= {{#ifeq:{{{1}}}|1|pound|{{#ifeq:{{{sing}}}|on|pound|pounds}}}}
+|kg= {{#ifeq:{{{1}}}|1|kilogram|{{#ifeq:{{{sing}}}|on|kilogram|kilograms}}}}
+}}}}}}{{#switch:{{{disp|}}}|/|s|slash=/|=&amp;#32;(}}{{formatnum:{{#expr:{{{1}}} * {{ #switch:{{{2|}}}
+|AU = {{#switch:{{{3|}}}
+|ft=490807087000
+|yd=163602362333
+|in=5889685044000
+|mm=149598000000000
+|cm=14959800000000
+|m=149598000000
+|km=149598000
+|mi=92955887.6
+|nmi=80776457.9
+}}
+|ft = {{#switch:{{{3|}}}
+|AU=0.00000000000203746039
+|yd=0.33333333333333333333
+|in=12
+|mm=304.8
+|cm=30.48
+|m=0.3048
+|km=0.0003048
+|mi=0.000189393939
+|nmi=0.000164578834
+}}
+|yd = {{#switch:{{{3|}}}
+|AU=0.00000000000611238117
+|ft=3
+|in=36
+|mm=914.4
+|cm=91.44
+|m=0.9144
+|km=0.0009144
+|mi=0.00056818181818
+|nmi=0.000493736502
+}}
+|in = {{#switch:{{{3|}}}
+|AU=0.000000000000169788366
+|ft=0.0833333333
+|yd=0.0277777778
+|mm=25.4
+|cm=2.54
+|m=0.0254
+|km=0.0000254
+|mi=0.0000157828283
+|nmi=0.0000137149028
+}}
+|mm = {{#switch:{{{3|}}}
+|AU=0.00000000000000668458134
+|ft=0.0032808399
+|yd=0.0010936133
+|in=0.0393700787
+|cm=0.1
+|m=0.001
+|km=0.000001
+|mi=0.000000621371192
+|nmi=0.000000539956803
+}}
+|cm = {{#switch:{{{3|}}}
+|AU=0.0000000000000668458134
+|ft=0.032808399
+|yd=0.010936133
+|in=0.393700787
+|mm=10
+|m=0.01
+|km=0.00001
+|mi=0.00000621371192 
+|nmi=0.00000539956803
+}}
+|m = {{#switch:{{{3|}}}
+|AU=0.00000000000668458134
+|ft=3.2808399
+|yd=1.0936133
+|in=39.3700787
+|mm=1000
+|cm=100
+|km=0.001
+|mi=0.000621371192 
+|nmi=0.000539956803
+}}
+|km = {{#switch:{{{3|}}}
+|AU=0.00000000668458134
+|ft=3280.8399
+|yd=1093.613298
+|in=39370.0787
+|mm=1000000
+|cm=100000
+|m=1000
+|mi=0.621371192
+|nmi=0.539956803
+}}
+|mi = {{#switch:{{{3|}}}
+|AU=0.0000000107577909
+|ft=5280
+|yd=1760
+|in=63360
+|mm=1609344
+|cm=160934.4
+|m=1609.344
+|km=1.609344
+|nmi=0.868976242
+}}
+|nmi = {{#switch:{{{3|}}}
+|AU=0.0000000123798447
+|ft=6076.1155
+|yd=2025.3718
+|in=72913.3858
+|mi=1.15077945
+|mm=1852000
+|cm=185200
+|m=1852
+|km=1.852
+}}
+|acre = {{#switch:{{{3|}}}
+|ha=0.404685642
+|sqft=43560
+|sqyd=4840
+|sqm=4046.85642
+|sqkm=0.00404685642
+|sqmi=0.0015625
+|sqnmi=0.00117987455
+}}
+|ha = {{#switch:{{{3|}}}
+|acre=2.47105381
+|sqft=107639.104
+|sqyd=11959.90046
+|sqm=10000
+|sqkm=0.01
+|sqmi=0.00386102159
+|sqnmi=0.0029155335
+}}
+|sqft = {{#switch:{{{3|}}}
+|acre=0.0000229568411
+|ha=0.00009290304
+|sqm=0.09290304
+|sqkm=0.00000009290304
+|sqmi=0.0000000358700643
+|sqyd=0.1111111111111111
+|sqnmi=0.0000000270861925
+}}
+|sqyd = {{#switch:{{{3|}}}
+|acre=0.0002066115699
+|ha=0.00083612736
+|sqm=0.83612736
+|sqkm=0.00000083612736
+|sqmi=0.00000032283058
+|sqft=9
+|sqnmi=0.0000002437757325
+}}
+|sqm = {{#switch:{{{3|}}}
+|acre=0.000247105381
+|ha=0.0001
+|sqft=10.7639104
+|sqyd=1.195990046
+|sqkm=0.000001
+|sqmi=0.000000386102159
+|sqnmi=0.00000029155335
+}}
+|sqkm = {{#switch:{{{3|}}}
+|acre=247.105381
+|ha=100
+|sqft=10763910.4
+|sqyd=1195990.046
+|sqm=1000000
+|sqmi=0.386102159
+|sqnmi=0.29155335
+}}
+|sqmi = {{#switch:{{{3|}}}
+|acre=640
+|ha=258.998811
+|sqft=27878400
+|sqyd=3097600
+|sqm=2589988.11
+|sqkm=2.58998811
+|sqnmi=0.755119709
+}}
+|sqnmi= {{#switch:{{{3|}}}
+|acre=847.547736
+|ha=342.9904
+|sqft=36919179.4
+|sqyd=4102131.04
+|sqm=3429904
+|sqkm=3.429904
+|sqmi=1.32429334
+}}
+|ft:s|ft/s= {{#switch:{{{3|}}}
+|knot|kt=0.592483801
+|m:s|m/s=0.3048
+|km:h|kph|km/h=1.09728
+|mi:h|mi/h|mph=0.681818182
+}}
+|mi:h|mi/h|mph= {{#switch:{{{3|}}}
+|ft:s|ft/s=1.46666667
+|knot|kt=0.868976242
+|m:s|m/s=0.44704
+|km:h|kph|km/h=1.609344
+}}
+|knot|kt= {{#switch:{{{3|}}}
+|m:s|m/s=0.514444444
+|km:h|kph|km/h=1.85200
+|ft:s|ft/s=1.68780986
+|mi:h|mi/h|mph=1.15077945
+}}
+|m:s|m/s= {{#switch:{{{3|}}}
+|knot|kt=1.94384449
+|km:h|kph|km/h=3.6
+|ft:s|ft/s=3.2808399
+|mi:h|mi/h|mph=2.23693629
+}}
+|km:h|kph|km/h= {{#switch:{{{3|}}}
+|knot|kt=0.539956803
+|m:s|m/s=0.277777778
+|ft:s|ft/s=0.911344415
+|mi:h|mi/h|mph=0.621371192
+}}
+|°C|C = {{#switch:{{{3|}}}
+|°F|F =1.8
+|K=1
+|°R|R =1.8
+}}
+|°F|F = {{#switch:{{{3|}}}
+|°C|C =1/(1.8)
+|K=1/(1.8)
+|°R|R =1
+}}
+|K = {{#switch:{{{3|}}}
+|°C|C =1
+|°F|F =1.8
+|°R|R =1.8
+}}
+|°R|R = {{#switch:{{{3|}}}
+|°C|C =1/(1.8)
+|°F|F =1
+|K=1/(1.8)
+}}
+}} {{#switch:{{{2|}}}
+|°C|C = {{#switch:{{{3|}}}
+|°F|F = + 32
+|K= + 273.15
+|°R|R = + 491.67
+}}
+|°F|F = {{#switch:{{{3|}}}
+|°C|C = - (32/1.8)
+|K= + (459.67/1.8)
+|°R|R = + 459.67
+}}
+|K = {{#switch:{{{3|}}}
+|°C|C = - 273.15
+|°F|F = - 459.67
+}}
+|°R|R = {{#switch:{{{3|}}}
+|°C|C = - 273.15
+|°F|F = - 459.67
+}}
+|lb= {{#switch:{{{3|}}}
+|kg   =0.45359237
+}}
+|kg= {{#switch:{{{3|}}}
+|lb   =2.20462262
+}}
+}} {{#if:{{{4|}}} | round {{{4}}} }}}}}}&amp;nbsp;{{#switch:{{{lk|}}}|on=[[{{#switch:{{{3|}}}
+|AU=   astronomical unit{{!}}AU
+|ft=   foot (unit of length){{!}}ft
+|yd=   yard{{!}}yd
+|in=   inch{{!}}in
+|mm=   millimetre{{!}}mm
+|cm=   centimetre{{!}}cm
+|m=metre{{!}}m
+|km=   kilometre{{!}}km
+|mi=   mile{{!}}mi
+|nmi=  nautical mile{{!}}nmi
+|acre= {{#ifeq:{{{sing}}}|on|acre|acres}}
+|ha=   hectare{{!}}ha
+|sqft= square foot{{!}}sq&amp;nbsp;ft
+|sqyd= square yard{{!}}sq&amp;nbsp;yd
+|sqm=  square metre{{!}}m²
+|sqkm= square kilometre{{!}}km²
+|sqmi= square mile{{!}}sq&amp;nbsp;mi
+|sqnmi=square nautical mile{{!}}sq&amp;nbsp;nmi
+|ft:s|ft/s= feet per second{{!}}ft/s
+|mi:h|mi/h|mph= miles per hour{{!}}mph
+|knot|kt= knot (speed){{!}}kt
+|m:s|m/s=  metre per second{{!}}m/s
+|km:h|kph|km/h= kilometres per hour{{!}}km/h
+|°C|C=   Celsius{{!}}°C
+|°F|F=   Fahrenheit{{!}}°F
+|K=Kelvin{{!}}K
+|°R|R=   Rankine{{!}}°R
+|lb=   pound{{!}}lb
+|kg=   kilogram{{!}}kg
+}}]]|={{#switch:{{{3|}}}
+|AU=   AU
+|ft=   ft
+|yd=   yd
+|in=   in
+|mm=   mm
+|cm=   cm
+|m=m
+|km=   km
+|mi=   mi
+|nmi=  nmi
+|acre= {{#ifeq:{{{sing}}}|on|acre|acres}}
+|ha=   ha
+|sqft= sq&amp;nbsp;ft
+|sqyd= sq&amp;nbsp;yd
+|sqm=  m²
+|sqkm= km²
+|sqmi= sq&amp;nbsp;mi
+|sqnmi=sq&amp;nbsp;nmi
+|ft:s|ft/s= ft/s
+|mi:h|mi/h|mph= mph
+|knot|kt= kt
+|m:s|m/s=  m/s
+|km:h|kph|km/h= km/h
+|°C|C=   °C
+|°F|F=   °F
+|K=K
+|°R|R=   °R
+|lb= lb
+|kg= kg
+}}}}{{#switch:{{{disp|}}}|s=|/=|slash=|=)}}&lt;/includeonly&gt;&lt;noinclude&gt;{{pp-template|small=yes}}{{esoteric}}
+{{template doc}}
+&lt;!-- Add cats and interwikis to the /doc subpage, not here! --&gt;
+&lt;/noinclude&gt;

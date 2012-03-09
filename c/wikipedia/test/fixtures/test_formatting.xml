@@ -1,0 +1,27 @@
+<mediawiki>
+  <page>
+    <title>Textman</title>
+    <id>43715</id>
+    <revision>
+      <id>244657982</id>
+      <timestamp>2008-10-11T22:25:17Z</timestamp>
+      <contributor>
+        <username>S711</username>
+        <id>4257015</id>
+      </contributor>
+      <minor />
+      <comment>wikif.</comment>
+      <text xml:space="preserve">
+'''Bold'''
+''Italic''
+'''''Bold Italic'''''
+''End at the new line
+No more italics ''' bold til end
+&lt;small&gt;Small Formatting&lt;/small&gt;
+&lt;big&gt;Big Formatting&lt;/big&gt;
+&lt;br /&gt;
+This text is &lt;center&gt;Centered Text&lt;/center&gt; and this is no longer centered
+</text>
+    </revision>
+  </page>
+</mediawiki>

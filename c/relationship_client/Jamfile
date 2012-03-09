@@ -1,0 +1,9 @@
+project rc
+  : requirements <include>/usr/local/include/boost-1_35/ <library>/types
+  : usage-requirements <include>. ;
+
+# My Libs
+lib relationship_client : relationship_client.cpp /hash_fns ;
+
+# Unit Tests
+unit-test test_relationship_client : test_relationship_client.cpp relationship_client : <link>static ;

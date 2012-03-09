@@ -1,0 +1,40 @@
+def build(bld):
+  bld(
+    name = 'graph',
+    features = 'cxx cshlib',
+    source = """
+      sparse_graph.cpp
+    """,
+    target = 'graph',
+    cxxflags = '-fPIC',
+    uselib_local = ['benchmark','hash_fns'],
+    uselib = 'TOKYOCABINET PILLOWTALK',
+    export_incdirs = '.'
+  )
+
+  bld(
+    name = 'graph_console',
+    features = 'cxx cprogram',
+    source = """
+      sparse_graph.cpp
+      sparse_graph_console.cpp
+    """,
+    cxxflags = '-fPIC',
+    target = 'sparse_graph_console',
+    uselib_local = ['benchmark','hash_fns', 'graph'],
+    uselib = 'TOKYOCABINET PILLOWTALK'
+  )
+
+
+  bld(
+    name = 'graph_controller',
+    features = 'cxx cshlib',
+    source = """
+      sparse_graph.cpp
+      sparse_graph_controller.cpp
+    """,
+    target = 'sparse_graph_controller',
+    after = 'chibi_lib',
+    uselib_local = ['hash_fns','benchmark','chibi_lib','graph'],
+    uselib = 'TOKYOCABINET PILLOWTALK'
+  )

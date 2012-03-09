@@ -1,0 +1,71 @@
+{{Taxobox
+| color = yellow
+| name = Amoeboid
+| image = Chaos diffluens.jpg
+| image_width = 300px
+| subdivision_ranks = Classes and subclasses
+| subdivision = 
+Class [[Pseudopod|Lobose pseudopod]]s&lt;br&gt;
+&amp;nbsp;Amoebozoa&lt;br&gt;
+&amp;nbsp;Percolozoa&lt;br&gt;
+Class [[Pseudopod|Filose pseudopod]]s&lt;br&gt;
+&amp;nbsp;Cercozoa&lt;br&gt;
+&amp;nbsp;Vampyrellids&lt;br&gt;
+&amp;nbsp;Nucleariids&lt;br&gt;
+Class [[Pseudopod|Reticulose pseudopod]]s&lt;br&gt;
+&amp;nbsp;Foraminifera&lt;br&gt;
+&amp;nbsp;Gymnophryids&lt;br&gt;
+Class [[Pseudopod|Actinopod]]s&lt;br&gt;
+&amp;nbsp;Radiolaria&lt;br&gt;
+&amp;nbsp;Heliozoa&lt;br&gt;
+}}
+[[Image:live_Ammonia_tepida.jpg|thumb|Foraminiferan (''Ammonia tepida'')]]
+[[Image:Actinophrys sol.jpg|thumb|Heliozoan (''Actinophrys sol'')]]
+'''Amoeboids''' are [[unicellular]] lifeforms that mainly consist of [[contractile vacuoles]], a [[Cell nucleus|nucleus]], and cytoplasm as their basic structure. They move and feed by means of temporary cytoplasmic projections, called [[pseudopod]]s (false feet). They have appeared in a number of different groups. Some cells in multicellular animals may be amoeboid, for instance human [[white blood cell]]s, which consume pathogens. Many [[protist]]s also exist as individual amoeboid cells, or take such a form at some point in their life-cycle. The most famous such organism is ''[[Amoeba|Amoeba proteus]]''; the name amoeba is variously used to describe its close relatives, other organisms similar to it, or the amoeboids in general.
+
+==Morphological categories==
+Amoeboids may be divided into several morphological categories based on the form and structure of the pseudopods. Those where the pseudopods are supported by regular arrays of [[microtubule]]s are called actinopods, and forms where they are not are called rhizopods, further divided into lobose, filose, and reticulose amoebae. There is also a strange group of giant marine amoeboids, the [[xenophyophore]]s, that do not fall into any of these categories.
+
+* Lobose pseudopods
+:Lobose pseudopods are blunt, and there may be one or several on a cell, which is usually divided into a layer of clear ectoplasm surrounding more granular endoplasm. Most, including ''Amoeba'' itself, move by the body mass flowing into an anterior pseudopod. The vast majority form a monophyletic group called the [[Amoebozoa]], which also includes most [[slime mold]]s. A second group, the [[Percolozoa]], includes protists that can transform between amoeboid and [[flagellate]] forms.
+
+* Filose pseudopods
+:Filose pseudopods are narrow and tapering. The vast majority of filose amoebae, including all those that produce shells, are placed within the [[Cercozoa]] together with various flagellates that tend to have amoeboid forms. The naked filose amoebae comprise two other groups, the [[vampyrellid]]s and [[nucleariid]]s. The latter appear to be close relatives of [[animal]]s and [[fungus|fungi]].
+
+* Reticulose pseudopods
+:Reticulose pseudopods are cytoplasmic strands that branch and merge to form a net. They are found most notably among the [[Foraminifera]], a large group of marine protists that generally produce multi-chambered shells. There are only a few sorts of naked reticulose amoeboids, notably the [[gymnophryid]]s, and their relationships are not certain.
+
+* Actinopods
+:Actinopods are divided into the [[radiolaria]] and [[heliozoa]]. The radiolaria are mostly marine protists with complex internal skeletons, including central capsules that divide the cells into granular endoplasm and frothy ectoplasm that keeps them buoyant. The heliozoa include both freshwater and marine forms that use their axopods to capture small prey, and only have simple scales or spines for skeletal elements. Both groups appear to be [[polyphyletic]].
+
+However, amoeboids have appeared separately in many other groups, including various different lines of algae not listed above.
+
+* Subphylum Sarcodina
+:Sarcodina is a subphylum of the phylum [[Sarcomastigophora]], of unicellular life forms that move by cytoplasmic flow. Some species use cytoplasmic extensions called [[pseudopodia]] for locomotion or feeding. The subphylum includes such protozoa as the common [[amoeba]] and the [[Foraminifera]] and [[Radiolaria]]. Most members of the subphylum reproduce asexually through fission, although some reproduce sexually. Sarcodina is sometimes subdivided into two classes - [[Rhizopoda]] and [[Actinopoda]].
+
+==External links==
+* [http://www.bms.ed.ac.uk/research/others/smaciver/amoebae.htm The Amoebae] website brings together information from published sources.
+* [http://www.microscopy-uk.org.uk/mag/wimsmall/sundr.html Amoebas are more than just blobs]
+* [http://www.microscopy-uk.org.uk/mag/indexmag.html?http://www.microscopy-uk.org.uk/mag/wimsmall/sundr.html sun animacules and amoebas]
+*[http://micro.magnet.fsu.edu/moviegallery/pondscum/protozoa/amoeba/index.html Molecular Expressions Digital Video Gallery: Pond Life - Amoeba (Protozoa)] Some good, informative Amoeba videos.
+* [http://www.bairbrepaws.com/psneeley/FwrPLA.htm Joseph Leidy's Amoeba Plates]
+
+[[Category:Protista]]
+[[Category:Cell biology]]
+[[Category:Ameboids| ]]
+[[Category:Motile cells]]
+
+[[cs:Kořenonožci]]
+[[de:Wurzelfüßer]]
+[[et:Juurjalgsed]]
+[[es:Rizópodo]]
+[[eu:Rhizopoda]]
+[[fr:Rhizopoda]]
+[[lt:Ameboidai]]
+[[nl:Wortelpotigen]]
+[[ja:肉質虫]]
+[[pl:Korzenionóżki]]
+[[ru:Корненожки]]
+[[sv:Amöbadjur]]
+[[vi:Trùng chân giả]]
+[[tr:Kökbacaklılar]]

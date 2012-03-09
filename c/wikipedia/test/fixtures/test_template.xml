@@ -1,0 +1,17 @@
+<mediawiki>
+  <page>
+    <title>Textman</title>
+    <id>43715</id>
+    <revision>
+      <id>244657982</id>
+      <timestamp>2008-10-11T22:25:17Z</timestamp>
+      <contributor>
+        <username>S711</username>
+        <id>4257015</id>
+      </contributor>
+      <minor />
+      <comment>wikif.</comment>
+      <text xml:space="preserve">{{disambig}}{{advanced infobox|curtis=spencer|normal|link=This is a [[link|name]]|image=[[Image:Blah.jpg]]}}{{IPA-en|ˈmɑrz|}}</text>
+    </revision>
+  </page>
+</mediawiki>

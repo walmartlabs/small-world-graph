@@ -1,0 +1,51 @@
+<mediawiki>
+  <page>
+    <title>Textman</title>
+    <id>43715</id>
+    <revision>
+      <id>244657982</id>
+      <timestamp>2008-10-11T22:25:17Z</timestamp>
+      <contributor>
+        <username>S711</username>
+        <id>4257015</id>
+      </contributor>
+      <minor />
+      <comment>wikif.</comment>
+      <text xml:space="preserve">
+{| border=&quot;1&quot; cellspacing=&quot;0&quot; align=&quot;right&quot; cellpadding=&quot;2&quot; style=&quot;margin-left:1em&quot;
+|-
+! bgcolor=gray | Atom
+|-
+| align=&quot;center&quot; | [[Image:Helium atom with charge-smaller.jpg| align center | Model of the atom - 3-D Helium atom - ground state]]
+|-
+| align=&quot;center&quot; | '''Helium atom model'''&lt;br&gt;Showing nucleus with two protons (blue) &lt;br&gt;and two neutrons (red), &lt;br&gt;orbited by two electrons (waves).
+|-
+! bgcolor=gray | Classification
+|-
+|
+{| align=&quot;center&quot;
+|-
+| Smallest recognised division of a [[chemical element]]
+|}
+|-
+|
+|-
+! bgcolor=gray | Properties
+|-
+|
+|-
+|
+{| align=&quot;center&quot;
+|-
+| [[atomic mass|Mass]]: ||  1.66 x 10(−27) to 4.52 x 10(−25) [[kg]]
+|-
+| [[Electric charge]]: || zero
+|-
+| Diameter:
+| [[1 E-11 m|10 pm]] to [[1 E-10 m|100 pm]]
+|}
+|}
+      </text>
+    </revision>
+  </page>
+</mediawiki>

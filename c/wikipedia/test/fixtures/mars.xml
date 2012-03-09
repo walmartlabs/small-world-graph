@@ -1,0 +1,317 @@
+<mediawiki>
+  <page>
+    <title>Mars</title>
+    <id>515</id>
+    <revision>
+      <id>1806402</id>
+      <timestamp>2009-10-27T03:52:46Z</timestamp>
+      <contributor>
+        <username>Bsadowski1</username>
+        <id>48755</id>
+      </contributor>
+      <minor />
+      <comment>Reverted changes by [[Special:Contributions/210.15.244.100|210.15.244.100]] ([[User talk:210.15.244.100|talk]]) to last version by Bsadowski1</comment>
+      <text xml:space="preserve">{{for|other uses see|Mars (disambiguation)}}
+{{Infobox Planet
+| bgcolour = #E8AB79
+| name = Mars
+| symbol = [[File:Mars symbol.svg|25px|Astronomical symbol of Mars]]
+| image = [[File:Mars Hubble.jpg|240px|The planet Mars]]
+| caption = Mars as seen by the [[Hubble Space Telescope]]
+| orbit_ref =
+&lt;ref name=horizons&gt;{{cite web
+ | last = Yeomans | first = Donald K. | date = 2006-07-13
+ | url = http://ssd.jpl.nasa.gov/?horizons
+ | title = HORIZONS System | publisher = NASA JPL
+ | accessdate = 2007-08-08 }}—At the site, go to the &quot;web interface&quot; then select &quot;Ephemeris Type: ELEMENTS&quot;, &quot;Target Body: Mars&quot; and &quot;Center: Sun&quot;.&lt;/ref&gt;
+| epoch = [[J2000]]
+| aphelion = 249,209,300 km&lt;br /&gt;
+1.665&amp;nbsp;861 [[Astronomical unit|AU]]
+| perihelion = 206,669,000 km&lt;br /&gt;
+1.381&amp;nbsp;497 AU
+| semimajor = 227,939,100 km&lt;br /&gt;
+1.523&amp;nbsp;679 AU
+| eccentricity = 0.093&amp;nbsp;315
+| period = 686.971 day&lt;br /&gt;
+1.8808 [[julian year (astronomy)|Julian years]]&lt;br /&gt;
+668.5991 [[Timekeeping on Mars|sols]]
+| synodic_period = 779.96 day&lt;br /&gt;
+2.135 Julian years
+| avg_speed = 24.077 km/s
+| inclination = 1.850° to [[ecliptic]]&lt;br /&gt;5.65° to [[Sun]]'s [[equator]]&lt;br&gt;1.67° to [[invariable plane]]&lt;ref name=meanplane&gt;{{cite web
+  |date=2009-04-03
+  |title=The MeanPlane (Invariable plane) of the Solar System passing through the barycenter
+  |url=http://home.comcast.net/~kpheider/MeanPlane.gif
+  |accessdate=2009-04-10}} (produced with [http://chemistry.unina.it/~alvitagl/solex/ Solex 10] written by Aldo Vitagliano; see also [[invariable plane]])&lt;/ref&gt;
+| asc_node = 49.562°
+| arg_peri = 286.537°
+| satellites = 2
+| physical_characteristics = yes
+| equatorial_radius = 3,396.2 ± 0.1&amp;nbsp;km{{Ref label|A|a|none}}&lt;ref name=Seidelmann2007&gt;{{cite journal
+ | last= Seidelmann| first= P. Kenneth
+ | coauthors= Archinal, B. A.; A'hearn, M. F.; et al.
+ | title= Report of the IAU/IAG Working Group on cartographic coordinates and rotational elements: 2006
+ | journal= Celestial Mechanics and Dynamical Astronomy
+ | volume=98 | issue=3 | pages=155–180 | year=2007
+ | doi=10.1007/s10569-007-9072-y
+ | url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y
+ | accessdate=2007-08-28 }}&lt;/ref&gt;&lt;br /&gt;
+0.533 Earths
+| polar_radius = 3,376.2 ± 0.1&amp;nbsp;km{{Ref label|A|a|none}}&lt;ref name=Seidelmann2007/&gt;&lt;br /&gt;
+0.531 Earths
+| flattening = 0.005&amp;nbsp;89 ± 0.000&amp;nbsp;15 &lt;!-- calculated from data in ref name=Seidelmann2007 --&gt;
+| surface_area = 144,798,500&amp;nbsp;km²&lt;br /&gt;
+0.284 Earths
+| volume = 1.6318{{e|11}} km³&lt;br /&gt;
+0.151 Earths
+| mass = 6.4185{{e|23}} kg&lt;br /&gt;
+0.107 Earths
+| density = 3.934 g/cm³
+| surface_grav = 3.69 [[Acceleration|m/s²]]&lt;br /&gt;
+0.376 ''[[g-force|g]]''
+| escape_velocity = 5.027 km/s
+| sidereal_day = 1.025&amp;nbsp;957 day&lt;br /&gt;
+ 24.622&amp;nbsp;96 h&lt;ref name=nasa/&gt;
+| rot_velocity = {{convert|868.22|km/h|m/s|abbr=on}}
+| axial_tilt = 25.19°
+| right_asc_north_pole = 21 h 10 min 44 s&lt;br /&gt;
+317.681&amp;nbsp;43°
+| declination = 52.886&amp;nbsp;50°
+| albedo = 0.15 ([[Geometric albedo|geometric]]) or 0.25 ([[Bond albedo|bond]])
+| magnitude = +1.8 to −2.91
+| angular_size = 3.5—25.1&quot;
+| temperatures = yes
+| temp_name1 = [[Kelvin]]
+| min_temp_1 = 186&amp;nbsp;K
+| mean_temp_1 = 227&amp;nbsp;K
+| max_temp_1 = 268&amp;nbsp;K&lt;ref name=nasa&gt;{{cite web
+ | title = Mars: Facts &amp; Figures
+ | publisher = NASA
+ | url = http://solarsystem.jpl.nasa.gov/planets/profile.cfm?Object=Mars&amp;Display=Facts&amp;System=Metric
+ | accessdate = 2007-03-06 }}&lt;/ref&gt;
+| temp_name2 = [[Celsius]]
+| min_temp_2 = −87&amp;nbsp;°C
+| mean_temp_2 = −46&amp;nbsp;°C
+| max_temp_2 = −5&amp;nbsp;°C
+| pronounce =  {{IPA-en|ˈmɑrz|}}
+| adjectives = [[Martian]]
+| atmosphere = yes
+| surface_pressure = 0.6–1.0 [[Pascal (unit)|kPa]]
+| atmosphere_density =
+| atmosphere_composition = 95.72% [[Carbon dioxide]]&lt;br /&gt;
+2.7% [[Nitrogen]]&lt;br /&gt;
+1.6% [[Argon]]&lt;br /&gt;
+0.2% [[Oxygen]]&lt;br /&gt;
+0.07% [[Carbon monoxide]]&lt;br /&gt;
+0.03% [[Water]] vapor&lt;br /&gt;
+0.01% [[Nitric oxide]]&lt;br /&gt;
+2.5 [[Parts per million|ppm]] [[Neon]]&lt;br /&gt;
+300 [[Parts per billion|ppb]] [[Krypton]]&lt;br /&gt;
+130 ppb [[Formaldehyde]]&lt;br /&gt;
+80 ppb [[Xenon]]&lt;br /&gt;
+30 ppb [[Ozone]]&lt;br /&gt;
+10 ppb [[Methane]]
+}}
+
+'''Mars''' is the fourth [[planet]] from the [[Sun]] in our [[Solar System]].  Mars is named after the [[mythology|mythological]] [[Roman]] [[Deity|god]] of [[war]] because it is a red planet, and red is the [[colour]] of [[blood]].
+
+== Appearance ==
+[[File:Mars rocks.jpg|thumb|left|Surface with rocks everywhere photographed by [[Mars Pathfinder]]]]
+Mars has two very small [[moon]]s, called [[Phobos (moon)|Phobos]] and [[Deimos (moon)|Deimos]]. The planet Mars is made of [[mineral|rock]]. The ground there is [[red]] because of [[iron oxide]] (rust) in the rocks and [[dust]].&lt;ref&gt;{{cite web|url=http://web.archive.org/web/20080106181124/http://erc.arc.nasa.gov/MarsVolc/basalt.htm|title=NASA Mars Page|work=Volcanology of Mars (Retrieved via the [[Internet Archive]])|accessdate=2009-05-13}}&lt;/ref&gt; The planet has a small [[carbon dioxide]] [[atmosphere]]. The [[temperature]]s on Mars are colder than on Earth, because it is farther away from the Sun. There is some ice at the north and south [[pole]]s of Mars, and also frozen carbon dioxide. Mars does not have any [[water]] on the surface now, except at the poles, but most scientists think it used to have water.
+
+The average [[thick]]ness of the planet's crust is about 50&amp;nbsp;km (31&amp;nbsp;mi), with a maximum thickness of 125&amp;nbsp;km (78&amp;nbsp;mi).&lt;ref&gt;{{cite news |author = Dave Jacqué |url = http://www.anl.gov/Media_Center/News/2003/030926mars.htm |title = APS X-rays reveal secrets of Mars' core | publisher = Argonne National Laboratory | date = 2003-09-26 | accessdate = 2006-07-01 | language = English }}&lt;/ref&gt; Earth's crust, on average 40&amp;nbsp;km (25&amp;nbsp;mi), is three times smaller as Mars’ crust based to the sizes of the two planets if they are made [[equal]].
+
+== History of Mars ==
+
+Mars has been known since old times. The Greeks named this planet Ares, after their god of war, but when the Romans took over the Greeks, they named the planet Mars.
+
+Some of the first attempts at mapping Mars were done by Giovanni Schiaparelli. What he saw through his telescope confused him. He saw what he called ''canali'', which were ditches dug for water to pass through. This started a rumor that there were other animals and life on Mars, possibly even aliens. Today, we know there cannot be any such aliens.This is because the crafts sent to Mars have detected no trace of alien life, and what could have been bacteria were formed at temperatures too high for life to exist.
+
+== Life, climate and atmosphere of Mars ==
+Because Mars is the closest to the [[Earth]] in the [[Solar System]], people have wondered if there is any kind of [[life]] on Mars. Mars has the most similar seasons to Earth of all the planets in our [[Solar System]]. It also has a very similar tilt in its axis of 25 degree angle. However, since Mars is farther than the Earth from the sun, the seasons of this planet last longer than those of Earth. As a result, a year in Mars is longer than a year in Earth.
+The atmosphere of Mars is much thinner than Earth’s. Amazingly, surface temperatures can range from -115°C at the winter pole to 0°C on the dayside during summertime.
+
+== Popular culture ==
+Some famous stories were written about this idea. The writers used the name &quot;Martians&quot; for [[intelligent]] [[being]]s from Mars. In 1898 [[H. G. Wells]] wrote ''The War of the Worlds'', a famous [[novel]] about Martians attacking the Earth. In 1938, [[Orson Welles]] broadcast a [[radio]] version of this story in the [[United States]], and many people thought it was really happening and were very afraid. Beginning in 1912, [[Edgar Rice Burroughs]] wrote several novels about adventures on Mars.
+
+== Today ==
+As of March 2008, scientists have not found life on Mars, either living now or [[extinct]]. Several [[space probe]]s without people have gone to Mars to study it. Some have [[orbit]]ed (gone around) the planet, and some have landed on it. There are pictures of the surface of Mars that were sent back to Earth by some of these probes. Some people are interested in sending [[astronaut]]s to visit Mars. This would be difficult. The astronauts would be in space for many years, and it could be very dangerous because of [[radiation]] from the sun.
+
+== References ==
+&lt;references/&gt;
+
+== Other websites ==
+{{commonscat|Mars}}
+{{sisterlinks|Mars}}
+*[http://space.wikia.com/wiki/Mars Mars] at Space Wiki
+*[http://www.spacetelescope.org/images/archive/freesearch/MARS/viewall/1 Mars at ESA/Hubble]
+*[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Mars Mars Profile] by [http://solarsystem.nasa.gov/ NASA's Solar System Exploration]
+*[http://space.about.com/cs/solarsystem/p/marsinfo.htm Mars] - About Space
+*[http://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html NASA's Mars fact sheet]
+*[http://www.sciencedaily.com/news/space_time/mars/ Mars Research News]
+*[http://www.projectshum.org/Planets/mars.html Planets - Mars] A kid's guide to Mars.
+
+{{Solar System}}
+{{Link FA|af}}
+{{Link FA|bg}}
+{{Link FA|cs}}
+{{Link FA|de}}
+{{Link FA|en}}
+{{Link FA|es}}
+{{Link FA|hr}}
+{{Link FA|kn}}
+{{Link FA|nl}}
+{{Link FA|pl}}
+{{Link FA|sk}}
+{{Link FA|sv}}
+{{Link FA|tr}}
+{{Link FA|yi}}
+
+[[Category:Mars]]
+[[Category:Planets]]
+[[Category:Solar System]]
+[[Category:Terrestrial planets]]
+
+[[af:Mars (planeet)]]
+[[als:Mars (Planet)]]
+[[ang:Tīƿ (planēta)]]
+[[ar:المريخ]]
+[[an:Marte (planeta)]]
+[[frp:Mârs (planèta)]]
+[[ast:Marte (planeta)]]
+[[az:Mars (planet)]]
+[[bn:মঙ্গল গ্রহ]]
+[[zh-min-nan:Hoé-chheⁿ]]
+[[be:Планета Марс]]
+[[be-x-old:Марс (плянэта)]]
+[[bar:Mars]]
+[[bs:Mars]]
+[[br:Meurzh (planedenn)]]
+[[bg:Марс (планета)]]
+[[ca:Mart (planeta)]]
+[[cv:Марс (планета)]]
+[[ceb:Mars]]
+[[cs:Mars (planeta)]]
+[[co:Marte]]
+[[cy:Mawrth (planed)]]
+[[da:Mars (planet)]]
+[[de:Mars (Planet)]]
+[[nv:Máaz]]
+[[et:Marss]]
+[[el:Άρης (πλανήτης)]]
+[[en:Mars]]
+[[es:Marte (planeta)]]
+[[eo:Marso (planedo)]]
+[[eu:Marte]]
+[[fa:بهرام (سیاره)]]
+[[fo:Mars (planet)]]
+[[fr:Mars (planète)]]
+[[fy:Mars]]
+[[ga:Mars (pláinéad)]]
+[[gv:Mart (planaid)]]
+[[gd:Corg]]
+[[gl:Marte]]
+[[gan:火星]]
+[[gu:મંગળ (ગ્રહ)]]
+[[hak:Fó-sên]]
+[[ko:화성]]
+[[haw:Hōkū‘ula]]
+[[hy:Հրատ]]
+[[hi:मंगल ग्रह]]
+[[hr:Mars (planet)]]
+[[io:Marso]]
+[[ilo:Mars (planeta)]]
+[[id:Mars]]
+[[ia:Marte (planeta)]]
+[[ie:Mars]]
+[[os:Марс (планетæ)]]
+[[is:Mars (reikistjarna)]]
+[[it:Marte (astronomia)]]
+[[he:מאדים]]
+[[jv:Mars]]
+[[kn:ಮಂಗಳ (ಗ್ರಹ)]]
+[[pam:Mars]]
+[[ka:მარსი (პლანეტა)]]
+[[csb:Mars]]
+[[kk:Қызылжұлдыз]]
+[[kw:Meurth (planet)]]
+[[sw:Mirihi]]
+[[ht:Mas (planèt)]]
+[[ku:Behram (gerstêrk)]]
+[[la:Mars (planeta)]]
+[[lv:Marss (planēta)]]
+[[lb:Mars (Planéit)]]
+[[lt:Marsas (planeta)]]
+[[lij:Marte (astronomia)]]
+[[li:Mars (planeet)]]
+[[jbo:mars]]
+[[hu:Mars]]
+[[mk:Марс]]
+[[mg:Mars (fajiry)]]
+[[ml:ചൊവ്വ (ഗ്രഹം)]]
+[[mt:Marte (pjaneta)]]
+[[mr:मंगळ ग्रह]]
+[[arz:مريخ]]
+[[mzn:مریخ]]
+[[ms:Marikh]]
+[[mwl:Marte]]
+[[mn:Ангараг]]
+[[my:အင်္ဂါဂြိုဟ်]]
+[[nah:Chīchīlcītlalli]]
+[[nl:Mars (planeet)]]
+[[ne:मंगलग्रह]]
+[[ja:火星]]
+[[no:Mars (planet)]]
+[[nn:Planeten Mars]]
+[[nov:Mars (planete)]]
+[[oc:Mart (planeta)]]
+[[om:Mars]]
+[[uz:Mars]]
+[[pa:ਮੰਗਲ ਗ੍ਰਹਿ]]
+[[pms:Mart (pianeta)]]
+[[nds:Mars (Planet)]]
+[[pl:Mars]]
+[[pt:Marte (planeta)]]
+[[ksh:Mars (Planet)]]
+[[ro:Marte (planetă)]]
+[[rm:Mars (planet)]]
+[[qu:Awqakuq]]
+[[ru:Марс (планета)]]
+[[sah:Марс]]
+[[se:Mars]]
+[[sco:Maurs]]
+[[stq:Mars]]
+[[sq:Marsi]]
+[[scn:Marti (pianeta)]]
+[[sk:Mars]]
+[[sl:Mars]]
+[[szl:Mars]]
+[[ckb:مەریخ]]
+[[sr:Марс]]
+[[sh:Mars]]
+[[su:Mars]]
+[[fi:Mars]]
+[[sv:Mars (planet)]]
+[[tl:Marte]]
+[[ta:செவ்வாய் (கோள்)]]
+[[te:అంగారకుడు]]
+[[th:ดาวอังคาร]]
+[[tg:Миррих]]
+[[tr:Mars (gezegen)]]
+[[uk:Марс (планета)]]
+[[ur:مریخ]]
+[[ug:مارس]]
+[[vi:Sao Hỏa]]
+[[fiu-vro:Marss]]
+[[wa:Måss (planete)]]
+[[zh-classical:火星]]
+[[war:Mars]]
+[[wuu:火星]]
+[[yi:מאדים]]
+[[zh-yue:火星]]
+[[diq:Mars]]
+[[bat-smg:Marsos]]
+[[zh:火星]]</text>
+    </revision>
+  </page>
+</mediawiki>

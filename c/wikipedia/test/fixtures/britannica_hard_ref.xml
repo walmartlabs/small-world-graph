@@ -1,0 +1,19 @@
+<mediawiki>
+  <page>
+    <title>Addition</title>
+    <id>22</id>
+    <revision>
+      <id>1577598</id>
+      <timestamp>2009-06-08T17:15:07Z</timestamp>
+      <contributor>
+        <username>EhJJ</username>
+        <id>49567</id>
+      </contributor>
+      <minor />
+      <comment>Reverted 1 edit by [[Special:Contributions/206.209.103.67|206.209.103.67]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Gesslein|Gesslein]]. ([[WP:TW|TW]])</comment>
+      <text xml:space="preserve">
+&lt;ref&gt;{{cite encyclopedia |last=Krapp |first=Philip |coauthors=Balou, Patricia K. |year=1992 |title=Collier's Encyclopedia |volume=9 |pages=p. 135 |publisher=Macmillan Educational Company |location=[[New York City|New York]] |id= {{LCCN|91|0|61165}}}} Many people said that the first edition of the encyclopedia was very inaccurate, and had many problems in it.&lt;/ref&gt;
+      </text>
+    </revision>
+  </page>
+</mediawiki>

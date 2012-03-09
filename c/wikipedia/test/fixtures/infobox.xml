@@ -1,0 +1,57 @@
+<mediawiki>
+  <page>
+    <title>Bill Clinton</title>
+    <id>3356</id>
+    <revision>
+      <id>275413515</id>
+      <timestamp>2009-03-06T15:59:45Z</timestamp>
+      <contributor>
+        <username>Darkicebot</username>
+        <id>6100386</id>
+      </contributor>
+      <minor />
+      <comment>robot  Adding: [[bat-smg:Bill Clinton]] Modifying: [[uk:Білл Клінтон]]</comment>
+      <text xml:space="preserve">{{pp-semi-protected|small=yes}}{{pp-move-indef}}
+{{Infobox Officeholder
+|name          = Bill Clinton
+|image         = Bill Clinton.jpg
+|order         = [[List of Presidents of the United States|42nd]]
+|office        = President of the United States
+|term_start    = January 20, 1993
+|term_end      = January 20, 2001
+|vicepresident = [[Al Gore]]
+|predecessor   = [[George H. W. Bush]]
+|successor     = [[George W. Bush]]
+|order2        = 40th and 42nd
+|office2       = Governor of Arkansas
+|term_start2   = January 11, 1983
+|term_end2     = December 12, 1992
+|lieutenant2   = [[Winston Bryant]]&amp;nbsp;(1983-1991)&lt;br/&gt; [[Jim Guy Tucker]]&amp;nbsp;(1991-1992)
+|predecessor2  = [[Frank D. White]]
+|successor2    = [[Jim Guy Tucker]]
+|term_start3   = January 9, 1979
+|term_end3     = January 19, 1981
+|lieutenant3   = [[Joe Purcell]]
+|predecessor3  = [[Joe Purcell]]&amp;nbsp;(acting)
+|successor3    = [[Frank D. White]]
+|order4        = 50th
+|office4       = Arkansas Attorney General
+|term_start4   = January 3, 1977
+|term_end4     = January 9, 1979
+|predecessor4  = [[Jim Guy Tucker]]
+|successor4    = Steve Clark
+|birth_date    = {{birth date and age|mf=yes|1946|08|19}}
+|birth_place   = [[Hope, Arkansas]]
+|nationality   = [[United States|U.S. Citizen]]
+|party         = [[Democratic Party (United States)|Democratic]]
+|spouse        = [[Hillary Rodham Clinton]]
+|children      = [[Chelsea Clinton]]
+|occupation    = [[Lawyer]]
+|alma_mater    = [[Georgetown University]]&lt;br/&gt; [[University College, Oxford]]&lt;br/&gt; [[Yale Law School]]
+|religion      = [[Protestant Christianity]] ([[Southern Baptist]])
+|signature     = Signature of Bill Clinton.svg
+|website       = [http://www.clintonlibrary.gov/ William J. Clinton Presidential Library]
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

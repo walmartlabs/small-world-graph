@@ -1,0 +1,987 @@
+{{otheruses1|the U.S. State}}
+{{Infobox U.S. state
+|Name          = Alabama 
+|Fullname      = State of Alabama 
+|Flag          = Flag of Alabama.svg 
+|Flaglink      = [[Flag of Alabama]] 
+|Seal          = Alabama state seal.png 
+|Map           = Map of USA AL.svg 
+|Nickname      =  Yellowhammer State, Heart of Dixie 
+|Demonym       = Alabamian 
+|Motto         = [[Audemus jura nostra defendere]] 
+|Capital       = [[Montgomery, Alabama|Montgomery]] 
+|OfficialLang  = [[English language|English]] 
+|Languages     = [[English language|English]] (96.17%)&lt;br/&gt;[[Spanish language|Spanish]] (2.12%)
+|LargestMetro  = [[Birmingham-Hoover-Cullman Combined Statistical Area|Greater Birmingham Area]]
+|LargestCity   = [[Birmingham, Alabama|Birmingham]]&lt;br/&gt;229,424 &lt;small&gt;(2006 estimate)&lt;ref name=&quot;popest&quot;&gt;{{cite web |date=June 28, 2007 |url=http://www.census.gov/popest/cities/tables/SUB-EST2006-04-01.csv |title=Annual Estimates of the Population for Incorporated Places in Alabama, Listed Alphabetically: April 1, 2000 to July 1, 2006 |format=[[Comma-separated values|CSV]] |work=2007 Population Estimates |publisher=U.S. Census Bureau, Population Division |accessdate=2007-06-28}}&lt;/ref&gt;&lt;/small&gt; 
+|Governor      = [[Bob R. Riley|Robert R. Riley]] ([[Republican Party (United States)|R]])
+|Lieutenant Governor = [[Jim Folsom, Jr.]] ([[Democratic Party (United States)|D]]) 
+|Senators      = [[Richard Shelby]] (R)&lt;br/&gt;[[Jeff Sessions]] (R) 
+|TradAbbreviation = Ala. 
+|PostalAbbreviation = AL 
+|AreaRank      = 30th 
+|TotalArea     = 135,765 
+|TotalAreaUS   = 52,419 
+|LandArea      = 131,426 
+|LandAreaUS    = 50,744 
+|WaterArea     = 4,338 
+|WaterAreaUS   = 1,675 
+|PCWater       = 3.20 
+|PopRank       = 23rd 
+|2000Pop(old)  = 4,447,100
+|2000Pop       = 4,627,851 (2007 est.)&lt;ref&gt;http://www.census.gov/popest/states/NST-ann-est.html 2007 Population Estimates&lt;/ref&gt;
+|DensityRank   = 27&lt;sup&gt;th&lt;/sup&gt;
+|2000Density   = 33.84 
+|2000DensityUS = 84.83 
+|AdmittanceOrder = 22nd 
+|AdmittanceDate  = December 14, 1819 
+|TimeZone      = [[Central Standard Time Zone|Central]]: [[Coordinated Universal Time|UTC]]-6/[[Daylight saving time|DST]]-5 
+|Latitude      = 30°&amp;#8202;11′ N to 35° N 
+|Longitude     = 84°&amp;#8202;53′ W to 88°&amp;#8202;28′ W 
+|Width         = 306 
+|WidthUS       = 190 
+|Length        = 531 
+|LengthUS      = 330 
+|LargestCounty = [[Baldwin County, Alabama| Baldwin County]] 
+|HighestPoint  = [[Mount Cheaha]]&lt;small&gt;&lt;ref name=&quot;usgs&quot;&gt;{{cite web |date=April 29, 2005 |url=http://erg.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html#Highest |title=Elevations and Distances in the United States |publisher=U.S Geological Survey |accessmonthday=November 3 |accessyear=2006}}&lt;/ref&gt;&lt;/small&gt; 
+|HighestElev   = 734 
+|HighestElevUS = 2,407 
+|MeanElev      = 152 
+|MeanElevUS    = 499 
+|LowestPoint   = [[Gulf of Mexico]]&lt;ref name=&quot;usgs&quot;/&gt;
+|LowestElev    = 0 
+|LowestElevUS  = 0 
+|ISOCode       = US-AL 
+|Website       = www.alabama.gov
+}}
+{{Infobox U.S. state symbols
+|Name      = Alabama
+|Amphibian = [[Red Hills salamander]]
+|Bird      = [[Yellowhammer]], [[Wild Turkey]]
+|Butterfly = [[Eastern Tiger Swallowtail]]
+|Fish      = [[Largemouth bass]], [[Atlantic tarpon|Fighting tarpon]]
+|Flower    = [[Camellia]], [[Hydrangea quercifolia|Oak-leaf Hydrangea]]
+|Insect    = [[Monarch Butterfly]]
+|Mammal    = [[American Black Bear]], [[Racking horse]]
+|Reptile   = [[Alabama red-bellied turtle]]
+|Tree      = [[Longleaf Pine]]
+|Beverage  = [[Conecuh Ridge Whiskey]]
+|Colors    = [[Red]], [[White]]
+|Dance     = [[Square Dance]]
+|Food      = [[Pecan]], [[Blackberry]], [[Peach]]
+|Fossil    = [[Basilosaurus]]
+|Gemstone  = [[Star Blue Quartz]]
+|Mineral   = [[Hematite]]
+|StateRock = [[Marble]]
+|Shell     = [[Johnstone's Junonia]]
+|Slogan    = ''Share The Wonder'',&lt;br&gt;''Alabama the beautiful'',&lt;br&gt;''Where America finds its voice''
+|Soil      = [[Bama (soil)|Bama]]
+|Song      = ''[[Alabama (song)|Alabama]]''
+|Route Marker = Alabama 67.svg
+|Quarter   = 2003 AL Proof.png
+|QuarterReleaseDate = 2003
+}}
+
+'''Alabama''' (formally, the '''State of Alabama'''; {{Audio-IPA|en-us-Alabama.ogg|/ˌæləˈbæmə/}}) is a [[state]] located in the [[Southern United States|southern region]] of the [[United States|United States of America]]. It is bordered by [[Tennessee]] to the north, [[Georgia (U.S. state)|Georgia]] to the east, [[Florida]] and the [[Gulf of Mexico]] to the south, and [[Mississippi]] to the west. Alabama ranks 30th in total land area and ranks second in the size of its inland waterways. The state ranks 23rd in population with almost 4.6&amp;nbsp;million residents in 2006.&lt;ref&gt;{{cite web |url=http://quickfacts.census.gov/qfd/states/01000.html census.gov |title=Alabama Quick Facts |accessdate=2007-09-08 |work=State and County Quick Facts |publisher=U.S. Census Bureau}}&lt;/ref&gt; 
+
+From the [[American Civil War]] until [[World War II]], Alabama, like many Southern States, suffered economic hardship, in part because of continued dependence on agriculture. White rural interests dominated the state legislature until the 1960s, while urban interests were underrepresented.&lt;ref name = &quot;pjhwpa&quot;&gt;[http://elections.gmu.edu/Redistricting/AL.htm George Mason University, United States Election Project: Alabama Redistricting Summary, accessed March 10, 2008]&lt;/ref&gt; In the years following [[World War II]], Alabama experienced significant recovery as the economy of the state transitioned from agriculture to diversified interests in heavy manufacturing, mineral extraction, education, and high technology, as well as the establishment or expansion of multiple military installations, primarily those of the [[U.S. Army]] and [[U.S. Air Force]]. Today, the state is heavily invested in aerospace, education, health care, and banking, and various heavy industries including automobile manufacturing, mineral extraction, steel production and fabrication.
+
+Alabama is unofficially nicknamed the ''[[Northern Flicker#Alabama|Yellowhammer]] State'', which is also the name of the [[List of U.S. state birds|state bird]]. Alabama is also known as the &quot;[[Dixie|Heart of Dixie]]&quot;. The [[List of U.S. state trees|state tree]] is the [[Longleaf Pine]], the [[List of U.S. state flowers|state flower]] is the [[Camellia]]. The capital of Alabama is [[Montgomery, Alabama|Montgomery]], and the largest city by population is [[Birmingham, Alabama|Birmingham]]. The largest city by total land area is [[Huntsville, Alabama|Huntsville]]. The oldest city is [[Mobile, Alabama|Mobile]].
+
+==Etymology of state name==
+The [[Alabama (people)|Alabama]], a [[Muskogean]] tribe, which resided just below the confluence of the [[Coosa River|Coosa]] and [[Tallapoosa River]]s on the upper reaches of the [[Alabama River]],&lt;ref name=&quot;Read&quot;&gt;{{cite book |last=Read |first=William A. |title=Indian Place Names in Alabama |year=1984 |publisher=University of Alabama Press |isbn=0-8173-0231-X |oclc=10724679 |ISBN status=May be invalid - please double check}}&lt;/ref&gt; served as the [[etymology|etymological source]] of the names of the river and state. In the [[Alabama language]], the word for an Alabama person is ''Albaamo'' (or variously ''Albaama'' or ''Albàamo'' in different dialects; the plural form &quot;Alabama persons&quot; is ''Albaamaha'').&lt;ref&gt;{{cite book |author=Sylestine, Cora; Hardy; Heather; &amp; Montler, Timothy |title=Dictionary of the Alabama Language |publisher=University of Texas Press |location=Austin |year=1993 |isbn=0-292-73077-2 |url=http://www.ling.unt.edu/~montler/Alabama |oclc=26590560 |ISBN status=May be invalid - please double check }}&lt;/ref&gt;  The word ''Alabama'' is believed to have originated from the [[Choctaw language]]&lt;ref name=&quot;Rogers&quot;&gt;{{cite book |last=Rogers |first=William W.|coauthors=Robert D. Ward, Leah R. Atkins, Wayne Flynt|title=Alabama: the History of a Deep South State|year=1994|publisher=University of Alabama Press|isbn=0-8173-0712-5 |oclc=28634588 |ISBN status=May be invalid - please double check}}&lt;/ref&gt; and was later adopted by the Alabama tribe as their name.&lt;ref name=&quot;ADAH1&quot;&gt;{{cite web |url=http://www.archives.alabama.gov/statenam.html |title=Alabama: The State Name |accessdate=2007-08-02|work=All About Alabama |publisher=Alabama Department of Archives and History}}&lt;/ref&gt;  The spelling of the word varies significantly between sources.&lt;ref name=&quot;ADAH1&quot;/&gt;  The first usage appears in three accounts of the [[Hernando de Soto]] expedition of 1540 with Garcilasso de la Vega using ''Alibamo'' while the Knight of Elvas and Rodrigo Ranjel wrote ''Alibamu'' and ''Limamu'', respectively.&lt;ref name=&quot;ADAH1&quot;/&gt;  As early as 1702, the tribe was known to the French as ''Alibamon'' with French maps identifying the river as ''Rivière des Alibamons''.&lt;ref name=&quot;Read&quot;/&gt;  Other spellings of the appellation have included ''Alibamu'', ''Alabamo'', ''Albama'', ''Alebamon'', ''Alibama'', ''Alibamou'', ''Alabamu'', and ''Allibamou''.&lt;ref name=&quot;ADAH1&quot;/&gt;&lt;ref name=&quot;Wills&quot;&gt;{{cite book |last=Wills |first=Charles A.|title=A Historical Album of Alabama|year=1995|publisher=The Millbrook Press|isbn=1-56294-591-2 |oclc=32242468 |ISBN status=May be invalid - please double check}}&lt;/ref&gt;&lt;ref name=&quot;Griffith&quot;&gt;{{cite book |last=Griffith |first=Lucille|title=Alabama: A Documentary History to 1900|year=1972|publisher=University of Alabama Press|isbn=0-8173-0371-5 |oclc=17530914 |ISBN status=May be invalid - please double check}}&lt;/ref&gt;&lt;ref name=&quot;Weiss&quot;&gt;The use of state names derived from [[Indigenous languages of the Americas|Native American languages]] is common with an estimated 27 states having names of Native American origin. {{cite book |last=Weiss|first=Sonia|title=The Complete Idiot's Guide to Baby Names|year=1999|publisher=Mcmillan USA|isbn=0-02-863367-9 |oclc=222611214 |ISBN status=May be invalid - please double check}}&lt;/ref&gt;
+
+Although the origin of ''Alabama'' was evident, the meaning of the tribe's name was not always clear. An article without a [[byline]] appearing in the ''Jacksonville Republican'' on July 27, 1842 originated the idea that the meaning was &quot;Here We Rest.&quot;&lt;ref name=&quot;ADAH1&quot;/&gt; This notion was popularized in the 1850s through the writings of [[Alexander Beaufort Meek]].&lt;ref name=&quot;ADAH1&quot;/&gt;  Experts in the [[Muskogean languages]] have been unable to find any evidence that would support this translation.&lt;ref name=&quot;Read&quot;/&gt;&lt;ref name=&quot;ADAH1&quot;/&gt;  It is now generally accepted that the word comes from the Choctaw words ''alba'' (meaning &quot;plants&quot; or &quot;weeds&quot;) and ''amo'' (meaning &quot;to cut&quot;, &quot;to trim&quot;, or &quot;to gather&quot;).&lt;ref name=&quot;ADAH1&quot;/&gt;&lt;ref name=&quot;Rogers&quot;/&gt;&lt;ref name=&quot;Swanton1&quot;&gt;{{cite journal |last=Swanton |first=John R. |authorlink=John R. Swanton |year=1953 |title=The Indian Tribes of North America |journal=Bureau of American Ethnology Bulletin 145|pages=153–174|url=http://www.hiddenhistory.com/PAGE3/swsts/alabam-1.htm|accessdate=2007-08-02}}&lt;/ref&gt;  This results in translations such as &quot;clearers of the thicket&quot;&lt;ref name=&quot;Rogers&quot;/&gt; or even &quot;herb gatherers&quot;&lt;ref name=&quot;Swanton1&quot;/&gt;&lt;ref name=&quot;Swanton2&quot;&gt;{{cite journal |last=Swanton |first=John R. |authorlink=John R. Swanton |year=1937 |title=Review of Read, Indian Place Names of Alabama|journal=American Speech|pages=212–215|issue=12 |doi=10.2307/452431 |volume=12}}&lt;/ref&gt; which may refer to clearing of land for the purpose of planting crops&lt;ref name=&quot;Wills&quot;/&gt; or to collection of medicinal plants by [[medicine man|medicine men]].&lt;ref name=&quot;Swanton2&quot;/&gt;
+
+==History==
+{{main|History of Alabama}}
+Among the [[Native Americans in the United States|Native American]] people once living in the area of present day Alabama were [[Alabama (people)|Alabama]] (Alibamu), [[Cherokee]], [[Chickasaw]], [[Choctaw]], [[Creek people|Creek]], [[Koasati]], and [[Mobile (people)|Mobile]].&lt;ref&gt;{{cite web
+|url=http://www.accessgenealogy.com/native/alabama/
+|title=Alabama Indian Tribes
+|accessdate=2006-09-23
+|date=Updated 2006
+|work=Indian Tribal Records
+|publisher=AccessGenealogy.com}}&lt;/ref&gt; Trade with the Northeast via the [[Ohio River]] began during the Burial Mound Period (1000 BC-700 AD) and continued until [[European colonization of the Americas|European contact]].&lt;ref name=&quot;NewYorkTimesAlmanac&quot;&gt;{{cite web
+|url=http://travel2.nytimes.com/2004/07/15/travel/NYT_ALMANAC_US_ALABAMA.html
+|title=Alabama
+|accessdate=2006-09-23
+|date=[[2006-08-11]]
+|work=The New York Times Almanac 2004
+|publisher=The New York Times}}&lt;/ref&gt; The agrarian [[Mississippian culture]] covered most of the state from 1000 to 1600 AD, with one of its major centers being at the [[Moundville Archaeological Site]] in [[Moundville, Alabama]].&lt;ref&gt; {{cite book |  last = Welch | first = Paul D. |  title = Moundville's Economy | publisher = [[University of Alabama Press]] | date = 1991 |  isbn = 0817305122 |  oclc = 21330955 |  ISBN status = May be invalid - please double check |  unused_data = |ISBN status = May be invalid - please double check}}&lt;/ref&gt;&lt;ref&gt; {{cite book |  last = Walthall | first = John A. |  title = Prehistoric Indians of the Southeast-Archaeology of Alabama and the Middle South | publisher = [[University of Alabama Press]] | date = 1990 |  isbn = 0817305521 |  oclc = 26656858 |  ISBN status = May be invalid - please double check |  unused_data = |ISBN status = May be invalid - please double check}}&lt;/ref&gt; Artifacts recovered from archaeological excavations at Moundville were a major component in the formulation of the [[Southeastern Ceremonial Complex]].&lt;ref&gt; {{cite book |  last = Townsend | first = Richard F. |  title = [[Hero, Hawk, and Open Hand]]| publisher = [[Yale University Press]] | date = 2004 |  isbn = 0300106017 |  oclc = 56633574 |  ISBN status = May be invalid - please double check |  unused_data = |ISBN status = May be invalid - please double check}}&lt;/ref&gt; Contrary to popular belief, this development appears to have no direct links to [[Mesoamerica]], but developed independently.  This Ceremonial Complex represents a major component of the [[religion]] of the Mississippian peoples, and is one of the primary means by which their religion is understood.&lt;ref&gt; {{cite book |  editors = F. Kent Reilly and James Garber  |  title = [[Ancient Objects and Sacred Realms]] | publisher = [[University of Texas Press]] | date = 2004 |  isbn = 9780292713475 |  author = edited by F. Kent Reilly III and James F. Garber ; foreword by Vincas P. Steponaitis. |  oclc = 70335213 |  ISBN status = May be invalid - please double check |  unused_data = |ISBN status = May be invalid - please double check}}&lt;/ref&gt; 
+
+The French founded the first European settlement in the state with the establishment of [[Mobile, Alabama|Mobile]] in 1702.&lt;ref name=&quot;US50&quot;&gt;{{cite web
+|url=http://www.theus50.com/alabama/
+|title=Alabama State History
+|accessdate=2006-09-23
+|date=
+|work=
+|publisher=theUS50.com}}&lt;/ref&gt; Southern Alabama was French from 1702 to 1763, part of British West Florida from 1763 to 1780, and part of Spanish West Florida from 1780 to 1814. Northern and central Alabama was part of British Georgia from 1763 to 1783 and part of the American Mississippi territory thereafter. Its statehood was delayed by the lack of a coastline; rectified when [[Andrew Jackson]] captured Spanish Mobile in 1814.&lt;ref name=&quot;StateMaster&quot;&gt;{{cite web
+|url=http://www.statemaster.com/graph-T/bac_sum
+|title=AL-Alabama
+|accessdate=2006-09-23
+|date=
+|work=Landscapes and History by state
+|publisher=StateMaster.com}}&lt;/ref&gt; Alabama was the twenty-second state admitted to the Union, in 1819.
+
+Alabama was the new frontier in the 1820s and 1830s. Settlers rapidly arrived to take advantage of fertile soils. Planters brought slaves with them, and traders brought in more from the Upper South as the cotton plantations expanded. The economy of the central &quot;[[Black Belt (region of Alabama)|Black Belt]]&quot; featured large cotton plantations whose owners built their wealth on the labor of enslaved African Americans. It was named for the dark, fertile soil.&lt;ref name=&quot;SSpaces&quot;/&gt; Elsewhere poor whites were subsistence farmers. According to the 1860 census, enslaved Africans comprised 45% of the state's population of 964,201. There were only 2,690 free persons of color. 
+
+In 1861 Alabama seceded from the Union to join the [[Confederate States of America]]. While not many battles were fought in the state, Alabama contributed about 120,000 soldiers to the Civil War. All the slaves were freed by 1865.&lt;ref name=&quot;HistDocs&quot;&gt;{{cite web
+|url=http://www.historicaldocuments.com/13thAmendment.htm
+|title=13th Amendment to the U.S. Constitution: Abolition of Slavery (1865)
+|accessdate=2006-09-23
+|year=2005
+|work=Historical Documents
+|publisher=HistoricalDocuments.com}}&lt;/ref&gt; Following [[Reconstruction era of the United States|Reconstruction]], Alabama was readmitted to the Union in 1868.
+
+After the Civil War, the state was still chiefly rural and tied to cotton. Planters resisted working with free labor and sought to re-establish controls over African Americans. Whites used paramilitary groups, [[Jim Crow laws]] and segregation to reduce freedoms of African Americans and restore their own dominance.
+
+In its new constitution of 1901, the elite-dominated legislature effectively disfranchised African Americans through voting restrictions. While the planter class had engaged poor whites in supporting these efforts, the new restrictions resulted in disfranchising poor whites as well. By 1941 a total of more whites than blacks had been disfranchised: 600,000 whites to 520,000 blacks. This was due mostly to effects of the cumulative poll tax.&lt;ref name = &quot;epzzsd&quot;&gt;Glenn Feldman. ''The Disfranchisement Myth: Poor Whites and Suffrage Restriction in Alabama''. Athens: University of Georgia Press, 2004, p.136&lt;/ref&gt;
+
+The damage to the African-American community was more pervasive, as nearly all its citizens lost the ability to vote. In 1900 fourteen Black Belt counties (which were primarily African American) had more than 79,000 voters on the rolls. By June 1, 1903, the number of registered voters had dropped to 1,081. In 1900 Alabama had more than 181,000 African Americans eligible to vote. By 1903 only 2,980 had managed to &quot;qualify&quot; to register, although at least 74,000 black voters were literate. The shut out was long-lasting.&lt;ref name = &quot;epzzsd&quot;/&gt;  The disfranchisement was ended only by African Americans' leading the Civil Rights Movement and gaining Federal legislation in the mid-1960s to protect their voting and civil rights. Such legislation also protected the rights of poor whites.
+
+The rural-dominated legislature continued to underfund schools and services for African Americans in the segregated state, but did not relieve them of paying taxes.&lt;ref name=&quot;SSpaces&quot;&gt;{{cite web
+|url=http://www.southernspaces.org/contents/2004/tullos/4a.htm
+|title=The Black Belt
+|accessdate=2006-09-23
+|date=[[2004-04-19]]
+|work=Southern Spaces Internet Journal
+|publisher=Emory University}}&lt;/ref&gt; Continued racial discrimination, agricultural depression, and the failure of the cotton crops due to [[boll weevil]] infestation led tens of thousands of African Americans to seek out opportunities in northern cities. They left Alabama in the early 20th century as part of the [[Great Migration]] to industrial jobs and better futures in northern industrial cities. The rate of population growth rate in Alabama (see table) dropped by nearly half from 1910-1920, reflecting the outmigration. 
+
+At the same time, many rural whites and blacks migrated to the city of Birmingham for work in new industrial jobs. It experienced such rapid growth that it was nicknamed &quot;The Magic City.&quot; By the 1920s, Birmingham was the 19th largest city in the U.S. and held more than 30% of the population of the state. Heavy industry and mining were the basis of the economy.
+
+Despite massive population changes in the state from 1901 to 1961, the rural-dominated legislature refused to reapportion House and Senate seats based on population. They held on to old representation to maintain political and economic power in agricultural areas. In addition, the state legislature gerrymandered the few Birmingham legislative seats to ensure election by persons living outside of Birmingham.
+
+One result was that Jefferson County, home of Birmingham's industrial and economic powerhouse, contributed more than one-third of all tax revenue to the state. It received back only 1/67th of the tax money, as the state legislature ensured that taxes were distributed equally to each county regardless of population. Urban interests were consistently underrepresented. A 1960 study noted that because of rural domination, &quot;A minority of about 25 per cent of the total state population is in majority control of the Alabama legislature.&quot;&lt;ref name = &quot;pjhwpa&quot;/&gt;
+
+Because of the long disfranchisement of African Americans, the state continued as one-party Democratic for decades. It produced a number of national leaders. Industrial development related to the demands of [[World War II]] brought prosperity.&lt;ref name=&quot;SSpaces&quot;/&gt; Cotton faded in importance as the state developed a manufacturing and service base. In the 1960s under Governor [[George Wallace]], many whites in the state opposed integration efforts.
+
+By the moral crusade of the Civil Rights Movement, African Americans achieved a restoration of voting and other civil rights through the passage of the national Civil Rights Act of 1964&lt;ref name=cra64&gt;[http://finduslaw.com/civil_rights_act_of_1964_cra_title_vii_equal_employment_opportunities_42_us_code_chapter_21 Civil Rights Act of 1964]&lt;/ref&gt; and the Voting Rights Act of 1965. ''[[De jure]]'' segregation ended in the states as [[Jim Crow laws]] were invalidated or repealed.&lt;ref name=&quot;USDOJ&quot;&gt;{{cite web
+|url=http://www.usdoj.gov/kidspage/crt/voting.htm
+|title=Voting Rights
+|accessdate=2006-09-23
+|date=[[2002-01-09]]
+|work=Civil Rights: Law and History
+|publisher=US Department of Justice}}&lt;/ref&gt; 
+
+Under the Voting Rights Act of 1965, cases were filed in Federal courts to force Alabama to properly redistrict by population both the state legislature House and Senate. In 1972, for the first time since 1901, the Alabama constitution's provision for periodic redistricting based on population was implemented. This benefited the many urban areas that had developed, and all in the population who had been underrepresented for more than 60&amp;nbsp;years.&lt;ref name = &quot;pjhwpa&quot;/&gt;
+
+After 1972, the state's white voters shifted much of their support to Republican candidates in presidential elections (as also occurred in neighboring southern states). Since 1990 the majority of whites in the state have also voted increasingly Republican in state elections.&lt;ref name=&quot;Southerner&quot;&gt;{{cite web
+|url=http://www.southerner.net/v1n1_99/coverstory1.html
+|title=The New South Rises, Again
+|accessdate=2006-09-23
+|date=Spring 1999
+|work=Civil Rights: Law and History
+|publisher=Southerner.net}}&lt;/ref&gt;
+
+==Geography==
+{{Main|Geography of Alabama}}
+{{see also|List of Alabama counties|Geology of Alabama}}
+[[Image:Map of Alabama terrain NA.jpg|right |thumb|'''Alabama''' terrain map: shows lakes, rivers, roads, with [[Mount Cheaha]] (right center) east of [[Birmingham, AL|Birmingham]].]]
+
+Alabama is the 30&lt;sup&gt;th&lt;/sup&gt; largest state in the United States with 52,423 square miles (135,775&amp;nbsp;km²) of total area: 3.19% of the area is water, making Alabama 23&lt;sup&gt;rd&lt;/sup&gt; in the amount of surface water, also giving it the second largest inland waterway system in the United States.&lt;ref&gt;{{cite web
+   |url=http://factfinder.census.gov/servlet/GCTTable?_bm=n&amp;_lang=en&amp;mt_name=DEC_2000_SF1_U_GCTPH1R_US9S&amp;format=US-9S&amp;_box_head_nbr=GCT-PH1-R&amp;ds_name=DEC_2000_SF1_U&amp;geo_id=01000US
+   |title=GCT-PH1-R. Population, Housing Units, Area, and Density (areas ranked by population): 2000|date=Census Year 2000
+   |accessdate=2006-09-23 |work=Geographic Comparison Table
+   |publisher=US Census Bureau}}&lt;/ref&gt;
+About three-fifths of the land area is a gentle plain with a general descent towards the [[Mississippi River]] and the Gulf of Mexico. The [[North Alabama]] region is mostly mountainous, with the [[Tennessee River]] cutting a large valley creating numerous creeks, streams, rivers, mountains, and lakes.&lt;ref name=&quot;NetState&quot;&gt;{{cite web |work=Geography of the States
+   |url=http://www.netstate.com/states/geography/al_geography.htm
+   |title=The Geography of Alabama|accessdate=2006-09-23
+   |date=2006-08-11 |publisher=NetState.com}}&lt;/ref&gt;
+A notable natural wonder in Alabama is [[Natural Bridge, Alabama|&quot;Natural Bridge&quot;]] rock, the longest [[natural bridge]] east of the [[Rockies]], located just south of [[Haleyville, Alabama|Haleyville]], in [[Winston County, Alabama|Winston County]].
+
+Alabama generally ranges in elevation from [[sea level]]&lt;ref name=usgs/&gt; at [[Mobile Bay]] to over 1,800&amp;nbsp;feet (550&amp;nbsp;m) in the [[Appalachian Mountains]] in the northeast. The highest point is [[Mount Cheaha]]&lt;ref name=&quot;NetState&quot;/&gt; (''see map''), at a height of 2,407&amp;nbsp;ft (733&amp;nbsp;m).
+
+States bordering Alabama include [[Tennessee]] to the north; [[Georgia (U.S. state)|Georgia]] to the east; [[Florida]] to the south; and [[Mississippi]] to the west. Alabama has coastline at the [[Gulf of Mexico]], in the extreme southern edge of the state.&lt;ref name=&quot;NetState&quot;/&gt;
+
+Areas in Alabama administered by the [[National Park Service]] include [[Horseshoe Bend National Military Park]] near [[Alexander City, Alabama|Alexander City]]; [[Little River Canyon National Preserve]] near [[Fort Payne, Alabama|Fort Payne]]; [[Russell Cave National Monument]] in [[Bridgeport, Alabama|Bridgeport]]; [[Tuskegee Airmen National Historic Site]] in [[Tuskegee, AL|Tuskegee]]; and [[Tuskegee Institute National Historic Site]] near [[Tuskegee]].&lt;ref&gt;{{cite web|url=http://home.nps.gov/applications/parksearch/state.cfm?st=al|title=National Park Guide|accessdate=2006-09-23|work=Geographic Search|publisher=National Park Service - U.S. Department of the Interior}}&lt;/ref&gt; Additionally, Alabama has four [[United States National Forest|National Forests]] including [[Conecuh National Forest|Conecuh]], [[Talladega National Forest|Talladega]], [[Tuskegee National Forest|Tuskegee]], and [[William B. Bankhead National Forest|William B. Bankhead]].&lt;ref&gt;{{cite web|url=http://www.fs.fed.us/r8/alabama/forests/|title=National Forests in Alabama|accessdate=2008-10-05|work=USDA Forest Service|publisher=United States Department of Agriculture}}&lt;/ref&gt;
+
+Alabama also contains the [[Natchez Trace Parkway]], the [[Selma To Montgomery National Historic Trail]], and the [[Trail of Tears|Trail Of Tears National Historic Trail]].
+
+Suburban [[Baldwin County, Alabama|Baldwin County]], along the Gulf Coast, is the largest county in the state in both land area and water area.&lt;ref&gt;{{cite web |url=http://factfinder.census.gov/servlet/GCTTable?_bm=y&amp;-context=gct&amp;-ds_name=DEC_2000_SF1_U&amp;-mt_name=DEC_2000_SF1_U_GCTPH1R_ST2S&amp;-CONTEXT=gct&amp;-tree_id=4001&amp;-redoLog=true&amp;-geo_id=04000US01&amp;-format=ST-2|ST-2S&amp;-_lang=en|title=Alabama County (geographies ranked by total population) date= Census year 2000|work=Geographic Comparison Table |publisher=U.S. Census Bureau |accessdate=2007-05-14}}&lt;/ref&gt;
+
+A {{convert|5|mi|km|0|sing=on}}-wide meteorite impact crater is located in [[Elmore County, Alabama|Elmore County]], just north of Montgomery. This is the [[Wetumpka crater]], which is the site of &quot;Alabama's greatest natural disaster&quot;.&lt;ref name = &quot;mlvguh&quot;&gt;[http://www.wetumpkalibrary.com/Default.asp?ID=207 &quot;Wetumpka Impact Crater&quot;] Wetumpka Public Library, accessed August 21, 2007.&lt;/ref&gt;  A {{convert|1000|ft|m|sing=on}}-wide meteorite hit the area about 80&amp;nbsp;million years ago.&lt;ref name = &quot;mlvguh&quot;/&gt; The hills just east of downtown [[Wetumpka]] showcase the eroded remains of the impact crater that was blasted into the bedrock, with the area labeled the Wetumpka crater or astrobleme (&quot;star-wound&quot;) because of the concentric rings of fractures and zones of shattered rock that can be found beneath the surface.&lt;ref&gt;&quot;The Wetumpka Astrobleme&quot; by John C. Hall, Alabama Heritage, Fall 1996, Number 42.&lt;/ref&gt; In 2002, Christian Koeberl with the Institute of Geochemistry University of Vienna published evidence and established the site as an internationally recognized impact crater.&lt;ref name = &quot;mlvguh&quot;/&gt;
+
+===Urban areas===
+[[Image:Birmingham panorama.jpg|thumb|[[Birmingham, Alabama|Birmingham]], largest city and metropolitan area]]
+[[Image:Mobile Skyline 2008 01.jpg|thumb|[[Mobile, Alabama|Mobile]], second largest metropolitan area]]
+[[Image:100 1830.JPG|thumb|[[Huntsville, Alabama|Huntsville]], third largest metropolitan area]]
+
+{{Main|List of Metropolitan areas of Alabama}}
+{{See also|List of cities in Alabama}}
+
+{| class=&quot;wikitable&quot;
+|-
+! Rank !! Metropolitan Area !! Population &lt;br/&gt;(2007 estimates)
+|-
+| align=center | 1
+| [[Birmingham, Alabama|Birmingham]]
+| align=center |1,108,210 
+|-
+| align=center | 2
+| [[Mobile, Alabama|Mobile]]
+| align=center | 540,258
+|-
+| align=center | 3
+| [[Huntsville, Alabama|Huntsville]]
+| align=center| 386,632
+|-
+| align=center | 4
+| [[Montgomery, Alabama|Montgomery]]
+| align=center| 365,962
+|-
+| align=center | 5
+| [[Tuscaloosa, Alabama|Tuscaloosa]]
+| align=center| 205,218
+|-
+| align=center | 6
+| [[Decatur Metropolitan Area|Decatur]]
+| align=center| 149,279
+|-
+| align=center | 7
+| [[Florence-Muscle Shoals Metropolitan Area|Florence-Muscle Shoals]] 
+| align=center| 143,149
+|-
+| align=center | 8
+| [[Dothan, Alabama|Dothan]]
+| align=center| 139,499
+|-
+| align=center | 9
+| [[Auburn Metropolitan Area|Auburn-Opelika]]
+| align=center| 130,516 
+|-
+| align=center | 10
+| [[Anniston-Oxford Metropolitan Area|Anniston-Oxford]]
+| align=center| 113,103
+|-
+| align=center | 11
+| [[Gadsden, Alabama|Gadsden]]
+| align=center| 103,271
+|-
+|
+| align=right | total
+| align=center| 3,249,245
+|}
+
+===Climate===
+The [[climate]] of Alabama is described as [[temperate]] with an average annual temperature of 64 °F (18 °C). Temperatures tend to be warmer in the southern part of the state with its close proximity to the Gulf of Mexico, while the northern parts of the state, especially in the Appalachian Mountains in the northeast, tend to be slightly cooler.&lt;ref name = &quot;cprgsw&quot;&gt; [http://www.britannica.com/eb/article-78303/Alabama ''&quot;Alabama Climate&quot;'', Encyclopedia Britannica, Retrieved May 7, 2007] &lt;/ref&gt;  Generally, Alabama has very hot summers and mild winters with copious precipitation throughout the year. Alabama receives an average of {{convert|56|in|mm}} of rainfall annually and enjoys a lengthy growing season of up to 300&amp;nbsp;days in the southern part of the state.&lt;ref name = &quot;cprgsw&quot;/&gt; 
+
+Summers in Alabama are among the hottest in the United States, with high temperatures averaging over {{convert|90|°F}} throughout the summer in some parts of the state. Alabama is also prone to [[tropical storm]]s and even [[hurricane]]s. Areas of the state far away from the Gulf are not immune to the effects of the storms, which often dump tremendous amounts of rain as they move inland and weaken. 
+
+[[Image:Alabama winter 2008.jpg|thumb|right|Though winters in the state are usually mild, nightly freezing occurs frequently in the [[North Alabama]] region. This is shown in this picture taken at the [[State Bank Building, Decatur Branch (Old State Bank)|Old State Bank]] in [[Decatur, Alabama|Decatur]] during early January.]]
+
+South Alabama reports more [[thunderstorms]] than any part of the U.S. The Gulf Coast, around Mobile Bay, averages between 70 and 80&amp;nbsp;days per year with thunder reported. This activity decreases somewhat further north in the state, but even the far north of the state reports thunder on about 60&amp;nbsp;days per year. Occasionally, thunderstorms are severe with frequent [[lightning]] and large [[hail]] – the central and northern parts of the state are most vulnerable to this type of storm. Alabama ranks seventh in the number of deaths from lightning and ninth in the number of deaths from lightning strikes per capita.&lt;ref&gt;Lightning Fatalities, Injuries and Damages in the United States, 1990-2003, [http://www.lightningsafety.com/nlsi_lls/fatalities_us.html ]  Retrieved May 8, 2007 &lt;/ref&gt; Sometimes [[tornado]]es occur – these are common throughout the state, although the peak season for tornadoes varies from the northern to southern parts of the state. Alabama shares the dubious distinction, with [[Kansas]], of having reported more [[Fujita scale|F5 tornadoes]] than any other state – according to statistics from the [[National Climatic Data Center]] for the period January 1, 1950 to October 31, 2006. An F5 tornado is the most powerful of its kind.&lt;ref&gt;Tornadoproject.com, [http://www.tornadoproject.com/fscale/fscale.htm Fujita scale]. Retrieved September 3, 2007 &lt;/ref&gt; Several long – tracked F5 tornadoes have contributed to Alabama reporting more tornado fatalities than any other state except for [[Texas]] and [[Mississippi]]. The [[Super Outbreak]] of March, 1974, badly affected Alabama. The northern part of the state – along the Tennessee Valley – is one of the areas in the US most vulnerable to violent tornadoes. The area of Alabama and Mississippi most affected by tornadoes is sometimes referred to as [[Dixie Alley]], as distinct from the [[Tornado Alley]] of the Southern Plains. Alabama is one of the few places in the world that has a secondary tornado season (November and December) in addition to the Spring severe weather season.
+
+Winters are generally mild in Alabama, as they are throughout most of the [[southeastern United States]], with average January low temperatures around {{convert|40|°F}} in Mobile and around {{convert|32|°F}} in Birmingham. Snow is a rare event in much of Alabama. Areas of the state north of Montgomery may receive a dusting of snow a few times every winter, with an occasional moderately heavy snowfall every few years. In the southern Gulf coast, snowfall is less frequent, sometimes going several years without any snowfall.
+
+{| class=&quot;wikitable&quot; style=&quot;text-align:center;font-size:100%;&quot;
+| colspan=&quot;26&quot; style=&quot;font-size:120%;background:#E8EAFA;&quot;|Monthly normal high and low temperatures for various Alabama cities&lt;small&gt;&lt;ref&gt;[http://www.ustravelweather.com/weather-alabama/ US Travel Weather]&lt;/ref&gt;&lt;/small&gt;
+|-
+! style=&quot;background: #D8F8D8; color:#000000&quot; height=&quot;17&quot; colspan=2| Month
+! style=&quot;background: #D8F8D8; color:#000000;&quot; colspan=2| Jan
+! style=&quot;background: #D8F8D8; color:#000000;&quot; colspan=2| Feb
+! style=&quot;background: #D8F8D8; color:#000000;&quot; colspan=2| Mar
+! style=&quot;background: #D8F8D8; color:#000000;&quot; colspan=2| Apr
+! style=&quot;background: #D8F8D8; color:#000000;&quot; colspan=2| May
+! style=&quot;background: #D8F8D8; color:#000000;&quot; colspan=2| Jun
+! style=&quot;background: #D8F8D8; color:#000000;&quot; colspan=2| Jul
+! style=&quot;background: #D8F8D8; color:#000000;&quot; colspan=2| Aug
+! style=&quot;background: #D8F8D8; color:#000000;&quot; colspan=2| Sep
+! style=&quot;background: #D8F8D8; color:#000000;&quot; colspan=2| Oct
+! style=&quot;background: #D8F8D8; color:#000000;&quot; colspan=2| Nov
+! style=&quot;background: #D8F8D8; color:#000000;&quot; colspan=2| Dec
+|-
+! style=&quot;background: #F8F3CA; color:#000000;&quot; height=&quot;17&quot;| City
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|temp
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°F
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°C
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°F
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°C
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°F
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°C
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°F
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°C
+! style=&quot;background: #E8EAFA; color:#000100;&quot;|°F
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°C
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°F
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°C
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°F
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°C
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°F
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°C
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°F
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°C
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°F
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°C
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°F
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°C
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°F
+! style=&quot;background: #E8EAFA; color:#000000;&quot;|°C
+|-
+! style=&quot;background: #F8F3CA; color:#000000;&quot; height=&quot;16;&quot; rowspan=2| Birmingham
+! style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; |high
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|53|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|58|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|66|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|74|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|81|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|88|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|91|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|90|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|85|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|75|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|64|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|56|F|disp=table}}
+|-
+! style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |low
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|32|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|35|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|42|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|48|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|58|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|65|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|70|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|69|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|63|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|51|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|42|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|35|F|disp=table}}
+|-
+! style=&quot;background: #F8F3CA; color:#000000;&quot; height=&quot;16;&quot; rowspan=2| Huntsville
+! style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; |high
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|49|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|55|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|63|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|72|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|80|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|86|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|89|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|89|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|83|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|73|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|62|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|52|F|disp=table}}
+|-
+! style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |low
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|31|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|34|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|41|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|48|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|58|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|65|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|70|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|68|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|62|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|50|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|41|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|34|F|disp=table}}
+|-
+! style=&quot;background: #F8F3CA; color:#000000;&quot; height=&quot;16;&quot; rowspan=2| Mobile
+! style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; |high
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|61|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|64|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|71|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|77|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|84|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|89|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|91|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|91|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|87|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|79|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|70|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|63|F|disp=table}}
+|-
+! style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |low
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|40|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|42|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|49|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|55|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|63|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|69|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|72|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|72|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|68|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|56|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|48|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|42|F|disp=table}}
+|-
+! style=&quot;background: #F8F3CA; color:#000000;&quot; height=&quot;16;&quot; rowspan=2| Montgomery
+! style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; |high
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|58|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|62|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|70|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|78|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|85|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|91|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|93|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|92|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|88|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|79|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|69|F|disp=table}}
+| style=&quot;text-align:center; background: #E5AFAA; color:#000000;&quot; {{convert|60|F|disp=table}}
+|-
+! style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |low
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|36|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|39|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|45|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|51|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|60|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|67|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|71|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|70|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|65|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|52|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|44|F|disp=table}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; {{convert|38|F|disp=table}}
+|}
+
+==Demographics==
+[[Image:Alabama population map.png|thumb|Alabama Population Density map]]
+{{main|Demographics of Alabama}}
+{{USCensusPop
+|1800 = 1250     
+|1810 = 9046
+|1820 = 127901
+|1830 = 309527
+|1840 = 590756
+|1850 = 771623
+|1860 = 964201
+|1870 = 996992
+|1880 = 1262505
+|1890 = 1513401
+|1900 = 1828697
+|1910 = 2138093
+|1920 = 2348174 
+|1930 = 2646248 
+|1940 = 2832961 
+|1950 = 3061743 
+|1960 = 3266740 
+|1970 = 3444165 
+|1980 = 3893888 
+|1990 = 4040587 
+|2000 = 4447100
+|estyear = 2007
+|estimate = 4627851
+}}
+As of 2005, Alabama has an estimated population of 4,557,808,&lt;ref&gt;{{cite web
+|url=http://www.usdoj.gov/kidspage/crt/voting.htm
+|title=Alabama QuickFacts from the US Census Bureau
+|accessdate=2006-09-26
+|date=[[2006-06-08]]
+|work=US Census Bureau
+|publisher=US Census Bureau}} &lt;/ref&gt; which is an increase of 32,433, or 0.7%, from the prior year and an increase of 110,457, or 2.5%, since the year 2000. This includes a natural increase since the last census of 77,418 people (that is 319,544 births minus 242,126 deaths) and an increase due to net migration of 36,457 people into the state. Immigration from outside the United States resulted in a net increase of 25,936 people, and migration within the country produced a net increase of 10,521 people.
+
+The state had 108,000 foreign-born (2.4% of the state population), of which an estimated 22.2% were illegal immigrants (24,000).
+
+The [[center of population]] of Alabama is located in [[Chilton County, Alabama|Chilton County]], outside of the town of [[Jemison, Alabama|Jemison]], an area known as Jemison Division.&lt;ref&gt;{{cite web |title=http://www.census.gov/geo/www/cenpop/statecenters.txt | url=http://www.census.gov/geo/www/cenpop/statecenters.txt | }}&lt;/ref&gt;
+
+===Race and ancestry===
+The racial makeup of the state and comparison to the prior census:
+{{US Demographics}}
+The largest reported ancestry groups in Alabama: African American (26.0%), American (17.0%), [[English American|English]] (7.8%), [[Irish American|Irish]] (7.7%), [[German American|German]] (5.7%), and [[Scots-Irish American|Scots-Irish]] (2.0%). 'American' does not include those reported as Native American.
+
+===Religion=== 
+Alabama is located in the middle of the [[Bible Belt]]. In a 2007 survey, nearly 70% of respondents could name all four of the Christian Gospels. Of those who indicated a religious preference, 59% said they possessed a &quot;full understanding&quot; of their faith and needed no further learning.&lt;ref&gt;{{cite news|first=Kirsten |last=Campbell |work=Mobile Register |title=Alabama rates well in biblical literacy |date=2007-03-25 |accessdate=2007-06-02 |page=A1 |publisher=Advance Publications, Inc.}}&lt;/ref&gt;  In a 2007 poll, 92% of Alabamians reported having at least some confidence in churches in the state.&lt;ref&gt;{{cite web|url=http://www.myaea.org/PDFfile/Confidence%20in%20State%20Institutions07.pdf |title=Confidence in State and Local Institutions Survey |work=Capital Survey Research Center |accessdate 2007-006-02 |type=PDF |format=PDF}}&lt;/ref&gt;&lt;ref&gt;{{cite news |first=David |last=White |title=Poll says we feel good about state Trust in government, unlike some institutions, hasn't fallen |date=2007-04-01 |accessdate=2007-06-02 |work=Birmingham News |publisher=Birmingham News |page=13A}}&lt;/ref&gt; The Mobile area is notable for its large percentage of Catholics, owing to the area's unique early history under French and Spanish rule. Today, a huge percentage of Alabamians identify themselves as Protestants. The top two largest denominations in the state are the Baptists (40%), Methodists (10%).
+
+==Economy==
+[[Image:Alabama quarter, reverse side, 2003.jpg|thumb|Alabama's quarter depicting famous resident [[Helen Keller]] along with the longleaf pine branch and Camellia blossoms from the [[50 State Quarters]] program. Released March 19, 2003.]]
+
+According to the United States [[Bureau of Economic Analysis]], the 2006 total [[gross state product]] was $160&amp;nbsp;billion, or $29,697 per capita for a ranking of 44th among states. Alabama's GDP increased 3.1% from 2005, placing Alabama number 23 in terms of state level GDP growth. The single largest increase came in the area of durable goods manufacturing.&lt;ref&gt;{{cite web |url=http://www.bea.gov/newsreleases/regional/gdp_state/gsp_newsrelease.htm |title=Gross Domestic Product (GDP) by State, 2006 |accessdate=2007-10-16 |format=HTML |work=Bureau of Economic Analysis, Regional Economic Accounts }}&lt;/ref&gt;  In 1999, [[per capita income]] for the state was $18,189.&lt;ref&gt;{{cite web |url=http://quickfacts.census.gov/qfd/states/01000.html |title=United States Census Bureau |accessdate=2007-05-30 |format=HTML |work=State and County Quick Facts }}&lt;/ref&gt; 
+
+Alabama's [[agricultural]] outputs include [[poultry]] and [[Egg (food)|eggs]], [[cattle]], plant nursery items, [[peanut]]s, [[cotton]], [[cereal|grains]] such as [[maize|corn]] and [[sorghum]], [[vegetable]]s, [[milk]], [[soybean]]s, and [[peach]]es. Although known as &quot;The Cotton State&quot;, Alabama ranks between eight and ten in national cotton production, according to various reports,&lt;ref&gt;{{cite web
+|url=http://cber.cba.ua.edu/pdf/ab2005q4.pdf
+|title=Alabama and CBER: 75 Years of Change
+|accessdate=2006-09-23
+|date=Q4 2005
+|work=Alabama Business
+|publisher=Center for Business and Economic Research, Culverhouse College of Commerce, The University of Alabama|format=PDF}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+|url=http://www.aces.edu/dept/nass/bulletin/2005/pg05.pdf
+|title=State Highlights for 2004-2005
+|accessdate=2006-09-23
+|year=2005
+|work=Alabama Cooperative Extension System
+|publisher=USDA, NASS, Alabama Statistical Office|format=PDF}}&lt;/ref&gt; with [[Texas]], [[Georgia (U.S. state)|Georgia]] and [[Mississippi]] comprising the top three.
+
+Alabama's [[Industry|industrial]] outputs include [[iron]] and [[steel]] products (including cast-iron and steel pipe); [[paper]], [[lumber]], and [[wood]] products; [[mining]] (mostly coal); [[plastic]] products; cars and trucks; and [[apparel]]. Also, Alabama produces [[aerospace]] and [[electronics|electronic]] products, mostly in the [[Huntsville, Alabama|Huntsville]] area, which is home of the [[NASA]] [[George C. Marshall Space Flight Center]] and the [[United States Army Aviation and Missile Command|US Army Missile Command]], headquartered at [[Redstone Arsenal]].
+
+Alabama is also home to the largest industrial growth corridor in the nation, including the surrounding states of Tennessee, Mississippi, Florida, and Georgia. Most of this growth is due to Alabama's rapidly expanding automotive manufacturing industry. In Alabama alone since 1993, it has generated more than 67,800 new jobs. Alabama currently ranks 2nd in the nation behind Detroit in automobile output. With recent expansions at sites in Alabama, by early 2009 the state will surpass Detroit and become the largest builder of automobiles in North America.
+
+In the 1970s and 1980s, Birmingham's economy was transformed by investments in bio-technology and medical research at the University of Alabama at Birmingham (UAB) and its adjacent hospital. The UAB Hospital is a Level I trauma center providing health care and breakthrough medical research. UAB is now the area's largest employer and the largest in Alabama with a workforce of about 20,000. Health care services provider HealthSouth is also headquartered in the city.
+
+Birmingham is also a leading banking center, serving as home to two major banks: Regions Financial Corporation and Compass Bancshares. SouthTrust, another large bank headquartered in Birmingham, was acquired by Wachovia in 2004. The city still has major operations as one of the regional headquarters of Wachovia. In November 2006, Regions Financial merged with AmSouth Bancorporation, which was also headquartered in Birmingham. They formed the 8th Largest U. S. Bank (by total assets). Nearly a dozen smaller banks are also headquartered in the Magic City, such as Superior Bank and New South Federal Savings Bank.
+
+Telecommunications provider AT&amp;T, formerly BellSouth, has a major presence with several large offices in the metropolitan area. Major insurance providers: Protective Life, Infinity Property &amp; Casualty and ProAssurance among others, are headquartered in Birmingham and employ a large number of people in Greater Birmingham. The city is also a powerhouse of construction and engineering companies, including BE&amp;K and B. L. Harbert International which routinely are included in the Engineering News-Record lists of top design and international construction firms.
+
+The city of [[Mobile, Alabama|Mobile]], Alabama's only saltwater port, is a busy seaport on the [[Gulf of Mexico]] with inland waterway access to the [[Midwestern United States|Midwest]] via the [[Tennessee-Tombigbee Waterway]].  The [[Port of Mobile]] is the 10th largest by tonnage in the United States.&lt;ref name=&quot;ports1&quot;&gt;{{cite web|title=&quot;Tonnage for Selected U.S. Ports in 2006&quot;|work=&quot;U.S. Army Corps of Engineers: Waterborne Commerce Statistics&quot;|url=http://www.iwr.usace.army.mil/ndc/wcsc/portton06.htm|accessdate=2008-03-20}}&lt;/ref&gt;  In May 2007, a site north of [[Mobile, Alabama|Mobile]] was selected by German steelmaker [[ThyssenKrupp]] for a $3.7&amp;nbsp;billion steel production plant, with the promise of 2,700 permanent jobs.&lt;ref&gt;{{cite news|title=''ThyssenKrupp's Alabama incentive package tops $811&amp;nbsp;million''|publisher=Press register|date=2007-05-11|url=http://www.al.com/newsflash/regional/index.ssf?/base/business-2/1178924126194090.xml&amp;storylist=alabamanews|accessdate=2007-05-11}}&lt;/ref&gt;
+
+==Taxes==
+Alabama levies a 2, 4, or 5% personal income tax, depending upon the amount earned and filing status. The state's general sales tax rate is 4%.&lt;ref&gt;http://www.taxadmin.org/fta/rate/sl_sales.html Comparison of State and Local Retail Sales Taxes, July 2004 Retrieved on May 25, 2007&lt;/ref&gt; The collection rate could be substantially higher, depending upon additional city and county sales taxes. For example, the total sales tax rate in Mobile is 9% and there is an additional restaurant tax of 5%, which means that a diner in Mobile would pay a 14% tax on a meal. Alabama is also one of the few remaining states that levies a tax on food and medicine. As a result, Alabama's tax structure is one the most regressive in the United States.&lt;ref&gt;{{cite news | last = Zengerle  | first = Jason  | title =  2003: THE 3rd ANNUAL YEAR IN IDEAS; Biblical Taxation | publisher = New York Times | date = December 14, 2003 | url = http://query.nytimes.com/gst/fullpage.html?res=9F07E3DB1E3DF937A25751C1A9659C8B63&amp;scp=1&amp;sq=biblical%20taxation&amp;st=cse | accessdate = 2008-10-01}}&lt;/ref&gt;
+
+The corporate income tax rate is currently 6.5%. The overall federal, state, and local tax burden in Alabama ranks the state as the second least tax-burdened state in the country.&lt;ref&gt;{{cite web |url=http://www.taxfoundation.org/files/sl_burden_alabama-2007-04-04.pdf |title=Alabama State Local Tax Burden Compared to U.S. Average (1970-2007) |accessdate=2007-05-30 |format=PDF |work=Tax Foundation }}&lt;/ref&gt;
+
+As recently as 2003, Alabama had an annual budget deficit as high as $670&amp;nbsp;million. It is one of only a few handful of states to accomplish large surpluses, with a budget surplus of nearly $1.2&amp;nbsp;billion in 2007, and estimated at more than $2.1&amp;nbsp;billion for 2008. The declining national economy has eliminated that surplus and the state is again facing shortfalls.{{Fact|date=October 2008}}
+
+==Transportation==
+[[Image:Alabama.JPG|thumb|right|Alabama state welcome sign]]
+
+Alabama has five major interstate roads that cross it: [[I-65]] runs north–south roughly through the middle of the state; I-59/I-20 travels from the central west border to Birmingham, where [[I-59]] continues to the north-east corner of the state and [[I-20]] continues east towards Atlanta; [[I-85]] originates in Montgomery and runs east-northeast to the Georgia border, providing a main thoroughfare to Atlanta; and [[Interstate 10 in Alabama|I-10]] traverses the southernmost portion of the state, running from west to east through Mobile. Another interstate road, [[I-22]], is currently under construction. When completed around 2012 it will connect Birmingham with [[Memphis, Tennessee]].  Several US Highways also pass through the state, such as [[U.S. Route 11|US 11]], [[U.S. Route 29|US 29]], [[U.S. Route 31|US 31]], [[U.S. Route 43|US 43]], [[U.S. Route 72|US 72]], [[U.S. Route 78|US 78]], [[U.S. Route 80|US 80]], [[U.S. Route 82|US 82]], [[U.S. Route 84|US 84]], [[U.S. Route 98|US 98]], [[U.S. Route 231|US 231]], and [[U.S. Route 280|US 280]].
+
+Major airports in Alabama include [[Birmingham International Airport (US)|Birmingham International Airport]] (BHM), [[Dothan Regional Airport]] (DHN), [[Huntsville International Airport]] (HSV), [[Mobile Regional Airport]] (MOB), [[Montgomery Regional Airport]] (MGM), [[Northwest Alabama Regional Airport|Muscle Shoals – Northwest Alabama Regional Airport]] (MSL), [[Tuscaloosa Regional Airport]] (TCL), and [[Pryor Field Regional Airport]] (DCU). For rail transport, [[Amtrak]] schedules the Crescent, a daily passenger train, running from New York to New Orleans with stops at Anniston, Birmingham, and Tuscaloosa. 
+
+===Water ports===
+[[Image:Mobile Alabama harbor aerial view.jpg|thumb|Aerial view of the port of Mobile]]
+
+''Listed from north to south''
+
+{| cellspacing=&quot;0&quot; cellpadding=&quot;1&quot; border=&quot;1&quot;
+|+ align=bottom | 
+!style=&quot;background:#ffcccc;&quot;| '''Port name'''
+!style=&quot;background:#ffcccc;&quot;| '''Location'''
+!style=&quot;background:#ffcccc;&quot;| '''Connected to'''
+|-
+| Port of [[Florence, Alabama|Florence]] ||''[[Florence, Alabama|Florence]]/[[Muscle Shoals, Alabama|Muscle Shoals]]'', on ''[[Pickwick Lake (Alabama)|Pickwick Lake]]''||[[Tennessee River]]
+|-
+| [[Port of Decatur]] ||''[[Decatur, Alabama|Decatur]]'', on ''[[Wheeler Lake]]''||[[Tennessee River]]
+|-
+| Port of [[Guntersville, Alabama|Guntersville]] ||''[[Guntersville, Alabama|Guntersville]]'', on ''[[Lake Guntersville]]''||[[Tennessee River]]
+|-
+| Port of [[Birmingham, AL|Birmingham]] || ''[[Birmingham, Alabama|Birmingham]]'', on ''[[Black Warrior River]]'' || [[Tenn-Tom Waterway]]
+|-
+| Port of [[Tuscaloosa, Alabama|Tuscaloosa]] ||''[[Tuscaloosa, Alabama|Tuscaloosa]]'', on ''[[Black Warrior River]]''||[[Tenn-Tom Waterway]]
+|-
+| Port of [[Montgomery, Alabama|Montgomery]] || ''[[Montgomery, Alabama|Montgomery]]'', on ''[[Woodruff Lake]]'' || [[Alabama River]]
+|-
+| [[Port of Mobile]] || ''[[Mobile, Alabama|Mobile]]'', on ''[[Mobile Bay]]'' || [[Gulf of Mexico]]
+|}
+
+==Law and government==
+[[Image:Alabama state capitol, Montgomery.jpg|thumb|The State Capitol, built in 1850]]
+===State government===
+{{main|Government of Alabama}}
+The foundational document for Alabama's government is the [[Alabama Constitution]], which was ratified in 1901. At almost 800 amendments and 310,000 words, it is the world's longest constitution and is roughly forty times the length of the [[U.S. Constitution]].&lt;ref name=&quot;Washington Post&quot;&gt;{{cite news 
+  |last=Roig-Franzia 
+  |first=Manuel
+  |title=Alabama Vote Opens Old Racial Wounds
+  |publisher=[[The Washington Post]] 
+  |date=2004-11-28 
+  |url=http://www.washingtonpost.com/ac2/wp-dyn/A16443-2004Nov27?language=printer 
+  |accessdate=2006-09-22}} &lt;/ref&gt;&lt;ref name=&quot;Constitution&quot;&gt;{{cite web
+  |title=Constitution of Alabama - 1901 
+  |work=The Alabama Legislative Information System
+ |url=http://www.legislature.state.al.us/CodeOfAlabama/Constitution/1901/Constitution1901_toc.htm
+  |accessdate=2006-09-22  }}&lt;/ref&gt;  There is a significant movement to rewrite and modernize Alabama's constitution.&lt;ref&gt;[http://www.constitutionalreform.org Alabama Citizens for Constitutional Reform&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; This movement is based upon the fact that Alabama's constitution highly centralizes power in Montgomery and leaves practically no power in local hands. Any policy changes proposed around the state must be approved by the entire Alabama legislature and, frequently, by state referendum. One criticism of the current constitution claims that its complexity and length were intentional to codify segregation and racism.
+
+Alabama is divided into three equal branches:
+The [[legislative branch]] is the [[Alabama Legislature]], a [[bicameral]] assembly composed of the [[Alabama House of Representatives]], with 105 members, and the [[Alabama Senate]], with 35 members. The Legislature is responsible for writing, debating, passing, or defeating state legislation. 
+
+The [[executive branch]] is responsible for the execution and oversight of laws. It is headed by the [[Governor of Alabama]]. Other members of executive branch include the cabinet, the [[Attorney General of Alabama]], the [[Alabama Secretary of State]], the [[Alabama Commissioner of Agriculture and Industries]], the [[Alabama State Treasurer]], and the [[Alabama State Auditor]].
+
+The [[judicial branch]] is responsible for interpreting the [[Alabama Constitution|Constitution]] and applying the law in state criminal and civil cases. The highest court is the [[Supreme Court of Alabama]].
+
+===Local and county government===
+Alabama has 67 [[county (United States)|counties]]. Each county has its own elected legislative branch, usually called the County Commission, which usually also has executive authority in the county. Due to the restraints placed in the [[Alabama Constitution]], all but seven counties (Jefferson, Lee, Mobile, Madison, Montgomery, Shelby, and Tuscaloosa) in the state have little to no [[home rule]]. Instead, most counties in the state must lobby the Local Legislation Committee of the state legislature to get simple local policies such as waste disposal to land use zoning.
+*[[List of Alabama county seats]]
+
+Alabama is an [[alcoholic beverage control state]]; the government holds a monopoly on the sale of alcohol. However, counties can declare themselves &quot;dry&quot;; the state does not sell alcohol in those areas.
+
+===State politics===
+[[Image:Bob Riley greeting soldiers in Birmingham, 19 Jan, 2004.jpg|thumb|Alabama Governor Bob Riley]]
+
+The current [[Governor of Alabama|governor]] of the state is [[Republican Party (United States)|Republican]] [[Bob Riley (Alabama)|Bob Riley]]. The [[List of Lieutenant Governors of Alabama|lieutenant governor]] is [[Jim Folsom Jr]]. The [[United States Democratic Party|Democratic Party]] currently holds a large majority in both houses of the [[Alabama Legislature|Legislature]]. Due to the Legislature's power to override a gubernatorial [[veto]] by a mere simple majority (most state Legislatures require a 2/3 majority to override a veto), the relationship between the executive and legislative branches can be easily strained when different parties control the branches.
+
+During [[Reconstruction era of the United States|Reconstruction]] following the [[American Civil War]], Alabama was occupied by federal troops of the [[Third Military District]] under [[John Pope (military officer)|General John Pope]]. In 1874, the political coalition known as the [[Redeemers]] took control of the state government from the Republicans, in part by suppressing the African American vote through intimidation and terrorism. White supremacy was re-established.
+
+After 1890, a coalition of whites passed laws to [[racial segregation|segregate]] and disenfranchise black residents, a process completed in provisions of the 1901 constitution. Provisions which disfranchised African Americans also disfranchised poor whites, however. By 1941 more whites than blacks had been disfranchised: 600,000 to 520,000, although the impact was greater on the African-American community, as almost all of its citizens were disfranchised.
+
+From 1901 to the 1960s, the state legislature failed to perform redistricting as population grew and shifted within the state. The result was a rural minority that dominated state politics until a series of court cases required redistricting in 1972. 
+
+With the disfranchisement of African Americans, the state became part of the &quot;[[Solid South]]&quot;, a one-party system in which the [[Democratic Party (United States)|Democratic Party]] became essentially the only political party in every Southern state. For nearly 100&amp;nbsp;years, local and state elections in Alabama were decided in the Democratic Party [[primary election|primary]], with generally only token [[United States Republican Party|Republican]] challengers running in the General Election. 
+
+In the 1986 Democratic primary election, the then-incumbent Lieutenant Governor lost the Democratic nomination for Governor. The state Democratic party invalidated the election and placed the Lieutenant Governor's name on the ballot as the Democratic candidate instead of the candidate chosen in the primary. The voters of the state revolted at what they perceived as disenfranchisement of their right to vote and elected the Republican challenger [[Guy Hunt]] as Governor. This was the first Republican Governor elected in Alabama since Reconstruction. Since then, Republicans have been increasingly elected to state offices until in 2006 Democrats were barely holding a majority in the state legislature. Since 1986, only one Democrat, [[Don Siegelman]], has managed to win the Governor's office. A corruption probe and eventual trial, the timing of which coincided with the 2006 state primary, relegated Siegelman to one term. 
+
+Alabama state politics gained nationwide and international attention in the 1950s and 1960s during the [[African-American Civil Rights Movement (1955-1968)|American Civil Rights Movement]], when majority whites bureaucratically, and at times, violently resisted protests for electoral and social reform. [[George Wallace]], the state's governor, remains a notorious and controversial figure. Only with the passage of the Civil Rights Act of 1964&lt;ref name=cra64/&gt; and Voting Rights Act of 1965 did African Americans regain suffrage and other civil rights.
+
+In 2007, the [[Alabama Legislature]] passed, and the Governor signed, a resolution expressing &quot;profound regret&quot; over slavery and its lingering impact. In a symbolic ceremony, the bill was signed in the [[Alabama State Capitol]], which housed Congress of the [[Confederate States of America]].&lt;ref&gt;{{cite news|first=Phillip |last=Rawls |title=Alabama offers an apology for slavery |work=The Virginian Pilot |publisher=Landmark Communications |date-2007-06-01 |accessdate=2007-06-02}}&lt;/ref&gt;
+
+===National politics===
+{| align=&quot;right&quot; border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 85%;&quot;
+|+ '''Presidential elections results'''
+|- bgcolor=#D3D3D3
+! Year
+! [[Republican Party (United States)|Republican]]
+! [[Democratic Party (United States)|Democratic]]
+! State winner
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 2004|2004]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''62.46%''' ''1,176,394
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|36.84% ''693,933
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[George W. Bush]]
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 2000|2000]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''56.47%''' ''944,409
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|41.59% ''695,602
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[George W. Bush]]
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1996|1996]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''50.12%''' ''769,044
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|43.16% ''662,165
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[Bob Dole]]
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1992|1992]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''47.65%''' ''804,283
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|40.88% '' ''690,080
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[George H. W. Bush|George Bush]]
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1988|1988]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''59.17%''' ''815,576
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|39.86% ''549,506
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[George H.W. Bush|George Bush]]
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1984|1984]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''60.54%''' ''872,849
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|38.28% ''551,899
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[Ronald Reagan]]
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1980|1980]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''48.75%''' ''654,192
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|47.45% ''636,730
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[Ronald Reagan]]
+|-
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|[[U.S. presidential election, 1976|1976]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|42.61% ''504,070
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|'''55.73%''' ''659,170
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|[[Jimmy Carter]]
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1972|1972]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''72.43%''' ''728,701
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|25.54% ''256,923
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[Richard Nixon]]
+|-
+|align=&quot;center&quot; bgcolor=&quot;#F5F5F5&quot;|[[U.S. presidential election, 1968|1968]]*
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|13.99% ''146,923
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|18.72% ''196,579
+|align=&quot;center&quot; bgcolor=&quot;#F5F5F5&quot;|[[George Wallace]]
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1964|1964]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''69.45%''' ''479,085
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|30.55% ''210,732
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[Barry Goldwater]]
+|-
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|[[U.S. presidential election, 1960|1960]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|42.16% ''237,981
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|'''56.39%''' ''318,303
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|[[John F. Kennedy]]
+|-
+|align=&quot;center&quot; colspan=&quot;4&quot; bgcolor=&quot;lightgrey&quot;|*State won by [[George Wallace]]&lt;br&gt;of the [[American Independent Party]],&lt;br&gt;at 65.86%, or 691,425 votes
+|}
+
+From 1876 through 1956, Alabama supported only Democratic presidential candidates, by large margins. 1960 was a curious election. The Democrats won with [[John F. Kennedy]] on the ballot, but the Democratic electors from Alabama gave 6 of their 11 electoral votes as a protest to [[Harry F. Byrd|Harry Byrd]]. In [[United States presidential election, 1964|1964]], Republican [[Barry Goldwater]] carried the state, in part because of his opposition to the 1964 Civil Rights Act, which restored the franchise for African Americans.
+
+In [[United States presidential election, 1968|the 1968 presidential election]], Alabama supported native son and [[American Independent Party]] candidate [[George Wallace]] over both [[Richard Nixon]] and [[Hubert Humphrey]]. In [[United States presidential election, 1976|1976]], Democratic candidate [[Jimmy Carter]] from Georgia carried the state, the region, and the nation, but Democratic control of the region slipped after that.
+
+Since 1980, conservative Alabama voters have increasingly voted for Republican candidates at the Federal level, especially in Presidential elections. By contrast, Democratic candidates have been elected to many state-level offices and comprise a longstanding majority in the [[Alabama Legislature]].
+
+In [[United States presidential election, 2004|2004]], [[George W. Bush]] won Alabama's nine electoral votes by a margin of 25 percentage points with 62.5% of the vote, mostly white voters. The eleven counties that voted Democratic were [[Black Belt (region of Alabama)|Black Belt]] counties, where [[African American]]s are the majority racial group. 
+
+The state's two [[U.S. Senate|U.S. senators]] are [[Jeff Sessions|Jefferson B. Sessions III]] and [[Richard Shelby|Richard C. Shelby]], both Republicans. 
+
+In the [[U.S. House of Representatives]], the state is represented by seven members, five of whom are Republicans: ([[Jo Bonner]], [[Terry Everett]], [[Mike D. Rogers]], [[Robert Aderholt]], and [[Spencer Bachus]]) and two are Democrats: ([[Bud Cramer]] and [[Artur Davis]]). 
+{{further|[[United States presidential election in Alabama, 2004]]}}
+
+==Health and education==
+===Primary and secondary education===
+Public primary and secondary education in Alabama is under the overview of the [[Alabama State Board of Education]] as well as local oversight by 67 county school boards and 60 city boards of education. Together, 1,541 individual schools provide education for 743,364 elementary and secondary students.&lt;ref name=&quot;qfacts&quot;&gt;{{cite web
+|url=http://www.alsde.edu/general/quick_facts.pdf
+|title=Alabama Education Quick Facts 2007
+|accessdate=2007-08-11
+|format=PDF
+}} &lt;/ref&gt;
+
+Public school funding is appropriated through the Alabama Legislature through the Education Trust Fund. In FY 2006-2007, Alabama appropriated $3,775,163,578 for primary and secondary education. That represented an increase of $444,736,387 over the previous fiscal year.&lt;ref name=&quot;qfacts&quot; /&gt;
+
+In 2007, over 82 percent of schools made adequate yearly progress (AYP) toward student proficiency under the National No Child Left Behind law. In 2004, only 23 percent of schools met AYP.&lt;ref name=&quot;AYP&quot;&gt;{{cite web
+|url=http://www.alsde.edu/Accountability/2007Reports/Press/2007AYPNewsRelease.pdf
+|title=Eighty-Two Percent of Alabama Schools Make AYP While Increasing Annual Measurable Objectives
+|accessdate=2007-08-11 
+|format=PDF
+}} &lt;/ref&gt;
+
+===Colleges and universities===
+{{main|List of colleges and universities in Alabama}}
+[[Image:Harrison-plaza2.jpg|right|thumb|220px| Harrison Plaza at the [[University of North Alabama]] in Florence. The school was chartered as LaGrange College by the [[Alabama Legislature]] in 1830.]]
+
+Alabama's programs of higher education include 14 four-year public universities, numerous two-year community colleges, and 17 private, undergraduate and graduate universities. Public, post-secondary education in Alabama is overseen by the Alabama Commission on Higher Education. Colleges and universities in Alabama offer degree programs from 2-year associate degrees to 16 doctoral level programs.&lt;ref name=ache&gt; {{cite web |work=Alabama Commission on Higher Education |title=Degree titles and abbreviations |url=http://www.ache.state.al.us/Acadaffr/ProInv/Degreeabbr.htm  |type=html |accessdate 3007-09-03}}&lt;/ref&gt;
+
+Accreditation of academic programs is through the Southern Association of Schools and Colleges as well as a variety of subject focused national and international accreditation agencies.&lt;ref name=ache2&gt;{{cite web |work=Alabama Commission on Higher Education |title=Accreditation |url=http://www.ache.state.al.us/Colleges&amp;Universities/Accreditation/index.htm |accessdate 2007-09-03  |type=html}}. &lt;/ref&gt;
+
+==Professional sports teams==
+{{main|List of professional sports teams in Alabama}}
+
+{| class=&quot;wikitable&quot;
+!Club
+!Sport
+!League
+|-
+|[[Birmingham Barons]]
+|[[Baseball]]
+|[[Southern League (baseball)|Southern League]]
+|-
+|[[Huntsville Stars]]
+|Baseball
+|Southern League
+|-
+|[[Mobile BayBears]]
+|Baseball
+|Southern League
+|-
+|[[Montgomery Biscuits]]
+|Baseball
+|Southern League
+|-
+|[[Huntsville Havoc]]
+|[[Ice hockey]]
+|[[Southern Professional Hockey League]]
+|-
+|[[Alabama Renegades]] (Huntsville)
+|[[American football|Football]]
+|[[National Women's Football Association]]
+|-
+|[[Tennessee Valley Vipers]] (Huntsville)
+|[[Arena football]]
+|[[af2]]
+|}
+
+==Famous Alabamians==
+{{main|List of people from Alabama}}
+
+Famous people from Alabama include [[Hank Aaron]], [[Tallulah Bankhead]], [[Charles Barkley]], [[Hugo L. Black]], [[George Washington Carver]], [[Nat King Cole]], [[Courteney Cox Arquette]], [[Mitch Holleman]], [[Zelda Fitzgerald]], [[William C. Handy]], [[Bo Jackson]], [[Helen Keller]], [[Coretta Scott King]], [[Harper Lee]], [[Joe Louis]], [[Willie Mays]], [[John Hunt Morgan]], [[Jim Nabors]], [[Jesse Owens]], [[Rosa Parks]], [[Satchel Paige]], [[Condoleezza Rice]], [[Bart Starr]], [[George Wallace]], [[Ruben Studdard]], [[Booker T. Washington]], [[Billy Williams (baseball)|Billy Williams]] and [[Hank Williams]].&lt;ref&gt;(World Almanac &amp; Book of Facts, Reader's Digest Publishing, 2008)&lt;/ref&gt;
+
+==See also==
+*[[List of Alabama-related topics]]
+&lt;!-- {{portal|Alabama|Flag of Alabama.svg|left=yes}} --&gt;
+&lt;!-- Please place links to all topics directly related to the State of Alabama in the [[List of Alabama-related topics]] --&gt;
+
+===Cultural sites===
+[[Image:Saxes-4.jpg|thumb|The [[State Bank Building, Decatur Branch (Old State Bank)|Old State Bank]] in [[Decatur, Alabama|Decatur]] ]]
+*[[Alabama Shakespeare Festival]]
+*[[Alabama Symphony Orchestra]]
+*[[The Alabama Theatre]]
+*[[Birmingham Astronomical Society]]
+*[[Birmingham Civil Rights Institute]]
+*[[Birmingham Museum of Art]]
+
+*[[State Bank Building, Decatur Branch (Old State Bank)|Old State Bank]]
+*[[St. Stephens, Alabama|Old St. Stephens]]
+*[[Rhea-McEntire House]]
+*[[USS Alabama (BB-60)|USS Alabama]]
+*[[U.S. Space &amp; Rocket Center]]/[[U.S. Space Camp]] Huntsville
+*[[Vulcan Park]]
+
+===Events===
+*[[Alabama Jubilee Hot Air Balloon Classic]]
+*[[Alabama Sports Festival]]
+*[[Bayfest (Mobile)|Bayfest]], Mobile's Music Festival
+*[[Big Spring Jam]]
+*[[City Stages]] Music Festival, Birmingham
+*[[GMAC Bowl]]
+*[[Jubilee City Fest]], Montgomery
+*[[Mardis Gras#Mobile|Mardi Gras]], Mobile
+*[[Mobile Bay Jubilee]]
+*[[National Peanut Festival]]
+*[[Papajohns.com Bowl]] (formerly the Birmingham Bowl)
+*[[Regions Charity Classic]] (formerly the Bruno's Memorial Classic)
+*[[Senior Bowl]]
+*[[Sidewalk Moving Picture Festival]]
+*[[Spirit of America Festival]]
+
+===Venues===
+*[[Alys Robinson Stephens Performing Arts Center]] (home of the Alabama Symphony Orchestra), Birmingham
+*[[American Village]], Montevallo
+*[[Birmingham Jefferson Convention Complex]], Birmingham
+*[[Bryant-Denny Stadium]], Tuscaloosa
+*[[Celebration Arena]], Priceville
+*[[Daphne Civic Center]], Daphne
+*[[Fair Park Arena]], Birmingham
+*[[Hank Aaron Stadium]], Mobile
+*[[Joe W. Davis Stadium]], Huntsville
+*[[Jordan-Hare Stadium]], Auburn
+*[[Ladd Peebles Stadium]], Mobile
+*[[Legion Field]], Birmingham
+*[[McWane Science Center]], Birmingham
+*[[Mitchell Center]], Mobile
+*[[Mobile Civic Center]], Mobile
+*[[Montgomery Riverwalk Stadium]], Montgomery
+*[[Movie Gallery Stadium|Movie Gallery Veterans Stadium]], Troy
+*[[Paul Snow Stadium]], Jacksonville
+*[[Point Mallard Aquatic Center]], Decatur
+*[[Regions Park]], Hoover
+*[[Rickwood Field]], Birmingham
+*[[Robert Trent Jones Golf Trail]]
+*[[Talladega Superspeedway]] and [[The International Motorsports Hall of Fame &amp; Museum]]
+*[[Von Braun Center]], Huntsville
+
+==References== 	
+{{reflist|2}}
+
+==Further reading==
+:''For a detailed bibliography, see the [[History of Alabama]].''
+* Atkins, Leah Rawls, Wayne Flynt, William Warren Rogers, and David Ward. ''Alabama: The History of a Deep South State'' (1994)
+* Flynt, Wayne. ''Alabama in the Twentieth Century'' (2004)
+* Owen Thomas M. ''History of Alabama and Dictionary of Alabama Biography'' 4 vols. 1921.
+* Jackson, Harvey H. ''Inside Alabama: A Personal History of My State'' (2004)
+* Mohl, Raymond A. &quot;Latinization in the Heart of Dixie: Hispanics in Late-twentieth-century Alabama&quot; ''Alabama Review'' 2002 55(4): 243-274. ISSN 0002-4341
+* Peirce, Neal R. ''The Deep South States of America: People, Politics, and Power in the Seven Deep South States'' (1974). Information on politics and economics 1960&amp;ndash;72.
+* Williams, Benjamin Buford. ''A Literary History of Alabama: The Nineteenth Century'' 1979.
+* WPA. ''Guide to Alabama'' (1939)
+
+==External links==
+&lt;!--===========================({{NoMoreLinks}})===============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. WIKIPEDIA IS   |
+    | NOT A COLLECTION OF LINKS.                                              |
+    |                                                                         | 
+    |               Excessive or inappropriate links WILL BE DELETED.         |
+    |  See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details.   |
+    |                                                                         | 
+    | If there are already plentiful links, please propose additions or       |
+    | replacements on this article's discussion page. Or submit your link    |
+    | to the appropriate category at the Open Directory Project (www.dmoz.org)|
+    | and link back to that category using the {{dmoz}} template.             |
+    ===========================({{NoMoreLinks}})===============================--&gt;
+{{sisterlinks|Alabama|s=Wikisource:Alabama}}
+*[http://alabama.gov/ Alabama.gov] – Official website.
+*[http://wikis.ala.org/godort/index.php/Alabama Alabama State Databases] - Annotated list of searchable databases produced by Alabama state agencies and compiled by the Government Documents Roundtable of the American Library Association.
+*[http://www.alarc.org/ Alabama Association of Regional Councils]
+*[http://tonto.eia.doe.gov/state/state_energy_profiles.cfm?sid=AL Energy Data &amp; Statistics for Alabama- From the U.S. Department of Energy]
+*[http://www.touralabama.org/ TourAlabama.org] – Alabama Department of Tourism and Travel
+*[http://www.archives.state.al.us/aaa.html All About Alabama], at the Alabama Department of Archives and History site
+*[http://www.alabamamosaic.org/ AlabamaMosaic], a digital repository of materials on Alabama's history, culture, places, and people
+*[http://www.legislature.state.al.us/CodeofAlabama/1975/coatoc.htm Code of Alabama 1975] – at the Alabama Legislature site
+*{{dmoz|Regional/North_America/United_States/Alabama|Alabama}}
+*[http://www.usgs.gov/state/state.asp?State=AL USGS real-time, geographic, and other scientific resources of Alabama]
+*[http://quickfacts.census.gov/qfd/states/01000.html Alabama QuickFacts] from the U.S. Census Bureau
+*[http://www.ers.usda.gov/statefacts/al.htm Alabama State Fact Sheet] from the U.S. Department of Agriculture
+*[http://www.Alapark.com Alabama State Parks]
+*[http://nps.seeamerica.org/pmgr?state=AL National Parks of Alabama]
+*[http://www.encyclopediaofalabama.org/ Encyclopedia of Alabama]
+
+{{Template group
+|list =
+{{Alabama|expand}}
+{{USPoliticalDivisions}}
+{{US South}}
+{{Confederate States of America}}
+
+{{succession
+| preceded = [[Illinois]]
+| office = [[List of U.S. states by date of statehood]]
+| years = Admitted on December 14, 1819 (22nd)
+| succeeded = [[Maine]]
+}}
+
+{{coord|33|N|87|W|region:US-AL_type:adm1st_scale:3000000|display=title}}
+}}
+
+[[Category:Alabama| ]]
+[[Category:States of the United States]]
+[[Category:Confederate states (1861-1865)]]
+[[Category:Southern United States]]
+[[Category:1819 establishments]]
+
+[[af:Alabama]]
+[[ang:Alabama]]
+[[ar:ألاباما]]
+[[an:Alabama]]
+[[frp:Alabama]]
+[[ast:Alabama]]
+[[az:Alabama]]
+[[bn:আলাবামা]]
+[[zh-min-nan:Alabama]]
+[[bi:Alabama]]
+[[bs:Alabama]]
+[[br:Alabama (stad)]]
+[[bg:Алабама]]
+[[ca:Alabama]]
+[[cv:Алабама (штат)]]
+[[cs:Alabama]]
+[[co:Alabama]]
+[[cy:Alabama]]
+[[da:Alabama]]
+[[de:Alabama]]
+[[et:Alabama]]
+[[el:Αλαμπάμα]]
+[[es:Alabama]]
+[[eo:Alabamo]]
+[[eu:Alabama]]
+[[fa:آلاباما]]
+[[fo:Alabama]]
+[[fr:Alabama]]
+[[fy:Alabama]]
+[[ga:Alabama]]
+[[gd:Alabama]]
+[[gl:Alabama]]
+[[ko:앨라배마 주]]
+[[haw:‘Alapama]]
+[[hy:Ալաբամա]]
+[[hi:अलाबामा]]
+[[hr:Alabama]]
+[[io:Alabama]]
+[[ig:Alabama]]
+[[bpy:আলাবামা]]
+[[id:Alabama]]
+[[ik:Alabama]]
+[[os:Алабамæ (штат)]]
+[[is:Alabama]]
+[[it:Alabama]]
+[[he:אלבמה]]
+[[pam:Alabama]]
+[[ka:ალაბამა (შტატი)]]
+[[kw:Alabama]]
+[[ht:Alabama]]
+[[ku:Alabama]]
+[[lad:Alabama]]
+[[la:Alabama]]
+[[lv:Alabama]]
+[[lb:Alabama (Bundesstaat)]]
+[[lt:Alabama]]
+[[lij:Alabamm-a]]
+[[jbo:alybamys]]
+[[hu:Alabama]]
+[[mk:Алабама]]
+[[ml:അലബാമ]]
+[[mi:Alabama]]
+[[mr:अलाबामा]]
+[[ms:Alabama]]
+[[nah:Alabama]]
+[[nl:Alabama]]
+[[ja:アラバマ州]]
+[[nap:Alabama]]
+[[no:Alabama]]
+[[nn:Alabama]]
+[[oc:Alabama]]
+[[uz:Alabama]]
+[[pms:Alabama]]
+[[nds:Alabama]]
+[[pl:Alabama]]
+[[pt:Alabama]]
+[[ro:Alabama (stat SUA)]]
+[[ru:Алабама (штат)]]
+[[sq:Alabama]]
+[[scn:Alabama]]
+[[simple:Alabama]]
+[[sk:Alabama]]
+[[sl:Alabama]]
+[[sr:Алабама]]
+[[sh:Alabama]]
+[[fi:Alabama]]
+[[sv:Alabama]]
+[[tl:Alabama]]
+[[ta:அலபாமா]]
+[[th:มลรัฐแอละแบมา]]
+[[vi:Alabama]]
+[[tr:Alabama]]
+[[uk:Алабама (штат)]]
+[[ur:الاباما]]
+[[vo:Alabama]]
+[[yi:אלאבאמא]]
+[[diq:Alabama]]
+[[bat-smg:Alabama]]
+[[zh:亚拉巴马州]]

@@ -1,0 +1,85 @@
+{{Infobox Scientist
+|name              = Alain Connes
+|box_width         = 26em
+|image             = Alain_Connes_in_2004.jpg
+|image_width       = 200px
+|caption           = Alain Connes in 2004
+|birth_date        = {{Birth date and age|df=yes|1947|4|1}}
+|birth_place       = [[France]]
+|death_date        = 
+|death_place       = 
+|residence         = [[Image:Flag of France.svg|20px]] [[France]]
+|citizenship       = [[Image:Flag of France.svg|20px]] [[France|French]]
+|nationality       = 
+|ethnicity         = 
+|field             = [[Mathematics]]
+|work_institutions = [[IHÉS]], [[France]]
+|alma_mater        = [[École Normale Supérieure]], [[France]] 
+|doctoral_advisor  = [[Jacques Dixmier]]
+|doctoral_students = Alain Valette&lt;br/&gt;Georges Skandalis&lt;br/&gt;Benjamin Enriquez
+|known_for         = [[Baum–Connes conjecture]]&lt;br/&gt;[[Noncommutative geometry]]&lt;br/&gt;[[Operator algebra]]s&lt;br/&gt;
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|prizes            = [[Fields Medal]] (1982)&lt;br/&gt;[[Crafoord Prize ]] (2001)&lt;br/&gt;[[CNRS]] Gold Medal (2004)
+|religion          = 
+|footnotes         = 
+}}
+
+'''Alain Connes''' (born 1 April 1947) is a [[France|French]] [[mathematician]], currently Professor at the [[College de France]], [[IHÉS]] and [[Vanderbilt University]]. 
+
+==Work==
+Alain Connes is one of the leading specialists on [[operator algebra]]s. In his early work on [[von Neumann algebras]] in the 1970s, he succeeded in obtaining the almost complete classification of injective [[Von Neumann algebra#Factors|factor]]s. Following this he made contributions in [[K-theory|operator K-theory]] and [[index theory]], which culminated in the 
+[[Baum-Connes conjecture]]. He also introduced [[cyclic homology|cyclic cohomology]] in the early 1980s as a first step in the study of [[noncommutative geometry| noncommutative differential geometry]].
+
+Connes has applied his work in areas of [[mathematics]] and [[theoretical physics]], including [[number theory]], [[differential geometry]] and [[particle physics]].
+
+==Awards and honours==
+
+Connes was awarded the [[Fields Medal]] in 1982, the [[Crafoord Prize]] in 2001 and the gold medal of the [[CNRS]] in 2004.  He is a member of the [[French Academy of Sciences]] and several foreign academies and societies, including the [[Royal Danish Academy of Sciences and Letters|Danish Academy of Sciences]], [[Norwegian Academy of Science and Letters|Norwegian Academy of Sciences]], [[Russian Academy of Sciences]], and [[United States National Academy of Sciences|US National Academy of Sciences]].
+
+==See also==
+* [[cyclic homology]]
+* [[factor (functional analysis)]]
+* [[Higgs boson]]
+* [[C*-algebra]]
+* [[M Theory]]
+* [[Groupoid]]
+
+==External links==
+
+* [http://www.alainconnes.org/ Alain Connes Official Web Site] containing [http://www.alainconnes.org/en/downloads.php downloadable papers], and his book [http://www.alainconnes.org/docs/book94bigpdf.pdf ''Non-commutative geometry''], ISBN 0-12-185860-X.
+* [http://resonaances.blogspot.com/2007/02/alain-connes-standard-model.html Alain Connes' Standard Model]
+* An [http://www.ipm.ac.ir/ViewNewsInfo.jsp?NTID=227 interview with Alain Connes] and a [http://www.math.columbia.edu/~woit/wordpress/?p=313 discussion about it]
+* {{MacTutor Biography|id=Connes}}
+* {{MathGenealogy|id=34220}}
+
+{{Fields medalists}}
+
+{{DEFAULTSORT:Connes, Alain}}
+
+[[Category:20th century mathematicians]]
+[[Category:Members of the National Academy of Sciences]]
+[[Category:21st century mathematicians]]
+[[Category:Collège de France faculty]]
+[[Category:French mathematicians]]
+[[Category:Fields Medalists]]
+[[Category:Mathematical analysts]]
+[[Category:Differential geometers]]
+[[Category:Alumni of the École Normale Supérieure]]
+[[Category:Vanderbilt University faculty]]
+[[Category:Members of the Russian Academy of Sciences]]
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:Members of the French Academy of Sciences]]
+
+[[ar:ألان كن]]
+[[de:Alain Connes]]
+[[es:Alain Connes]]
+[[fr:Alain Connes]]
+[[ko:알랭 콘느]]
+[[it:Alain Connes]]
+[[ht:Alain Connes]]
+[[ja:アラン・コンヌ]]
+[[pl:Alain Connes]]
+[[fi:Alain Connes]]
+[[zh:阿蘭·科納]]

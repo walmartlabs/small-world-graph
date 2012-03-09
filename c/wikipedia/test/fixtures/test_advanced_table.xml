@@ -1,0 +1,27 @@
+<mediawiki>
+  <page>
+    <title>Textman</title>
+    <id>43715</id>
+    <revision>
+      <id>244657982</id>
+      <timestamp>2008-10-11T22:25:17Z</timestamp>
+      <contributor>
+        <username>S711</username>
+        <id>4257015</id>
+      </contributor>
+      <minor />
+      <comment>wikif.</comment>
+      <text xml:space="preserve">
+{| border="1"
+|+ My Caption!
+|-
+|Row 1 Cell 1 (no modifier — not aligned)
+|align="right" |Row 1 Cell 2 (right aligned)
+|-
+|align="right" |Row 2 Cell 1 (right aligned)
+  |align="right" bgcolor='#ffffff' |Row 2 Cell 2 (right aligned and white background)
+|}
+</text>
+    </revision>
+  </page>
+</mediawiki>

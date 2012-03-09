@@ -1,0 +1,16 @@
+<mediawiki>
+  <page>
+    <title>Stanford</title>
+    <id>434208</id>
+    <revision>
+      <id>230424448</id>
+      <timestamp>2008-08-07T15:45:42Z</timestamp>
+      <contributor>
+        <username>Ikluft</username>
+        <id>3785396</id>
+      </contributor>
+      <comment>[[WP:UNDO|Undid]] revision 230392998 by [[Special:Contributions/Nick Hickman|Nick Hickman]] ([[User talk:Nick Hickman|talk]]) too many pages currently link to &quot;Stanford&quot; intending the University</comment>
+      <text xml:space="preserve">#REDIRECT [[Stanford_University]]</text>
+    </revision>
+  </page>
+</mediawiki>

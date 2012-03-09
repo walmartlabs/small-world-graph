@@ -1,0 +1,1144 @@
+      <text xml:space="preserve">&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+{{redirect|San Francisco}}
+{{Infobox Settlement
+&lt;!--See Template:Infobox Settlement for additional fields that may be available--&gt;
+&lt;!--See the Table at Infobox Settlement for all fields and descriptions of usage--&gt;
+&lt;!-- Basic info  ----------------&gt;
+|official_name          = City and County of San Francisco
+|nickname               = The City by the Bay, The City{{Fact|date=October 2008}}, Frisco,&lt;ref&gt;{{cite news 
+  | last = Sullivan  | first = James
+  | title = Frisco, that once-verboten term for the city by the bay, is making a comeback among the young and hip. Herb Caen is spinning at warp speed.
+  | url = http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2003/10/14/DD67721.DTL&amp;type=travelbayarea
+  | work = Datebook | publisher = San Francisco Chronicle
+  | location = San Francisco
+  | page = D-1
+  | date = 2003-10-14
+  | accessdate = 2008-06-12
+}}&lt;/ref&gt;&lt;ref&gt;Many tourists refer to San Francisco as &quot;Frisco&quot;, a name popularized through songs like [[Sittin' on the Dock of the Bay]] and [[Sweet Little Sixteen]]. However, locals discourage this use and prefer the nickname ''The City by the Bay.'' Samuel D. Cohen writes that many credit &quot;Friscophobia&quot; to newspaper columnist [[Herb Caen]], whose first book, published in 1953, was &quot;Don't Call it Frisco.&quot; Caen was considered by many to be the recognized authority on what was, and what was not, beneath the city's dignity, and to him, Frisco was intolerable. {{cite web | last =Cohen | first =Sam | title = Locals Know best: only tourists call it 'Frisco'| work = Golden Gater Online| publisher = San Francisco State University | date = [[1997-09-11]]| url =http://www.journalism.sfsu.edu/www/pubs/gater/fall97/sept11/Frisco.html | accessdate = 2008-07-13}}&lt;/ref&gt; The City That Knows How (archaic),&lt;ref&gt;{{cite web
+  | last= San Francisco Public Library
+  | url=http://sfpl.lib.ca.us/news/onlineexhibits/amusing/ppie.htm
+  | title=PPIE: The City That Knows How
+  | accessdate=2008-06-14
+  | work=Amusing America
+  | publisher=San Francisco Public Library, Online Exhibitions
+  | date=2005-03-29
+}}&lt;/ref&gt; Baghdad by the Bay&lt;ref&gt;{{cite book
+  | last = Caen
+  | first = Herb
+  | authorlink = Herb Caen 
+  | title = Baghdad-by-the-Bay
+  | publisher = Doubleday
+  | date = 1949
+  | location = Garden City, N.Y.
+  | id = LC F869.S3 C12
+  | isbn = 978-0891740476}}&lt;/ref&gt;
+|settlement_type        = City
+|motto                  = ''Oro en Paz, Fierro en Guerra''&lt;br /&gt;([[Spanish language|Spanish]] for &quot;Gold in Peace, Iron in War&quot;)
+
+&lt;!-- images and maps  -----------&gt;
+|image_skyline = SF From Marin Highlands3.jpg
+|imagesize = 250px 
+|image_caption = San Francisco from the [[Marin Headlands]], with the [[Golden Gate Bridge]] in the foreground
+|image_flag             = Flag of San Francisco.svg
+|flag_size              = 100px
+|image_seal             = Sfseal.png
+|seal_size              = 100px
+|image_map              = California county map (San Francisco County enlarged).svg
+|mapsize                = 200px
+|map_caption            = Location of San Francisco, California
+
+&lt;!-- Location ------------------&gt;
+|subdivision_type       = [[Country]]
+|subdivision_name       = United States
+|subdivision_type1      = [[U.S. state|State]]
+|subdivision_name1      = [[California]]
+
+&lt;!-- Politics -----------------&gt;
+|government_type        = [[Consolidated city-county]]
+|leader_title           = [[Mayor of San Francisco|Mayor]]
+|leader_name            = [[Gavin Newsom]]
+|leader_title1          = [[San Francisco Board of Supervisors|Board of Supervisors]]
+|leader_name1           = {{Collapsible list
+  |title = Supervisors
+  |frame_style = border:none; padding: 0;
+  |list_style  = text-align:left;display:none;
+  |1  = [[Jake McGoldrick]]
+  |2  = [[Michela Alioto-Pier]]
+  |3  = [[Aaron Peskin]]
+  |4  = [[Carmen Chu]]
+  |5  = [[Ross Mirkarimi]]
+  |6  = [[Chris Daly]]
+  |7  = [[Sean Elsbernd]]
+  |8  = [[Bevan Dufty]]
+  |9  = [[Tom Ammiano]]
+  |10 = [[Sophie Maxwell]]
+  |11 = [[Gerardo Sandoval]]
+  }}
+|leader_title2          = [[California State Assembly|State Assembly]]
+|leader_name2           = {{Collapsible list
+  |title = Assemblymembers
+  |frame_style = border:none; padding: 0;
+  |list_style  = text-align:left;display:none;
+  |1 = [[Fiona Ma]] ([[Democratic Party (United States)|D]])
+  |2 = [[Mark Leno]] ([[Democratic Party (United States)|D]])
+  }}
+|leader_title3          = [[California State Senate|State Senate]]
+|leader_name3           = {{Collapsible list
+  |title = State senators
+  |frame_style = border:none; padding: 0;
+  |list_style  = text-align:left;display:none;
+  |1 = [[Carole Migden]] ([[Democratic Party (United States)|D]])
+  |2 = [[Leland Yee]] ([[Democratic Party (United States)|D]])
+  }}
+|leader_title4          = [[United States House of Representatives|U.S. House]]
+|leader_name4           = {{Collapsible list
+  |title = Representatives
+  |frame_style = border:none; padding: 0;
+  |list_style  = text-align:left;display:none;
+  |1 = [[Nancy Pelosi]] ([[Democratic Party (United States)|D]])
+  |2 = [[Jackie Speier]] ([[Democratic Party (United States)|D]])
+  }}
+|established_title      = Founded
+|established_date       = June 29, 1776
+|established_title1     = [[Municipal incorporation|Incorporated]]
+|established_date1      = April 15, 1850
+|founder                = Lieutenant [[José Joaquin Moraga]] and [[Francisco Palóu|Father Francisco Palóu]]
+|named_for              = [[Francis of Assisi|Saint Francis of Assisi]]
+
+&lt;!-- Area    ---------------------&gt;
+|unit_pref                = Imperial
+|area_total_sq_mi         = 231.92
+|area_land_sq_mi          = 46.7
+|area_water_sq_mi         = 185.2
+|area_water_percent       = 79.8
+|area_urban_sq_mi         =
+|area_metro_sq_mi         = 3524.4
+
+&lt;!-- Elevation --------------------------&gt;
+|elevation_ft           = 52
+|elevation_max_ft           = 925
+|elevation_min_ft           = 0
+
+&lt;!-- Population   -----------------------&gt;
+|population_as_of               = 2007
+|population_footnotes           = &lt;ref name=&quot;metropop&quot;&gt;{{cite web
+  | title = Table 1. Annual Estimates of the Population of Metropolitan and Micropolitan Statistical Areas: April 1, 2000 to July 1, 2007
+  | publisher = US Census Bureau
+  | date = 2008-03-27
+  | url = http://www.census.gov/popest/metro/tables/2007/CBSA-EST2007-01.xls
+  | format = XLS
+  | accessdate = 2008-06-11
+}}&lt;/ref&gt;&lt;ref name=&quot;SF2007pop&quot;&gt;{{cite web
+  | title = San Francisco County, California
+  | work = Population Finder
+  | publisher = US Census Bureau
+  | date = 2008-03-27
+  | url = http://factfinder.census.gov/servlet/SAFFPopulation?_event=&amp;geo_id=05000US06075&amp;_geoContext=01000US%7C04000US06%7C05000US06075&amp;_street=&amp;_county=san+francisco&amp;_cityTown=san+francisco&amp;_state=04000US06&amp;_zip=&amp;_lang=en&amp;_sse=on&amp;ActiveGeoDiv=&amp;_useEV=&amp;pctxt=fph&amp;pgsl=050&amp;_submenuId=population_0&amp;ds_name=ACS_2006_SAFF&amp;_ci_nbr=null&amp;qr_name=null&amp;reg=null%3Anull&amp;_keyword=&amp;_industry=
+  | doi =
+  | accessdate = 2008-06-12
+}}&lt;/ref&gt;&lt;ref name=CSApop&gt;{{cite web
+  | title = Table 2. Annual Estimates of the Population of Combined Statistical Areas: April 1, 2000 to July 1, 2007
+  | publisher = US Census Bureau
+  | date = 2008-03-27
+  | url = http://www.census.gov/population/www/estimates/metro_general/2007/CBSA-EST2007-02.xls
+  | format = XLS
+  | doi =
+  | accessdate = 2008-06-12}}&lt;/ref&gt;
+|population_total               = 653,509
+|population_density_sq_mi       = 16380
+|population_metro               = 6,345,004
+|population_urban               = 2,453,989
+
+&lt;!-- General information  ---------------&gt;
+|timezone               = [[Pacific Time Zone|Pacific Standard Time]]
+|utc_offset             = -8
+|timezone_DST           = [[Pacific Time Zone|Pacific Daylight Time]]
+|utc_offset_DST         = -7
+|latd= 37
+|latm= 46
+|lats= 45.48
+|latNS= N
+|longd= 122
+|longm= 25
+|longs= 9.12
+|longEW= W
+
+&lt;!-- Area/postal codes &amp; others --------&gt;
+|postal_code_type       = [[ZIP Code]]
+|postal_code            = 94101–94112, 94114–94147, 94150–94170, 94172, 94175, 94177
+|area_code              = [[Area code 415|415]]
+|website                = [http://www.sfgov.org/ www.sfgov.org]
+|footnotes              = 
+}}
+
+The '''City and County of San Francisco''' is the fourth most populous city in [[California]] and the [[List of United States cities by population|14th most populous city]] in the [[United States]], with a 2007 estimated population of 764,976.&lt;ref name=&quot;SF2007pop&quot;/&gt; Among the [[List of United States cities by population|most]] [[Population density|densely populated]] cities in the country,&lt;ref name=&quot;PopDen&quot;&gt;{{cite web 
+ | title = 2000 Census: US Municipalities Over 50,000: Ranked by 2000 Population
+ | publisher = Demographia
+ | date = 2006-08-01
+ | url = http://www.demographia.com/db-uscity98.htm
+ | doi = 
+ | accessdate = 2008-06-12
+}}&lt;/ref&gt; San Francisco is part of the [[San Francisco Bay Area]] [[metropolitan area]], which is home to more than 7.2 million people.&lt;ref&gt;{{cite web|url=http://www.census.gov/population/www/estimates/metro_general/2007/CBSA-EST2007-01.csv|publisher=US Census Bureau|accessdate=2008-06-30|title=Annual Estimates of the Population of Metropolitan and Micropolitan Statistical Areas: April 1, 2000 to July 1, 2007}}&lt;/ref&gt; The city is located at the tip of the [[San Francisco Peninsula]], with the [[Pacific Ocean]] to the west, [[San Francisco Bay]] to the east, and the [[Golden Gate]] to the north.
+
+In 1776, the Spanish [[Spanish colonization of the Americas|settled]] the tip of the peninsula, establishing a [[Presidio of San Francisco|fort]] at the Golden Gate and a [[Mission San Francisco de Asís|mission]] named for [[Francis of Assisi]]. The [[California Gold Rush]] in 1848 propelled the city into a period of rapid growth, transforming it into the largest city on the [[West Coast of the United States|West Coast]] at the time. After being devastated by the [[1906 San Francisco earthquake|1906 earthquake and fire]], San Francisco was quickly rebuilt, hosting the [[Panama-Pacific International Exposition]] nine years later. During [[World War II]], San Francisco was the send-off point for many soldiers to the [[Pacific Ocean theater of World War II|Pacific Theater]]. After the war, the confluence of returning servicemen, massive immigration, liberalizing attitudes, and other factors gave rise to the [[Summer of Love]] and the [[gay rights movement]], cementing San Francisco as a liberal bastion in the United States.
+
+San Francisco is a popular international tourist destination famous for its landmarks, including the [[Golden Gate Bridge]], [[Alcatraz Island]], the [[San Francisco cable car system|cable car]]s, [[Coit Tower]], and [[Chinatown, San Francisco, California|Chinatown]], its steep rolling hills, and its eclectic mix of [[Victorian architecture|Victorian]] and [[modern architecture]]. The city is also known for its diverse, cosmopolitan population, including large and long-established [[Asian American]], and [[LGBT]] communities.
+
+== History ==
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+{{main|History of San Francisco, California}}
+The earliest archaeological evidence of inhabitation of the territory of the city of San Francisco dates to 3000 BC.&lt;ref&gt;{{cite web
+ | url=http://www.sonoma.edu/asc/projects/pointreyes/overview2.pdf
+ | title=Archaeological Research Issues For The Point Reyes National Seashore - Golden Gate National Recreation Area
+ | accessdate=2008-06-12
+ | last=Stewart
+ | first=Suzanne B.
+ | year= 2003
+ | month=November
+ | format=PDF
+ | publisher=Sonoma State University - Anthropological Studies Center
+}}&lt;/ref&gt; The [[Yelamu]] group of the [[Ohlone]] people resided in several small villages when a [[Spanish colonization of the Americas|Spanish exploration party]], led by Don [[Gaspar de Portolà]] arrived on November 2, 1769, the first documented European visit to [[San Francisco Bay]].&lt;ref name=&quot;Portola&quot;&gt;{{cite web 
+ | title= Visitors: San Francisco Historical Information
+ | url= http://www.sfgov.org/site/visitor_index.asp?id=8091
+ | date= n.d.
+ | accessdate=2008-06-10
+ | publisher = City and County of San Francisco
+}}&lt;/ref&gt; Seven years later, on March 28, 1776, the Spanish established the [[Presidio of San Francisco]], followed by a [[Spanish Missions of California|mission]], [[Mission San Francisco de Asís]] (Mission Dolores).
+
+[[Image:Mission San Francisco de Asis old.jpg|thumb|left|[[Mission San Francisco de Asís]] (Mission Dolores)]]
+
+Upon [[Mexican War of Independence|independence]] from Spain in 1821, the area became part of Mexico. In 1835, Englishman [[William A. Richardson|William Richardson]] erected the first significant homestead outside the immediate vicinity of the Mission Dolores,&lt;ref name=&quot;Richardson&quot;&gt;{{cite web
+ | last= The Virtual Museum of the City of San Francisco
+ | title= From the 1820s to the Gold Rush
+ | date=2004-07-16
+ | url= http://www.sfmuseum.org/hist1/early.html
+ | accessdate=2008-06-13
+ | publisher = The Virtual Museum of the City of San Francisco
+}}&lt;/ref&gt; near a boat anchorage around what is today [[Portsmouth Square]]. Together with Mission [[Alcalde]] [[Francisco de Haro]], he laid out a street plan for the expanded settlement, and the town, named [[Yerba Buena (town)|Yerba Buena]], began to attract American settlers. Commodore [[John D. Sloat]] claimed California for the United States on July 7, 1846, during the [[Mexican-American War]], and Captain [[John B. Montgomery]] arrived to claim Yerba Buena two days later. Yerba Buena was renamed San Francisco the next year.&lt;ref&gt;{{cite web
+ | url=http://www.yerbabuenagardens.com/history.html
+ | title=History of Yerba Buena Gardens
+ | accessdate=2008-06-13
+ | publisher=MJM Management Group
+ | date=2004
+}}&lt;/ref&gt; Despite its attractive location as a port and naval base, San Francisco was still a small settlement with inhospitable geography.&lt;ref&gt;{{cite book
+  | last = Wiley | first = Peter Booth
+  | title = National trust guide- San Francisco: America’s guide for architecture and history travelers
+  | publisher = John Wiley &amp; Sons, Inc. | year = 2000  | location = New York | pages = pp. 4–5 | oclc = 44313415
+  | isbn = 9780471191209}}&lt;/ref&gt;
+
+The [[California Gold Rush]] brought a flood of treasure seekers. With their [[sourdough|sourdough bread]] in tow,&lt;ref&gt;Sourdough bread was a staple of western explorers and miners of the 19th century. It became an iconic symbol of San Francisco, and is still a staple of city life today.{{cite journal
+  | last = Tamony
+  | first = Peter 
+  | title = Sourdough and French Bread 
+  | journal = Western Folklore
+  | volume = 32
+  | issue = 4
+  | pages = 265–270
+  | publisher = Western States Folklore Society
+  | year = 1973 |month = October
+  | accessdate=2008-06-08 
+  | doi = 10.2307/1498306}}&lt;/ref&gt; prospectors accumulated in San Francisco over rival [[Benicia, California|Benicia]],&lt;ref&gt;{{cite web
+  | title = San Francisco's First Brick Building
+  | publisher = The Virtual Museum of the City of San Francisco
+  | date = 2004-07-16 | url = http://www.sfmuseum.org/hist1/brick.html
+  | accessdate = 2008-06-13}}&lt;/ref&gt; raising the population from 1,000 in 1848 to 25,000 by December 1849.&lt;ref&gt;{{cite book
+ |last = Richards
+ |first = Rand
+ |title = Historic San Francisco: A Concise History and Guide
+ |publisher = Heritage House
+ |date = 1992
+ |id = ISBN 1-879367-00-9 }}&lt;/ref&gt; The promise of fabulous riches was so strong that crews on arriving vessels deserted and rushed off to the gold fields, leaving behind a forest of masts in San Francisco harbor.&lt;ref name=&quot;buriedships&quot;&gt;{{cite news | last = Harris | first = Ron | title = Crews Unearth Shipwreck on San Francisco Condo Project |publisher = Associated Press | date = 2005-11-14 | url = http://www.constructionequipmentguide.com/story.asp?story=6287&amp;headline=Crews | accessdate = 2006-09-04}}&lt;/ref&gt; [[California]] was quickly granted [[U.S. state|statehood]] and the U.S. military built [[Fort Point, San Francisco|Fort Point]] at the [[Golden Gate]] and a fort on [[Alcatraz Island]] to secure the San Francisco Bay. Silver discoveries, including the [[Comstock Lode]] in 1859, further drove rapid population growth.&lt;ref&gt;{{cite book
+  | last = Wiley | first = Peter Booth
+  | title = National trust guide- San Francisco: America’s guide for architecture and history travelers
+  | publisher = John Wiley &amp; Sons, Inc. | year = 2000  | location = New York | pages = pp. 31–33 | oclc = 44313415
+  | isbn = 9780471191209}}&lt;/ref&gt; With hordes of fortune seekers streaming through the city, lawlessness was common, and the [[Barbary Coast, San Francisco, California|Barbary Coast]] section of town gained notoriety as a haven for criminals, prostitution, and gambling.&lt;ref&gt;“The miners came in forty-nine, / The whores in fifty-one, / And when they got together / They produced the native son.” {{cite book   | last = Wiley | first = Peter Booth 
+  | title = National trust guide- San Francisco: America’s guide for architecture and history travelers
+  | publisher = John Wiley &amp; Sons, Inc. | year = 2000  | location = New York
+  | pages = pp. 237–238 | oclc = 44313415 | isbn = 9780471191209}}&lt;/ref&gt;
+
+[[Image:SanFrancisco1851a.jpg|thumb|right|1851 San Francisco]]Entrepreneurs sought to capitalize on the wealth generated by the Gold Rush. Early winners were the banking industry, which saw the founding of [[Wells Fargo]] in 1852, and the railroad industry, as the magnates of [[the Big Four]], led by [[Leland Stanford]], collaborated in the building of the [[First Transcontinental Railroad]]. The development of the [[Port of San Francisco]] established the city as a center of trade. Catering to the needs and tastes of the growing population, [[Levi Strauss]] opened a dry goods business and [[Domingo Ghirardelli]] began manufacturing chocolate. Immigrant laborers made the city a polyglot culture, with [[Han Chinese|Chinese]] railroad workers creating the city's [[Chinatown, San Francisco, California|Chinatown]] quarter. The first [[San Francisco cable car system|cable cars]] carried San Franciscans up [[Clay Street Hill Railroad|Clay Street]] in 1873. The city's sea of [[Victorian house]]s began to take shape, and civic leaders campaigned for a spacious public park, resulting in plans for [[Golden Gate Park]]. San Franciscans built schools, churches, theaters, and all the hallmarks of civic life. The [[Presidio of San Francisco|Presidio]] developed into the most important American military installation on the Pacific coast.&lt;ref&gt;
+{{cite web
+  | title = Under Three Flags | work = Golden Gate National Recreation Area Brochures
+  | publisher = US Department of the Interior
+  | year = 2004 | month = November
+  | url = http://www.nps.gov/goga/planyourvisit/upload/3flags_7-03.pdf | format = PDF
+  | doi =  | accessdate = 2008-06-13}}&lt;/ref&gt; By the turn of the century, San Francisco was a major city known for its flamboyant style, stately hotels, ostentatious mansions on [[Nob Hill, San Francisco, California|Nob Hill]], and a thriving arts scene.&lt;ref&gt;{{cite book
+  | last = Wiley | first = Peter Booth
+  | title = National trust guide- San Francisco: America’s guide for architecture and history travelers
+  | publisher = John Wiley &amp; Sons, Inc. | year = 2000  | location = New York | pages = pp. 44–55 | oclc = 44313415
+  | isbn = 9780471191209}}&lt;/ref&gt;
+
+[[Image:San francisco fire 1906.jpg|right|thumb|center|550px|&quot;Not in history has a modern imperial city been so completely destroyed. San Francisco is gone.&quot; – [[Jack London]] after the [[1906 San Francisco earthquake|1906 earthquake]] and fire&lt;ref&gt;{{cite journal
+|last = London
+|first = Jack
+|title = The Story of an Eyewitness by Jack London
+|journal = Collier's, The National Weekly
+|publisher = The Virtual Museum of the City of San Francisco
+|date = May 5, 1906
+|url = http://www.sfmuseum.org/hist5/jlondon.html
+|accessdate=2006-08-29}}&lt;/ref&gt;]]
+
+At 5:12 am on April 18, 1906, a major [[1906 San Francisco earthquake|earthquake struck San Francisco]] and Northern California. As buildings collapsed from the shaking, ruptured gas lines ignited fires that would spread across the city and burn out of control for several days. With water mains out of service, the [[Presidio of San Francisco|Presidio]] Artillery Corps attempted to contain the inferno by dynamiting blocks of buildings to create firebreaks.&lt;ref name=&quot;Funston&quot;&gt;{{cite web
+  | title = Presidio of San Francisco: Firefighting and Dynamiting
+  | work = Golden Gate National Recreation Area
+  | publisher = US Department of the Interior | date = 2003-12-24
+  | url = http://www.nps.gov/archive/prsf/history/1906eq/firedyn.htm
+  | doi =  | accessdate = 2008-06-13}}&lt;/ref&gt; More than three-quarters of the city lay in ruins, including almost all of the downtown core.&lt;ref&gt;{{cite news 
+  | last = Montagne | first = Renée
+  | title = Remembering the 1906 San Francisco Earthquake
+  | work = People &amp; Places | publisher = National Public Radio
+  | date = 2006-04-11
+  | url = http://www.npr.org/templates/story/story.php?storyId=5334411
+  | accessdate = 2008-06-13}}&lt;/ref&gt; Contemporary accounts reported that 498 people lost their lives, though modern estimates put the number in the several thousands.&lt;ref&gt;{{cite web
+  | title = Casualties and Damage after the 1906 earthquake
+  | work = Earthquake Hazards Program - Northern California
+  | publisher = US Geological Survey
+  | date = 2008-01-25
+  | url = http://earthquake.usgs.gov/regional/nca/1906/18april/casualties.php
+  | doi =  | accessdate = 2008-06-13}}&lt;/ref&gt; More than half the city's population of 400,000 were left homeless.&lt;ref&gt;{{cite web
+  | title = Presidio of San Francisco:1906 Earthquake and Fire
+  | work = Golden Gate National Recreation Area
+  | publisher = US Department of the Interior | date = 2004-08-25
+  | url = http://www.nps.gov/archive/prsf/history/1906eq/index.htm
+  | doi =  | accessdate = 2008-06-13}}&lt;/ref&gt; Refugees settled temporarily in makeshift tent villages in Golden Gate Park, the Presidio, on the beaches, and elsewhere. Many fled permanently to the [[East Bay (San Francisco Bay Area)|East Bay]].
+
+[[Image:PalaceofFineArts1915.jpg|thumb|left|The [[Palace of Fine Arts]] at the 1915 [[Panama-Pacific International Exposition (1915)|Panama-Pacific Exposition]]]]
+
+Rebuilding was rapid and performed on a grand scale. Rejecting calls to completely remake the street grid, San Franciscans opted for speed.&lt;ref name=&quot;NatTrust1&quot;&gt;{{cite book
+  | last = Wiley | first = Peter Booth
+  | title = National trust guide- San Francisco: America’s guide for architecture and history travelers
+  | publisher = John Wiley &amp; Sons, Inc. | year = 2000  | location = New York
+  | pages = pp. 56–62 | oclc = 44313415 | isbn = 9780471191209}}&lt;/ref&gt; [[Amadeo Giannini]]'s [[Bank of Italy (USA)|Bank of Italy]], later to become [[Bank of America]], provided loans for many of those whose livelihoods had been devastated. The destroyed mansions of Nob Hill became grand hotels. [[San Francisco City Hall|City Hall]] rose once again in splendorous [[Beaux-Arts architecture|Beaux Arts]] style, and the city celebrated its rebirth at the [[Panama-Pacific International Exposition (1915)|Panama-Pacific International Exposition]] in 1915.&lt;ref&gt;{{cite book   | last = Wiley | first = Peter Booth 
+  | title = National trust guide- San Francisco: America’s guide for architecture and history travelers
+  | publisher = John Wiley &amp; Sons, Inc. | year = 2000  | location = New York
+  | page = 9 | oclc = 44313415 | isbn = 9780471191209}}&lt;/ref&gt;
+
+In ensuing years, the city solidified its standing as a financial capital; in the wake of the [[Wall Street Crash of 1929|1929 stock market crash]], not a single San Francisco-based bank failed.&lt;ref&gt;{{cite web
+  | title = San Francisco Gold Rush Banking - 1849
+  | publisher = The Virtual Museum of the City of San Francisco
+  | date = 2004-06-24 | url = http://www.sfmuseum.net/hist9/banking.html
+  | accessdate = 2008-06-13}}&lt;/ref&gt; Indeed, it was at the height of the [[Great Depression]] that San Francisco undertook two great civil engineering projects, simultaneously constructing the [[San Francisco – Oakland Bay Bridge]] and the [[Golden Gate Bridge]], completing them in 1936 and 1937 respectively. It was in this period that the island of [[Alcatraz Island|Alcatraz]], a former [[military]] stockade, began its service as a federal maximum security prison, housing notorious inmates such as [[Al Capone]]. San Francisco later celebrated its regained grandeur with a [[Expo (exhibition)|World's Fair]], the [[Golden Gate International Exposition]] in 1939–40, creating [[Treasure Island (California)|Treasure Island]] in the middle of the bay to house it.
+
+[[Image:USS San Francisco (CA-38) enters San Francisco Bay, December 1942.jpg|thumb|right|The [[USS San Francisco (CA-38)|USS ''San Francisco'']] steams under the [[Golden Gate Bridge]] in 1942, during World War II.]]
+
+During World War II, the [[San Francisco Naval Shipyard|Hunters Point Naval Shipyard]] became a hub of activity and [[Fort Mason]] became the primary port of embarkation for service members shipping out to the [[Pacific Theater of Operations]].&lt;ref&gt;{{cite web
+  | title = Port of Embarkation Essay--World War II in the San Francisco Bay Area
+  | work = A National Register of Historic Places Travel Itinerary:
+  | publisher = US Department of the Interior | date = 2007-08-28
+  | url = http://www.nps.gov/history/nr/travel/wwIIbayarea/embarkation.htm
+  | doi =  | accessdate = 2008-06-13}}&lt;/ref&gt; The explosion of jobs drew many people, especially [[African American]]s from the South, to the area. After the end of the war, many military personnel returning from service abroad and civilians who had originally come to work decided to stay. The [[United Nations Charter|UN Charter]] creating the [[United Nations]] was drafted and signed in San Francisco in 1945 and, in 1951, the [[Treaty of San Francisco]] officially ended the [[Pacific War|war with Japan]].
+
+Urban planning projects in the 1950s and 1960s saw widespread destruction and redevelopment of west side neighborhoods and the construction of new freeways, of which only a series of short segments were built before being halted by citizen-led opposition.&lt;ref&gt;{{cite news 
+  | last = Fang | first = Eric CY  | title = Urban Renewal Revisited: A Design Critique
+  | work = SPUR Newsletter | publisher = San Francisco Planning and Urban Research Association
+  | year = 1999 | month = February  | url = http://www.spur.org/documents/990201_article_01.shtm
+  | accessdate = 2008-06-13}}&lt;/ref&gt; The [[Transamerica Pyramid]] was completed in 1972,&lt;ref&gt;{{cite web  | title = Pyramid Facts and Figures  | work = Company Profile
+  | publisher = Transamerica Insurance and Investment Group
+  | url = http://www.transamerica.com/company_profile/about_the_pyramid/pyramid_facts_and_figures.asp
+  | accessdate = 2008-06-13}}&lt;/ref&gt; and in the 1980s the [[Manhattanization]] of San Francisco saw extensive [[high-rise]] development downtown.&lt;ref name=&quot;NatTrust2&quot;&gt;{{cite book
+  | last = Wiley | first = Peter Booth
+  | title = National trust guide- San Francisco: America’s guide for architecture and history travelers
+  | publisher = John Wiley &amp; Sons, Inc. | year = 2000  | location = New York
+  | pages = pp. 95–96 | oclc = 44313415 | isbn = 9780471191209}}&lt;/ref&gt; Port activity moved to [[Port of Oakland|Oakland]], the city began to lose industrial jobs, and San Francisco began to turn to tourism as the most important segment of its economy. The suburbs experienced rapid growth and San Francisco underwent significant demographic change, as large segments of the white population left the city, supplanted by an increasing wave of [[Immigration to the United States|immigration]] from Asia and Latin America.&lt;ref&gt;{{cite web
+  | last = Willis | first = James
+  | coauthors = Habib, Jerry, Brittan, Jeremy
+  | title = San Francisco Planning Department Census Data Analysis
+  | publisher = San Francisco State University
+  | date = 2004-04-19 | url = http://bss.sfsu.edu/pamuk/SFDemographics.ppt#1
+  | format = PPT  | accessdate = 2008-06-13}}&lt;/ref&gt;&lt;ref&gt;{{cite news 
+  | last = Minton | first = Torri
+  | title = Race Through Time
+  | work = San Francisco Chronicle
+  | page = SC-4
+  | publisher = Hearst Communications
+  | date = 1998-09-20
+  | url = http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/1998/09/20/SC72759.DTL
+  | accessdate = 2008-06-13}}&lt;/ref&gt;
+Over this same period, San Francisco became a magnet for America's counterculture. [[Beat Generation]] writers fueled the [[San Francisco Renaissance]] and centered on the [[North Beach, San Francisco, California|North Beach]] neighborhood in the 1950s.&lt;ref&gt;{{cite book   | last = Wiley | first = Peter Booth 
+  | title = National trust guide- San Francisco: America’s guide for architecture and history travelers
+  | publisher = John Wiley &amp; Sons, Inc. | year = 2000  | location = New York
+  | pages = pp. 240–242 | oclc = 44313415 | isbn = 9780471191209}}&lt;/ref&gt; [[Hippie]]s flocked to [[Haight-Ashbury]] in the 1960s, reaching a peak with the 1967 [[Summer of Love]].&lt;ref&gt;{{cite web |url=http://www.pbs.org/wgbh/amex/love/filmmore/fd.html |title=American Experience: Summer of Love: Film Description |accessdate=2008-06-17 |author= |date=2007-03-14 |work=Website for American Experience documentary on the Summer of Love |publisher=PBS}}&lt;/ref&gt; In the 1970s, the city became a center of the [[LGBT social movements|gay rights movement]], with the emergence of [[The Castro, San Francisco, California|The Castro]] as an urban [[gay village]], the election of [[Harvey Milk]] to the [[San Francisco Board of Supervisors|Board of Supervisors]], and his [[Moscone-Milk assassinations|assassination]], along with that of Mayor [[George Moscone]], in 1978.&lt;ref&gt;{{cite web |url=http://www.frommers.com/destinations/sanfrancisco/0029033660.html |title=San Francisco History: The 1970s and 1980s: Gay Rights |accessdate=2008-06-17 | work=Destinations: San Francisco |publisher=Frommers.com}}&lt;/ref&gt;
+
+The 1989 [[Loma Prieta earthquake]] caused destruction and loss of life throughout the Bay Area. In San Francisco, the quake severely damaged structures in the [[Marina District, San Francisco, California|Marina]] and [[South of Market, San Francisco, California|South of Market]] districts and precipitated the demolition of the damaged [[California State Route 480|Embarcadero Freeway]] and much of the damaged [[Central Freeway]], allowing the city to reclaim its historic downtown waterfront.
+
+During the [[Dot-com bubble|dot-com boom]] of the late 1990s, [[startup company|startup companies]] invigorated the economy. Large numbers of entrepreneurs and computer application developers moved into the city, followed by marketing and sales professionals that changed the social landscape as once poorer neighborhoods became gentrified. When the bubble burst in 2001, many of these companies folded and their employees left, although high technology and entrepreneurship continued to be mainstays of the San Francisco economy.&lt;ref&gt;{{cite web |url=http://www.sfeconomicstrategy.org/site/uploadedfiles/moed/economic_strat/ExecutiveSummary_EconomicPerformanceReview.pdf|title=City and County of San Francisco: An Overview of San Francisco’s Recent Economic Performance |accessdate=2008-06-19 |author=Ted Egan|date=2006-04-03 | format=PDF | work=Report prepared for Mayor’s Office of Economic and Workforce Development | publisher=ICF Consulting | quote=Another positive trend for the future is San Francisco’s highly entrepreneurial, flexible and innovative economy...San Francisco’s very high reliance on small business and self-employment is typical of other dynamic, fast-growing, high-technology areas across the country.}}&lt;/ref&gt;
+
+== Geography ==
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+[[Image:San Francisco Landsat7 Lg.jpg|right|upright|thumb|The San Francisco Peninsula: San Francisco and, below it, northern [[San Mateo County, California|San Mateo County]]]]
+
+San Francisco is located on the [[West Coast of the United States|West Coast]] of the U.S. at the tip of the [[San Francisco Peninsula]] and includes significant stretches of the [[Pacific Ocean]] and [[San Francisco Bay]] within its boundaries. Several [[islands of San Francisco Bay|islands]] are part of the city, notably [[Alcatraz Island|Alcatraz]], [[Treasure Island, California|Treasure Island]], and the adjacent [[Yerba Buena Island]], together with small portions of [[Alameda, California|Alameda Island]], [[Angel Island, California|Angel Island]], and [[Red Rock Island]]. Also included are the uninhabited [[Farallon Islands]], 27 miles (43&amp;nbsp;km) offshore in the [[Pacific Ocean]]. The mainland within the city limits roughly forms a &quot;seven-by-seven-mile square,&quot; a common local colloquialism referring to the city's shape.
+
+San Francisco is famous for [[List of San Francisco, California Hills|its hills]].
+There are more than 50 hills within city limits.&lt;ref name=peak_experience&gt;{{cite news 
+  | last = Graham | first = Tom
+  | title = Peak Experience
+  | work = San Francisco Chronicle | page = PK-23
+  | publisher = Hearst Communications
+  | date = 2004-11-07
+  | url = http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2004/11/07/PKGJ99K7KD1.DTL
+  | accessdate = 2008-06-13}}&lt;/ref&gt; Some neighborhoods are named after the hill on which they are situated, including [[Nob Hill]], [[Pacific Heights, San Francisco, California|Pacific Heights]], [[Russian Hill, San Francisco, California|Russian Hill]], [[Potrero Hill, San Francisco, California|Potrero Hill]], and [[Telegraph Hill, San Francisco|Telegraph Hill]].
+
+[[Image:Lombardst.jpeg|thumb|upright|left|Cars negotiate [[Lombard Street (San Francisco)|Lombard Street]] to descend [[Russian Hill, San Francisco, California|Russian Hill]].]]
+Near the geographic center of the city, southwest of the downtown area, are a series of less densely populated hills. Dominating this area is [[Mount Sutro]], the site of [[Sutro Tower]], a large red and white radio and television transmission tower. Nearby is [[Twin Peaks (San Francisco)|Twin Peaks]], a pair of hills resting at one of the city's highest points and a popular overlook spot for tour groups. San Francisco's tallest hill, [[Mount Davidson]], is {{convert|925|ft|m|0}} high and is capped with a {{convert|103|foot|m|0}} tall cross built in 1934.&lt;ref&gt;{{cite news |first=Henry K. |last=Lee|title=Mount Davidson Cross Called Landmark by Panel |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/1997/01/16/MN71385.DTL |publisher=San Francisco Chronicle |date=1997-01-16 |accessdate=2008-06-17 }}&lt;/ref&gt;
+
+The [[San Andreas Fault|San Andreas]] and [[Hayward Fault]]s are responsible for much [[earthquake]] activity, even though neither passes through the city itself. It was the San Andreas Fault which slipped and caused the earthquakes in 1906 and 1989. Minor earthquakes occur on a regular basis. The threat of major earthquakes plays a large role in the city's infrastructure development. The city has repeatedly upgraded its building codes, requiring retrofits for older buildings and higher engineering standards for new construction.&lt;ref&gt;{{cite news |first=Charles |last=Smith |title=What San Francisco didn't learn from the '06 quake |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/04/15/HOGQ9I7P2T1.DTL |publisher=San Francisco Chronicle |date=2006-04-15 |accessdate=2008-06-30 }} &lt;/ref&gt; However, there are still thousands of smaller buildings that remain vulnerable to quake damage.&lt;ref&gt;{{cite news |first=Robert |last=Selna |title=S.F. leaders ignore weak buildings' quake risk |url= http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2008/06/29/MNDD110U2E.DTL |page= A-1 | publisher=San Francisco Chronicle |date=2008-06-29|accessdate=2008-06-30 }} &lt;/ref&gt;
+
+San Francisco's shoreline has grown beyond its natural limits. Entire neighborhoods such as the [[Marina District, San Francisco, California|Marina]] and [[Hunters Point, San Francisco, California|Hunters Point]], as well as large sections of the [[The Embarcadero (San Francisco)|Embarcadero]], sit on areas of landfill. [[Treasure Island, California|Treasure Island]] was constructed from material dredged from the bay as well as material resulting from tunneling through Yerba Buena Island during the construction of the Bay Bridge. Such land tends to be unstable during earthquakes; the resultant [[Earthquake liquefaction|liquefaction]] causes extensive damage to property built upon it, as was evidenced in the Marina district during the 1989 Loma Prieta Earthquake.&lt;ref&gt;{{cite web
+  | title = Liquefaction Damage in the Marina District during the 1989 Loma Prieta Earthquake
+  | publisher = California Geological Survey
+  | url = http://www.conservation.ca.gov/cgs/information/outreach/Documents/Marina%20Poster%2011x17rw2b.pdf
+  | format = PDF | accessdate = 2008-06-17}}&lt;/ref&gt;[[Image:GGB Fog Crissy Field.jpg|thumb|right|Fog envelops the [[Golden Gate Bridge]] and approaches [[Crissy Field]].]]
+
+===Climate===
+A quotation incorrectly attributed to [[Mark Twain]] is &quot;The coldest winter I ever spent was a summer in San Francisco.&quot;&lt;ref name=&quot;marktwain&quot;&gt;{{cite news 
+  | last = Nolte | first = Carl
+  | title = Fog Heaven: The sun will come out tomorrow. Or maybe not. It's summer in the city, and that means gray skies
+  | work = San Francisco Chronicle
+  | page = A-1
+  | publisher = Hearst Communications
+  | date = 2005-08-19
+  | url = http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/08/19/MNGOBEA9JI1.DTL
+  | accessdate = 2008-06-13}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+  | title = And Never the Twain Shall Tweet
+  | work = Urban Legends Reference Pages
+  | publisher = Snopes.com
+  | date = 2007-09-26
+  | url = http://www.snopes.com/quotes/twain.asp
+  | doi =  | accessdate = }}&lt;/ref&gt; San Francisco's climate is characteristic of California’s [[Mediterranean climate]] with mild, wet winters and dry summers.&lt;ref&gt;{{cite web
+  | title = Climate of San Francisco - Narrative Description
+  | publisher = Golden Gate Weather Services
+  | year = 2002 | url = http://ggweather.com/sf/narrative.html
+  | doi =  | accessdate = 2008-06-13}}&lt;/ref&gt; In addition, since it is surrounded on three sides by water, San Francisco's climate is strongly influenced by the cool [[California Current|currents]] of the [[Pacific Ocean]] which tends to moderate temperature swings and produce a remarkably mild climate with little seasonal temperature variation. Average summertime high temperatures in San Francisco peak at 70&amp;nbsp;°F (21&amp;nbsp;°C) and are 20&amp;nbsp;°F (9&amp;nbsp;°C) lower than in nearby inland locations like [[Livermore, California|Livermore]].&lt;ref name=&quot;LivermoreClimate&quot;&gt;{{cite web
+  | title = Historical Weather for Livermore, California, United States of America
+  | publisher = Weatherbase.com
+  | year = 2008
+  | url = http://www.weatherbase.com/weather/weather.php3?s=799440
+  | doi =  | accessdate = 2008-06-14}}&lt;/ref&gt; The highest temperature ever recorded in San Francisco was 103&amp;nbsp;°F (39&amp;nbsp;°C) on July 17, 1988 and June 14, 2000.&lt;ref&gt;{{cite web
+  | title = June 2000 City/State Extremes | publisher = US Department of Commerce
+  | work = National Oceanic and Atmospheric Administration | date = 2004-06-24
+  | url = http://www.ncdc.noaa.gov/oa/climate/extremes/2000/june/juneext2000.html
+  | doi =  | accessdate = 2008-06-13}}&lt;/ref&gt; Winters are mild, with daytime highs near 60&amp;nbsp;°F (15&amp;nbsp;°C). Lows almost never reach freezing temperatures, though the lowest temperature ever recorded in San Francisco was 27&amp;nbsp;°F (−3&amp;nbsp;°C) on December 11, 1932.&lt;ref&gt;{{cite web
+  | title = San Francisco - Top 10 Temperatures
+  | publisher = Golden Gate Weather Services
+  | date = 2001-06-28 | url = http://ggweather.com/sf/temp2.html
+  | doi =  | accessdate = 2008-06-13}}&lt;/ref&gt; May through September is very dry, but rain is common from November through March. Snowfall is extraordinarily rare, with only 10 instances recorded since 1852. The greatest snowfall on record is 3.7 inches (9.4 cm) in downtown San Francisco, and up to 7 inches (17.8 cm) elsewhere, on February 5, 1887.&lt;ref name=&quot;SFClimate&quot;&gt;{{cite web
+  | last = Null | first = Jan
+  | title = Climate of San Francisco (Third Revision) | publisher = US Department of Commerce
+  | work = National Oceanic and Atmospheric Administration | year = 1995 | month = January
+  | url = http://www.wrh.noaa.gov/mtr/sfd_sjc_climate/sfd/SFD_CLIMATE3.php
+  | doi =  | accessdate = 2008-06-14}}&lt;/ref&gt; The last measurable snowfall in San Francisco was on February 5, 1976, when most of the city received an inch of snow.&lt;ref&gt;{{cite web
+  | title = Climate of San Francisco - Snowfall
+  | publisher = Golden Gate Weather Services
+  | year = 2006 | url = http://ggweather.com/sf/snow.html
+  | doi =  | accessdate = 2008-06-14}}&lt;/ref&gt; 
+
+The combination of cold ocean water and the high heat of the California mainland create the city's characteristic [[fog]] that can cover the western half of the city all day during the spring and early summer. The fog is less pronounced in eastern neighborhoods, in the late summer, and during the fall, which are the warmest months of the year. Due to its sharp topography and maritime influences, San Francisco exhibits a multitude of distinct [[microclimate]]s. The high hills in the geographic center of the city are responsible for a 20 percent variance in annual rainfall between different parts of the city.&lt;ref name=&quot;SFClimate&quot;/&gt; They also protect neighborhoods directly to their east from the foggy and cool conditions experienced in the [[Sunset District, San Francisco, California|Sunset District]]; for those who live on the eastern side of the city, San Francisco is sunnier, with an average of 260 clear days, and only 105 cloudy days per year.&lt;ref&gt;{{cite web
+  | title = Historical Climate Information | work = Western Regional Climate Center
+  | publisher = [[Desert Research Institute]]
+  | date = 2008-01-23 | url = http://www.wrcc.dri.edu/CLIMATEDATA.html
+  | doi =  | accessdate = 2008-06-14}}&lt;/ref&gt;
+
+{{San Francisco weatherbox}}
+
+==Cityscape==
+{{Wide image|San Francisco panorama from Twin Peaks.jpg|1700px|&lt;center&gt;San Francisco panorama from [[Twin Peaks, San Francisco, California|Twin Peaks]]&lt;/center&gt;}} 
+===Neighborhoods===
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+[[Image:SF Chinatown CA.jpg|thumb|right|upright|San Francisco's [[Chinatown, San Francisco, California|Chinatown]] is the oldest and one of the largest in North America.]]
+{{main|Neighborhoods in San Francisco, California}}
+{{seealso|List of tallest buildings in San Francisco and the greater Bay Area}}
+The historic center of San Francisco is the northeast quadrant of the city bordered by [[Market Street (San Francisco)|Market Street]] to the south. It is here that the [[Financial District, San Francisco, California|Financial District]] is centered, with [[Union Square (San Francisco)|Union Square]], the principal shopping and hotel district, nearby. [[Cable car (railway)|Cable car]]s carry residents and tourists alike up steep inclines to the summit of [[Nob Hill]], once the home of the city's business tycoons, and down to [[Fisherman's Wharf, San Francisco, California|Fisherman's Wharf]], a tourist area featuring [[Dungeness crab]] from a still-active fishing industry. Also in this quadrant are [[Russian Hill, San Francisco, California|Russian Hill]], a residential neighborhood with the famously crooked [[Lombard Street (San Francisco)|Lombard Street]], [[North Beach, San Francisco, California|North Beach]], the city's Little Italy, and [[Telegraph Hill, San Francisco|Telegraph Hill]], which features [[Coit Tower]]. Nearby is San Francisco's [[Chinatown, San Francisco, California|Chinatown]], established in the 1860s. The [[Tenderloin, San Francisco, California|Tenderloin]] is known as the crime-infested underbelly of the city.&lt;ref&gt;{{cite web | title = The Tenderloin | work = SfGate San Francisco Neighborhood Guide| publisher = Sfgate.com | url = http://www.sfgate.com/traveler/guide/sf/neighborhoods/tenderloin.shtml | accessdate = 2008-06-27 }}&lt;/ref&gt;
+
+The [[Mission District, San Francisco, California|Mission District]] was historically predominantly working-class and populated by immigrants from [[Mexican American|Mexico]] and Central America, but in recent years has seen rapid gentrification primarily along the Valencia Street corridor which is strongly associated with the modern [[hipster (contemporary subculture)|hipster]] sub-culture. [[Haight-Ashbury]], famously associated with 1960s [[hippie]] culture, later became home to expensive boutiques&lt;ref&gt;{{cite web | title = The Haight | work = SfGate San Francisco Neighborhood Guide| publisher = Sfgate.com | url = http://www.sfgate.com/traveler/guide/sf/neighborhoods/haight.shtml | accessdate = 2008-06-29 }}&lt;/ref&gt; and a few controversial chain stores,&lt;ref&gt;{{cite news |first=Katherine |last=Bishop |title=Haight-Ashbury Journal; Love and Hate Linger In Ex-Hippie District  |url=http://query.nytimes.com/gst/fullpage.html?res=940DE5DF1638F930A25753C1A96E948260&amp;sec=&amp;spon= |publisher=New York Times |date=1988-10-13 |accessdate=2008-06-30 }} &lt;/ref&gt; although it still retains some [[Bohemianism|bohemian]] character. Historically known as Eureka Valley, the area now popularly called [[The Castro, San Francisco, California|the Castro]] is the center of [[homosexuality|gay]] life in the city.&lt;ref&gt;{{cite web | title = The Castro | work = SfGate San Francisco Neighborhood Guide| publisher = Sfgate.com | url = http://www.sfgate.com/traveler/guide/sf/neighborhoods/castro.shtml | accessdate = 2008-06-27 }}&lt;/ref&gt;
+
+[[Image:Balmy Alley Mission SF2.jpg|thumb|left|The [[Mission District, San Francisco, California|Mission District]] is known for its colorful murals. This 2002 design by [[Precita Eyes]]' Martin Travers was applied to a security gate.]] 
+The city's [[Japantown, San Francisco, California|Japantown]] district suffered when its [[Japanese American]] residents were [[Japanese American internment|forcibly removed and interned]] during [[World War II]]. The nearby [[Western Addition, San Francisco, California|Western Addition]] became established with a large [[African American]] population at the same time. The &quot;[[Painted Ladies]],&quot; a row of well-restored [[Victorian house|Victorian homes]], stand alongside [[Alamo Square]], and the mansions built by the San Francisco business elite in the wake of the [[1906 San Francisco earthquake|1906 earthquake]] can be found in [[Pacific Heights, San Francisco, California|Pacific Heights]]. The [[Marina District, San Francisco, California|Marina]] to the north is a lively area with many young urban professionals.&lt;ref&gt;{{cite web | title = The Marina | work = SfGate San Francisco Neighborhood Guide| publisher = Sfgate.com | url = http://www.sfgate.com/traveler/guide/sf/neighborhoods/marina.shtml | accessdate = 2008-06-27 }}&lt;/ref&gt;
+
+The [[Richmond District, San Francisco, California|Richmond]], the vast region north of Golden Gate Park that extends to the Pacific Ocean, today has a portion called &quot;New Chinatown,&quot; but also attracts immigrants from other parts of Asia and [[Russian people|Russia]]. South of Golden Gate Park lies the [[Sunset District, San Francisco, California|Sunset]] with an Asian majority population.&lt;ref&gt;{{cite news | last = Chow | first = Andrew
+  | title = Dismal APA Turnout at First Redistricting Meetings
+  | publisher = Asian Week  | date = 2002-03-22}}&lt;/ref&gt; The Richmond and the Sunset are largely middle class and, together, are known as [[Neighborhoods in San Francisco, California|The Avenues]]. [[Hunters Point, San Francisco, California|Bayview-Hunter's Point]] in the southeast section of the city is one of the poorest neighborhoods and suffers from a high rate of crime, though the area has been the focus of controversial plans for [[urban renewal]].
+
+The [[South of Market]], once filled with decaying remnants of San Francisco's industrial past, has seen significant redevelopment. The locus of the [[Dot-com bubble|dot-com boom]] during the late 1990s, by 2004 South of Market began to see skyscrapers and condominiums dot the area (see [[Manhattanization]]). Following the success of nearby [[South Beach, San Francisco, California|South Beach]], another neighborhood, [[Mission Bay, San Francisco, California|Mission Bay]], underwent redevelopment, anchored by a second campus of the [[University of California, San Francisco]]. Just southwest of Mission Bay is the [[Potrero Hill]] neighborhood featuring sweeping views of downtown San Francisco.
+
+===Beaches and parks===
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+[[Image:SF Conservatory of Flowers 2.jpg|thumb|The Conservatory of Flowers in Golden Gate Park]]
+[[Ocean Beach (San Francisco)|Ocean Beach]] runs along the Pacific Ocean shoreline, but is not suitable for swimming because the waters off the coast are perennially cold and form deadly [[rip currents]]. [[Fort Funston]], a former coastal fort along the Southwestern shore, is popular with both dog owners and hang gliders. [[Baker Beach]] is located in a picturesque cove just inside the Golden Gate and west of the Golden Gate Bridge. The largest and best-known city park is [[Golden Gate Park]],&lt;ref&gt;{{cite web |url=http://www.tpl.org/content_documents/ccpe_Most_Visited_Parks.pdf |title=The Most Visited City Parks |accessdate=2008-06-17 |date=2007-10-11 |work=Center for City Park Excellence |publisher=The Trust for Public Land}}&lt;/ref&gt; which stretches from the center of the city west to the [[Pacific Ocean]]. Once covered in native grasses and sand dunes, the park was conceived in the 1860s and was created by the extensive planting of thousands of non-native trees and plants. The large park is rich with cultural and natural attractions such as the [[Conservatory of Flowers]], [[Japanese tea garden at Golden Gate Park|Japanese Tea Garden]] and [[Strybing Arboretum]]. [[Presidio of San Francisco|The Presidio]], a former military base, and its rehabilitated [[Crissy Field]] section, recently restored to its natural [[salt marsh]] [[ecosystem]], are a part of the [[Golden Gate National Recreation Area]], which also encompasses Golden Gate Park, Alcatraz island and other regional parks and preserves both inside San Francisco and nearby. [[Lake Merced]], in the southwestern quadrant of the city, is a popular fresh-water lake surrounded by parkland.
+
+==Culture and contemporary life==
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+:{{main|Culture of San Francisco}}
+San Francisco is characterized by a high standard of living.&lt;ref&gt;{{cite news 
+  | last = Schwarzer | first = Michelle
+  | title = San Francisco by the Numbers: Planning After the 2000 Census
+  | work = SPUR Newsletter | publisher = San Francisco Planning and Urban Research Association
+  | year = 2001 | month = July  | url = http://www.spur.org/documents/010701_article_03.shtm
+  | accessdate = 2008-06-14}}&lt;/ref&gt; The great wealth and opportunity generated by the [[Internet]] revolution continues to draw many highly educated and high-income workers and residents to San Francisco. Numerous lower-income neighborhoods consequently have become increasingly [[Gentrification|gentrified]], and many of the city's traditional business and industrial districts have experienced a renaissance driven by the redevelopment of the [[The Embarcadero (San Francisco)|Embarcadero]], including the neighborhoods [[South Beach, San Francisco, California|South Beach]] and [[Mission Bay, San Francisco, California|Mission Bay]]. The city's property values and household income have escalated to among the highest in the nation,&lt;ref&gt;{{cite web
+  | last = Sadovi | first = Maura Webber
+  | title = San Francisco's Home Prices Remain Among the Highest in U.S.
+  | work = Real Estate Journal
+  | publisher = The Wall Street Journal
+  | date = 2006-04-12
+  | url = http://www.realestatejournal.com/columnists/livingthere/20060412-livingthere.html
+  | doi =  | accessdate = 2008-06-14}}&lt;/ref&gt;&lt;ref name=&quot;MedianIncome&quot;&gt;{{cite web
+  | title = Median Family Income (In 2003 Inflation-adjusted Dollars)
+  | work = American Community Survey | publisher = US Census Bureau
+  | date = 2007-08-22 | url = http://www.census.gov/acs/www/Products/Ranking/2003/R14T160.htm
+  | accessdate = 2008-06-14}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+  | last = Hawn | first = Carleen
+  | title = It may not feel like it, but your shot at the good life is getting better. Here's why 
+  | work = San Francisco magazine  | publisher = Modern Luxury
+  | year = 2007 |month = March | url = http://www.sanfran.com/archives/view_story/1068/  |archiveurl= http://web.archive.org/web/20070224105246/http://www.sanfran.com/archives/view_story/1068/ 
+  |archivedate= 2007-02-24 | doi =  | accessdate = 2008-06-14}}&lt;/ref&gt; allowing the city to support a large restaurant and entertainment infrastructure. Because the cost of living in San Francisco is exceptionally high, many middle class families have decided they can no longer afford to live within the city and have left.&lt;ref name=&quot;MiddleClass&quot;&gt;{{cite news 
+  | last = Hendricks | first = Tyche
+  | title = Rich City Poor City: Middle-class neighborhoods are disappearing from the nation's cities, leaving only high- and low-income districts, new study says.
+  | work = San Francisco Chronicle
+  | page = A-1
+  | publisher = Hearst Communications
+  | date = 2006-06-22
+  | url = http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2006/06/22/MNG6HJIDMM1.DTL
+  | accessdate = 2008-06-14}}&lt;/ref&gt;
+
+[[Image:Fillmore-sidewalk-1.jpg|thumb|left|Boutiques along [[List of streets in San Francisco|Fillmore Street]] in [[Pacific Heights, San Francisco, California|Pacific Heights]]]]
+
+Although the centralized commerce and shopping districts of the [[Financial District (San Francisco)|Financial District]] and the area around [[Union Square, San Francisco, California|Union Square]], are well-known around the world, San Francisco is also characterized by its culturally rich streetscapes featuring [[mixed-use development|mixed-use]] neighborhoods anchored around central commercial corridors to which residents and visitors alike can walk. Because of these characteristics, San Francisco was rated &quot;most walkable&quot; city by the website Walkscore.com.&lt;ref&gt;{{cite news |first=James |last=Temple |title=S.F. a step ahead as most 'walkable' U.S. city |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/16/MN3J11Q3N8.DTL |page=A-1 |publisher=San Francisco Chronicle |date=2008-07-17 |accessdate=2008-07-18 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.walkscore.com/rankings/San_Francisco |title=WalkScore #1 San Francisco |accessdate=2008-07-18 |publisher=Walkscore.com }}&lt;/ref&gt; Many neighborhoods feature a mix of businesses, restaurants and venues catering to the daily needs of the community while also drawing in visitors. Some neighborhoods are dotted with boutiques, cafes and nightlife, such as [[List of streets in San Francisco|Union Street]] in [[Cow Hollow, San Francisco, California|Cow Hollow]], and [[List of streets in San Francisco|24th Street]] in [[Noe Valley, San Francisco, California|Noe Valley]]. Others are less so, such as [[List of streets in San Francisco|Irving Street]] in the [[Sunset District, San Francisco, California|Sunset]], or [[List of streets in San Francisco|Mission Street]] in the [[Mission District, San Francisco, California|Mission]]. This approach especially has influenced the continuing South of Market neighborhood redevelopment, with businesses and neighborhood services rising alongside high-rise residences.&lt;ref name=&quot;FogDev&quot;&gt;{{cite news 
+  | last = Wach | first = Bonnie
+  | title = Fog City rises from the funk.
+  | work = USA Today | publisher = Gannett Company, Inc.
+  | date = 2003-10-03
+  | url = http://www.usatoday.com/travel/destinations/cityguides/sanfrancisco/worthdoing.htm
+  | accessdate = 2006-09-04}}&lt;/ref&gt;
+
+[[Image:Castro Rainbow Flag.jpg|thumb|upright|right| The [[Rainbow flag (LGBT movement)|rainbow flag]], symbol of LGBT pride, originated in San Francisco; banners like this one decorate streets in [[The Castro, San Francisco, California|The Castro]].]]
+
+The international character San Francisco has fostered since its founding is continued today by large numbers of immigrants from Asia and [[Latin America]]. With 39 percent of its residents born overseas,&lt;ref name=&quot;SFEconomicStrategy&quot;&gt;{{cite web
+  | last = Egan | first = Ted
+  | title = An Overview of San Francisco's Recent Economic Performance - Executive Summary
+  | publisher = ICF Consulting | date = 2006-04-03
+  | url = http://www.sfgov.org/site/uploadedfiles/moed/economic_strat/ExecutiveSummary_EconomicPerformanceReview.pdf
+  | format = PDF | doi =  | accessdate = 2008-06-14}}&lt;/ref&gt; San Francisco has numerous neighborhoods filled with businesses and civic institutions catering to new arrivals. In particular, the arrival of many ethnic Chinese, which accelerated beginning in the 1970s, has complemented the long-established community historically based in [[Chinatown, San Francisco, California|Chinatown]] throughout the city and has transformed the annual [[San Francisco Chinese New Year Festival and Parade|Chinese New Year Parade]] into the largest event of its kind outside China.&lt;ref&gt;{{cite news 
+  | last = Lam | first = Eric
+  | title = San Francisco Chinese New Year Parade Embroiled in Controversy
+  | publisher = The Epoch Times  | date = 2005-12-22
+  | url = http://en.epochtimes.com/news/5-12-22/36073.html
+  | accessdate = 2008-06-14}}&lt;/ref&gt; 
+
+Following the arrival of writers and artists of the 1950s—who established the modern [[coffeehouse]] culture—and the social upheavals of the 1960s, San Francisco became an epicenter of [[Modern liberalism in the United States|liberal]] activism, with [[Democratic Party (United States)|Democrats]] and [[Green Party (United States)|Greens]] dominating [[Politics of San Francisco, California|city politics]]. Indeed, San Franciscans have not provided a [[Republican Party (United States)|Republican]] presidential candidate more than 20 percent of the vote since [[United States presidential election, 1988|the 1988 election]].&lt;ref&gt;{{cite web
+  | last = Leip | first = Dave | authorlink = 
+  | title = Dave Leip's Atlas of U.S. Presidential Elections
+  | publisher = Dave Leip  | date = 2008-06-04
+  | url = http://www.uselectionatlas.org/
+  | doi =  | accessdate = 2008-06-14}}&lt;/ref&gt; The city's large gay and lesbian population has created and sustained a politically and culturally active community over many decades, developing a powerful presence in San Francisco's civic life. A popular destination for gay and lesbian tourists, the city hosts [[San Francisco Pride]], an annual parade and festival.
+
+===Entertainment and performing arts===
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+[[Image:SFWMOHLobbySouth.jpg|thumb|left|Inside the [[War Memorial Opera House (San Francisco)|War Memorial Opera House]]]]
+San Francisco's [[San Francisco War Memorial and Performing Arts Center|War Memorial and Performing Arts Center]] hosts some of the most enduring performing-arts companies in the U.S. The [[War Memorial Opera House]] houses the  [[San Francisco Opera]], the second largest opera company on the North American continent&lt;ref&gt;The San Francisco Opera is second in size only to New York City's [[Metropolitan Opera]]&lt;/ref&gt; as well as the [[San Francisco Ballet]], while the [[San Francisco Symphony]] plays in [[Louise M. Davies Symphony Hall|Davies Symphony Hall]]. The [[Herbst Theatre]] stages an eclectic mix of music performances, as well as [[National Public Radio|public radio]]'s ''[[City Arts &amp; Lectures]].''
+
+[[The Fillmore]] is a music venue located in the [[Western Addition, San Francisco, California|Western Addition]]. It is the second incarnation of the historic venue which gained fame in the 1960s under the legendary concert promoter [[Bill Graham (promoter)|Bill Graham]], housing the stage where now-famous musicians such as the [[Grateful Dead]], [[Janis Joplin]] and [[Jefferson Airplane]] first performed, fostering the [[San Francisco Sound]]. ''[[Beach Blanket Babylon]]'' is a zany musical revue and a civic institution that has performed to sold-out crowds in [[North Beach, San Francisco, California|North Beach]] since 1974.
+
+The [[American Conservatory Theater]] (A.C.T.) has been a leading force in Bay Area performing arts since its arrival in San Francisco in 1967, regularly staging original productions. San Francisco frequently hosts national touring productions of [[Broadway theatre]] shows in a number of vintage 1920s-era venues in the [[Theater District, San Francisco, California|Theater District]] including the [[List of theatres in San Francisco|Curran]], [[List of theatres in San Francisco|Orpheum]], and [[List of theatres in San Francisco|Golden Gate]] Theatres.
+[[Image:Yerba-Buena-Gardens-MOMA.jpg|thumb|right|[[San Francisco Museum of Modern Art|SFMOMA]] from [[Yerba Buena Gardens]]]]
+
+===Museums===
+:''See also: [[List of museums in California#San Francisco|List of museums in San Francisco]]
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+The [[San Francisco Museum of Modern Art|Museum of Modern Art]] (SFMOMA) houses 20th century and contemporary works of art. It moved to its iconic building in the [[South of Market, San Francisco, California|South of Market]] neighborhood in 1995 and now attracts more than 600,000 visitors annually.&lt;ref&gt;{{cite web
+  | title = Corporate Sponsorship - Why Sponsor
+  | publisher = San Francisco Museum of Modern Art
+  | url = http://www.sfmoma.org/membership/corp_sponsors_why_sponsor.html
+  | accessdate = 2008-06-14}}&lt;/ref&gt; The [[California Palace of the Legion of Honor|Palace of the Legion of Honor]] holds primarily classic European works of art, while the city's [[M. H. de Young Memorial Museum|De Young Museum]] and [[Asian Art Museum of San Francisco|Asian Art Museum]] have significant anthropological and non-European holdings. 
+
+The [[Palace of Fine Arts]], built originally for the [[Panama-Pacific International Exposition (1915)|1915 Panama-Pacific Exposition]], today houses the [[Exploratorium]], a popular science museum dedicated to teaching through hands-on interaction. The [[California Academy of Sciences]] is a [[natural history]] museum which also hosts the [[Morrison Planetarium]] and [[Steinhart Aquarium]]. The [[San Francisco Zoo]] maintains more than 250 animal species, many of which are designated as endangered.&lt;ref&gt;{{cite web
+  | title = What to See at the Zoo | publisher = San Francisco Zoo
+  | url = http://www.sfzoo.org/openrosters/ViewOrgPageLink.asp?LinkKey=15015&amp;orgkey=1821
+  | accessdate = 2008-06-14}}&lt;/ref&gt;
+
+===Media===
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+{{see also|Media in San Francisco, California}}
+The ''[[San Francisco Chronicle]]'', in which [[Herb Caen]] famously published his daily musings, is Northern California's most widely circulated newspaper.&lt;ref&gt;{{cite web
+  | title = Top 200 Newspapers by Largest Reported Circulation
+  | publisher = Audit Bureau of Circulations
+  | url = http://www.accessabc.com/products/top200.htm | date = 2007-03-31
+  |archiveurl= http://web.archive.org/web/20070813073544/http://www.accessabc.com/products/top200.htm
+  |archivedate= 2007-08-13
+  | accessdate = 2008-06-14}}&lt;/ref&gt; The ''[[San Francisco Examiner]]'', once the cornerstone of [[William Randolph Hearst]]'s media empire and the home of [[Ambrose Bierce]], declined in circulation over the years and now takes the form of a free daily tabloid.&lt;ref&gt;{{cite news 
+  | last = Rosenberg | first = Scott
+  | title = The San Francisco Examiner, 1887–2000
+  | publisher = Salon.com  | date = 2000-03-21
+  | url = http://archive.salon.com/media/feature/2000/03/21/examiner/index.html
+  | accessdate = 2008-06-15}}&lt;/ref&gt;&lt;ref&gt;{{cite news 
+  | last = Nolte | first = Carl
+  | title = Examiner Staff Ends an Era With Tears, Newsroom Tales
+  | work = San Francisco Chronicle | page = A-1 | publisher = Hearst Communications
+  | date = 2000-11-22
+  | url = http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2000/11/22/MN121380.DTL&amp;hw=san+francisco+examiner&amp;sn=005&amp;sc=498
+  | accessdate = 2008-06-15}}&lt;/ref&gt; ''[[Sing Tao Daily]]'' claims to be the largest of several Chinese language dailies that serve the Bay Area.&lt;ref&gt;{{cite news 
+  | last = Hua | first = Vanessa
+  | title = Newspaper war in the Bay Area: Ming Pao becomes 6th Chinese-language daily
+  | work = San Francisco Chronicle | page = B-1 | publisher = Hearst Communications
+  | date = 2004-08-03
+  | url = http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/08/03/BAGI781MM91.DTL
+  | accessdate = 2008-06-14}}&lt;/ref&gt; [[Alternative weekly]] newspapers include the ''[[San Francisco Bay Guardian]]'' and ''[[SF Weekly]]''. ''[[San Francisco Magazine]]'' and ''[[7x7 Magazine|7x7]]'' are major glossy magazines about San Francisco. The national newsmagazine ''[[Mother Jones (magazine)|Mother Jones]]'' is also based in San Francisco.
+
+The San Francisco Bay Area is the sixth-largest [[designated market area|TV market]]&lt;ref&gt;{{cite web
+  | title = Local Television Market Universe Estimates
+  | publisher = Nielsen Media | date = 2007-09-22
+  | url = http://www.nielsenmedia.com/nc/nmr_static/docs/2007-2008_DMA_Ranks.xls
+  | format = XLS | accessdate = 2008-06-15}}&lt;/ref&gt; and the fourth-largest [[designated market area|radio market]]&lt;ref&gt;{{cite web
+  | title = Arbitron Radio Market Rankings: Spring 2008
+  | publisher = Arbitron | date = 2008-04-16
+  | url = http://www.arbitron.com/radio_stations/mm001050.asp
+  | doi =  | accessdate = 2008-06-14}}&lt;/ref&gt; in the U.S. The city's oldest radio station, [[KCBS (AM)]], began as an experimental station in San Jose in 1909. [[KALW]] was the city's first FM radio station when it signed on the air in 1941. All major U.S. [[television network]]s have [[List of television stations in the San Francisco Bay Area|affiliates]] serving the region, with most of them based in the city. There also are several unaffiliated stations, and [[CNN]], [[ESPN]], and [[BBC]] all have regional news bureaus in San Francisco. The city's first television station was [[KPIX]], which began broadcasting on December 24, 1948. Other prominent stations include [[KGO-TV|KGO]], [[KRON]], and [[KTVU]].
+
+[[Public broadcasting]] outlets include both a [[KQED-TV|television station]] and a [[KQED-FM|radio station]], both broadcasting under the call letters KQED from a facility near the [[Potrero Hill, San Francisco, California|Potrero Hill]] neighborhood. KQED-FM is the most-listened-to [[National Public Radio]] affiliate in the country.&lt;ref&gt;{{cite web
+  | title = Top 30 Public Radio Subscribers - Winter 2004 Arbitron
+  | work = Radio Research Consortium | publisher = Arbitron Media Research | date = 2004-06-17
+  | url = http://www.pacifica.org/documents/pdf/ArbitronRatingsWinter2004.pdf | format = PDF
+  | accessdate = 2008-06-14}}&lt;/ref&gt; San Francisco–based technology companies such as [[CNET Networks|CNET]] and [[Salon.com]] pioneered the use of the Internet as a media outlet. Leading global media targeted toward gay and lesbian audiences also are centered in San Francisco, with [[PlanetOut Inc.|PlanetOut]] the parent company of major print newsmagazines and online communities, located in the city.
+
+===Sports===
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+{{seealso|Sports in San Francisco}}
+The [[San Francisco 49ers]] of the [[National Football League]] (NFL) are the longest-tenured major professional sports franchise in the city. The team began play in 1946 as an [[All-America Football Conference]] (AAFC) league charter member, moved to the NFL in 1950 and into its present stadium in [[Candlestick Park]] on [[Candlestick Point State Recreation Area|Candlestick Point]] in 1971. The 49ers dominated the league in the 1980s and 1990s, winning five [[Super Bowl]] titles behind stars [[Joe Montana]], [[Steve Young (athlete)|Steve Young]], [[Ronnie Lott]], and [[Jerry Rice]].
+
+[[Image:SFBaseballPark.jpg|thumb|left|A [[Muni Metro|Muni light rail]] vehicle passes [[AT&amp;T Park]], home of the [[San Francisco Giants]].]]
+[[Major League Baseball]]'s [[San Francisco Giants]] left New York for California prior to the 1958 season. Though boasting stars such as [[Willie Mays]], [[Willie McCovey]] and [[Barry Bonds]], the club has yet to win the [[World Series]] while based in San Francisco. The Giants' cross-bay rivals, the [[Oakland Athletics]], swept the Giants in the [[1989 World Series]], after Game 3 in San Francisco was infamously pre-empted by the [[Loma Prieta earthquake]]. The Giants play at [[AT&amp;T Park]] which was opened in 2000, a cornerstone project of the [[Neighborhoods in San Francisco, California#South Beach|South Beach]] and [[Mission Bay, San Francisco, California|Mission Bay]] redevelopment.&lt;ref&gt;{{cite web
+  | title = Federal Brownfields Tax Incentive: SBC Park
+  | work = Brownfields
+  | publisher = US Environmental Protection Agency
+  | year = 2005 | month = May
+  | url = http://www.epa.gov/swerosps/bf/pdf/sfcasestudy070505.pdf | format = PDF
+  | doi = | accessdate = 2008-06-15}}&lt;/ref&gt;
+
+[[Kezar Stadium]], near the Haight-Ashbury neighborhood formerly hosted the 49ers, as well as the [[San Francisco Dragons]] of [[Major League Lacrosse]], and the now defunct [[California Victory]] of [[USL First Division|United Soccer League (USL) First Division]]. The semiprofessional [[San Francisco Bay Seals]] of the USL [[USL PDL|developmental league]] are the second [[football (soccer)|soccer]] team based the city.
+
+At the collegiate level, the Dons of the [[University of San Francisco]] compete in [[NCAA]] [[NCAA Division I|Division I]] play, where [[Bill Russell]] guided the program to [[NCAA Men's Division I Basketball Championship|NCAA men's basketball championships]] in 1955 and 1956. The [[San Francisco State University|San Francisco State]] Gators compete in [[NCAA Division II|Division II]]. 
+
+With an ideal climate for outdoor activities, San Francisco has ample resources and opportunities for amateur and participatory sports and recreation. The [[Bay to Breakers]] footrace, held annually since 1912, is best known for colorful costumes and a celebratory community spirit.&lt;ref&gt;{{cite web
+  | title = About Us - History
+  | work = ING Bay to Breakers
+  | publisher = ING Group
+  | date = 2008-03-11
+  | url = http://www.ingbaytobreakers.com/about_us/history.html
+  | accessdate = 2008-06-15}}&lt;/ref&gt; The [[San Francisco Marathon]] is an annual event that attracts more than 7,000 participants.&lt;ref&gt;{{cite web
+  | last = Winitz | first = Mark
+  | title = San Francisco Marathon Expands Cool Reputation
+  | work = [[News release|Press Release]]
+  | publisher = The San Francisco Marathon | date = 2004-06-18
+  | url = http://www.runsfm.com/about/pr/061804.html
+  | archiveurl= http://web.archive.org/web/20061230235057/http://www.runsfm.com/about/pr/061804.html
+  | archivedate= 2006-12-30 | doi =  | accessdate = 2008-06-15}}&lt;/ref&gt; There are more than 200&amp;nbsp;miles (320&amp;nbsp;km) of [[bicycle lane]]s in the city,&lt;ref&gt;{{cite web
+  | title = Bicycle Network Facilities
+  | work = Commuting and Resources
+  | publisher = SF Municipal Transportation Authority
+  | date = 2008-05-12
+  | url = http://www.sfmta.com/cms/bcomm/3180.html
+  | accessdate = 2008-06-15}}&lt;/ref&gt; and the Embarcadero and [[Marina Green]] are favored sites for [[in-line skating]]. Extensive public tennis facilities are available in Golden Gate Park and [[Dolores Park]], as well as at smaller neighborhood courts throughout the city.
+
+Boating, sailing, [[windsurfing]] and [[kitesurfing]] are among the popular activities on San Francisco Bay, and the city maintains a yacht harbor in the [[Marina District, San Francisco, California|Marina District]]. San Francisco residents have often ranked among the fittest in the U.S.&lt;ref name=&quot;fitness&quot;&gt;{{cite news 
+  | last = Hübler | first = Eric
+  | title = The Fittest and Fattest Cities in America
+  | work = Men's Fitness | publisher = American Media, Inc
+  | date = 2008 | url = http://www.mensfitness.com/city_rankings/454
+  | accessdate = 2008-06-15}}&lt;/ref&gt;
+{{-}}
+
+== Economy ==
+[[Image:Alcatraz11.JPEG|thumb|right|[[Alcatraz Island|Alcatraz]] receives 1.5 million visitors per year.&lt;ref&gt;{{cite news 
+  | last = Gonzales | first = Richard
+  | title = New Parts of Alcatraz Revealed to Public
+  | work = People and Places | publisher = National Public Radio
+  | date = 2006-05-22 | url = http://www.npr.org/templates/story/story.php?storyId=9977965
+  | accessdate = 2008-06-15}}&lt;/ref&gt;]]
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+{{see also|List of companies headquartered in San Francisco, California}}
+[[Tourism]] is the backbone of the San Francisco economy. Its [[San Francisco in popular culture|frequent portrayal]] in music, film, and popular culture has made the city and its landmarks recognizable worldwide. It is the city where [[Tony Bennett]] left his [[I Left My Heart in San Francisco|heart]], where the ''[[Birdman of Alcatraz]]'' spent many of his final years, and where [[Rice-a-Roni]]&lt;ref&gt;{{cite news 
+  | last = Finz | first = Stacy
+  | title = Rice-a-Redux After a 7-year hiatus, it's billed once again as the San Francisco treat
+  | work = San Francisco Chronicle | page = A-1
+  | publisher = Hearst Communications
+  | date = 2006-07-16
+  | url = http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2006/07/16/MNGTUK06P31.DTL
+  | accessdate = 2008-06-15}}&lt;/ref&gt; was said to be the favorite treat. San Francisco attracts the fourth-highest number of foreign tourists of any city in the U.S.{{update after|2009|06|01}}&lt;ref name=&quot;TravelandTourism&quot;&gt;{{cite web
+  |  title = Overseas Visitation Estimates for U.S. States, Cities, and Census Regions: 2007
+  | work = International Visitation in the United States
+  | publisher = US Office of Travel and Tourism Industries, US Department of Commerce
+  | date = 2008-05-27
+  | url = http://tinet.ita.doc.gov/outreachpages/download_data_table/2007_States_and_Cities.pdf
+  | format = PDF | accessdate = 2008-06-15}}&lt;/ref&gt; and claims [[Pier 39]] near [[Fisherman's Wharf, San Francisco, California|Fisherman's Wharf]] as the third-most popular tourist attraction in the nation.&lt;ref&gt;{{cite web
+  | title = Sights in San Francisco
+  | publisher = City and County of San Francisco
+  | url = http://www.sfgov.org/site/mainpages_page.asp?id=18191
+  | accessdate = 2006-09-14}}&lt;/ref&gt; More than 16 million visitors arrived in San Francisco in 2007, injecting nearly $8.2 billion into the economy—both all-time high figures for the city.&lt;ref name=&quot;SFGATE_Raine&quot;&gt;{{cite news 
+  | last = Raine | first = George
+  | title = Visitors to S.F. in 2007 set record for spending 
+  | publisher = San Francisco Chronicle | page = A-1
+  | date = 2008-05-30
+  | url = http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/05/30/MNQ51106T1.DTL&amp;hw=tourism+dollars&amp;sn=004&amp;sc=434  | accessdate = 2008-06-15}}&lt;/ref&gt; With a large hotel infrastructure and a world-class convention facility in the [[Moscone Center]], San Francisco is also among the top-ten North American destinations for conventions and conferences.&lt;ref&gt;{{cite news 
+  | last = Spain | first = William
+  | title = Cost factors: Top convention cities boast most-affordable lodging
+  | work = CBS Marketwatch | publisher = Marketwatch Inc
+  | date = 2004-11-13  | url = http://www.marketwatch.com/News/Story/Story.aspx?guid=%7B708E799D-2F2A-4AE8-9814-096BDF4F98DA%7D&amp;siteid=mktw&amp;dist=
+  | accessdate = 2008-06-15}}&lt;/ref&gt;
+
+[[Image:FinancialNorth.jpg|thumb|left|The San Francisco skyline centered within the [[Financial District, San Francisco, California|Financial District]]]]The legacy of the [[California Gold Rush]] turned San Francisco into the principal banking and finance center of the West Coast in the early twentieth century. [[Montgomery Street]] in the [[Financial District (San Francisco)|Financial District]] became known as the &quot;Wall Street of the West&quot;, home to the [[Federal Reserve Bank of San Francisco]], the [[Wells Fargo]] corporate headquarters, and the site of the now-defunct [[Pacific Exchange|Pacific Coast Stock Exchange]]. [[Bank of America]], a pioneer in making banking services accessible to the middle class, was founded in San Francisco and in the 1960s, built the landmark modern skyscraper at [[555 California Street]] for its corporate headquarters. Many large financial institutions, multinational banks and venture capital firms are based in or have regional headquarters in the city. With over 30 international financial institutions,&lt;ref&gt;{{cite web 
+  | title = San Francisco: Economy
+  | work = City-Data.com 
+  | publisher = Advameg Inc | date = n.d.
+  | url = http://www.city-data.com/us-cities/The-West/San-Francisco-Economy.html
+  | accessdate = 2008-06-15}}&lt;/ref&gt; six [[Fortune 500]] companies,&lt;ref&gt;{{cite news 
+  | title = 2008: Cities
+  | work = Fortune 500 | publisher = Fortune magazine, Time Inc
+  | date = 2008-05-05 | url = http://money.cnn.com/magazines/fortune/fortune500/2008/cities/
+  | accessdate = 2008-06-15}}&lt;/ref&gt; and a large support infrastructure of professional services—including law, public relations, architecture and design—also with significant presence in the city, San Francisco is designated as one of the ten [[Global city|Beta World Cities]].&lt;ref&gt;{{cite web
+  | last = Beaverstock
+  | first = J.V. 
+  | coauthors = R.G. Smith &amp; P.J. Taylor
+  | title = Research Bulletin 5: A Roster of World Cities
+  | work = Globalization and World Cities Study Group and Network
+  | publisher = Geography Department, Loughborough University
+  | date = 1999-07-28
+  | url = http://www.lboro.ac.uk/gawc/rb/rb5.html
+  | format = HTML
+  | accessdate = 2008-06-26}}&lt;/ref&gt; The city ranks fifteenth in the world's [[list of cities by GDP]] and eighth in the United States.&lt;ref&gt;{{cite web| url=http://www.ukmediacentre.pwc.com/imagelibrary/downloadMedia.asp?MediaDetailsID=863| title=&quot;Table 1.2 – Top 30 urban agglomeration GDP rankings in 2005 and illustrative projections to 2020 (using UN definitions and population estimates)&quot;|first=&quot;UK Economic Outlook, March 2007&quot;, page 5|last=[[PriceWaterhouseCoopers]]|format=PDF | accessdate=2007-09-26}}&lt;/ref&gt; 
+
+San Francisco's economy has increasingly become tied to that of its Bay Area neighbor [[San Jose, California|San Jose]] and [[Silicon Valley]] to its south, sharing the need for highly educated workers with specialized skills.&lt;ref&gt;{{cite news 
+  | last = Selna | first = Robert
+  | title = New jobs, houses spur S.F. population in 2007
+  | work = San Francisco Chronicle | page = B-1
+  | publisher = Hearst Communications | date = 2008-05-15
+  | url = http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/05/15/BA2110LPHB.DTL
+  | accessdate = 2008-06-15}}&lt;/ref&gt; San Francisco has been positioning itself as a [[biotechnology]] and [[biomedical]] hub and research center. The [[Mission Bay, San Francisco, California|Mission Bay]] neighborhood, site of a second campus of [[University of California-San Francisco|UCSF]], fosters a budding industry and serves as headquarters of the [[California Institute for Regenerative Medicine]], the public agency funding [[stem cell research]] programs statewide. 
+
+Small businesses with fewer than 10 employees and self-employed firms make up 85 percent of city establishments.&lt;ref&gt;{{cite news | last = Tan | first = Aldrich M.
+  | title = San Francisco is gateway city for immigrants and Silicon Valley Technology
+  | work = Fogcityjournal.com | date = 2006-04-12
+  | url = http://www.fogcityjournal.com/news_in_brief/sf_tech_gateway_060412.shtml
+  | accessdate = 2008-06-15}}&lt;/ref&gt; The number of San Franciscans employed by firms of more than 1,000 employees has fallen by half since 1977.&lt;ref name=&quot;SFEconomicStrategy&quot;/&gt; City government has made it intentionally difficult for national [[big box]] and [[formula retail]] chains to expand in the city; the Board of Supervisors has used the planning code to limit the neighborhoods in which formula retail establishments can operate,&lt;ref&gt;{{cite news
+ |url=http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2004/03/24/BAGD65PVI821.DTL
+ |author=Hetter, Katia
+ |date=2004-03-21
+ |title=Supervisors OK limits on chain-store expansion
+ |accessdate=2007-01-19
+ |publisher=San Francisco Chronicle
+}}&lt;/ref&gt; an effort affirmed by San Francisco voters.&lt;ref&gt;{{cite web
+ |url=http://smartvoter.org/2006/11/07/ca/sf/meas/G/
+ |title=Proposition G: Limitations on Formula Retail Stores, City of San Francisco
+ |accessdate=2007-01-19
+ |publisher=smartvoter.org
+}}&lt;/ref&gt;
+
+==Government==
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+{{see also|Politics of San Francisco, California|Government of San Francisco}}
+{{Infobox
+|name         = Representation
+|title        = Representation
+|header1      = 
+|label1       = [[California's 8th congressional district|8&lt;sup&gt;th&lt;/sup&gt; U.S. House district]]
+|data1        = [[Nancy Pelosi]] ([[Democratic Party (United States)|D]])
+|header2      = 
+|label2       = [[California's 12th congressional district|12&lt;sup&gt;th&lt;/sup&gt; U.S. House district]]
+|data2        = [[Jackie Speier]] ([[Democratic Party (United States)|D]])
+|header3      = 
+|label3       = [[California State Senate|3&lt;sup&gt;rd&lt;/sup&gt; Senate District]]
+|data3        = [[Carole Migden]] ([[Democratic Party (United States)|D]])
+|header4      = 
+|label4       = [[California State Senate|8&lt;sup&gt;th&lt;/sup&gt; Senate District]]
+|data4        = [[Leland Yee]] ([[Democratic Party (United States)|D]])
+|header5      = 
+|label5       = [[California State Assembly|12&lt;sup&gt;th&lt;/sup&gt;Assembly District]]
+|data5        = [[Fiona Ma]] ([[Democratic Party (United States)|D]])
+|header6      = 
+|label6       = [[California State Assembly|13&lt;sup&gt;th&lt;/sup&gt; Assembly District]]
+|data6        = [[Mark Leno]] ([[Democratic Party (United States)|D]])
+|below        = 
+}}
+&lt;!-- The majority of this section is copied directly from http://www.sfgov.org/site/sf311_index.asp?id=55765. This is considered plagiarism. So if anyone has time, please rewrite this section. Thanks. --&gt;
+San Francisco is a [[consolidated city-county]], a status it has held since 1856.&lt;ref&gt;{{cite book
+  | last = Coy
+  | first = Owen Cochran
+  | title = Guide to the County Archives of California
+  | publisher = California Historical Survey Commission
+  | date = 1919
+  | location = Sacramento, California
+  | page = p. 409
+}}&lt;/ref&gt; It is the only such consolidation in California.&lt;ref name=&quot;CityCounty&quot;&gt;
+{{cite web |url=http://www.sfgov.org/site/sf311_index.asp?id=55765 |title=Board of Supervisors - Does San Francisco have a City Council? |accessdate=2008-06-16 |work=SFGov SF311}}&lt;/ref&gt; The [[Mayor of San Francisco|mayor]] is also the county executive, and the county [[San Francisco Board of Supervisors| Board of Supervisors]] acts as the [[city council]]. Under the city charter, the government of San Francisco is constituted of two co-equal branches. The executive branch is headed by the mayor and includes other citywide elected and appointed officials as well as the civil service. The 11-member Board of Supervisors, the legislative branch, is headed by a president and is responsible for passing laws and budgets, though San Franciscans also make use of [[Initiative|direct ballot initiatives]] to pass legislation.
+[[Image:Sfcityhall.jpeg|thumb|left|[[San Francisco City Hall]]]]
+The members of the Board of Supervisors are elected as representatives of specific districts within the city.&lt;ref name=&quot;SF_Gov_Supervisor_Districts&quot;&gt;{{cite web
+ |title=Board of Supervisors District Information
+ |url=http://www.sfgov.org/site/bdsupvrs_index.asp?id=4385
+ |publisher = City and County of San Francisco, Board of Supervisors
+ |accessdate = 2006-01-29}}&lt;/ref&gt; If the mayor dies or resigns, the President of the Board of Supervisors assumes the office, as [[Dianne Feinstein]] did after the assassination of [[George Moscone]] in 1978.
+
+Because of its unique city-county status, local government exercises jurisdiction over property that would otherwise be located outside of its corporation limit. [[San Francisco International Airport]], though ostensibly located in [[San Mateo County]], is legally in San Francisco because it is owned and operated by the City and County of San Francisco. San Francisco was also granted a perpetual leasehold over the [[Hetch Hetchy Valley]] and [[drainage basin|watershed]] in [[Yosemite National Park]] by the [[Raker Act]] in 1913.&lt;ref name=&quot;CityCounty&quot;/&gt;
+
+In 2006, the Board of Supervisors passed an ordinance making San Francisco the first city in the nation to provide health care services to all uninsured residents, with creation of the [[Healthy San Francisco]] program.&lt;ref&gt;{{cite web
+ |url=http://www.kff.org/uninsured/upload/7760.pdf
+ |title=Key Facts: Healthy San Francisco
+ |accessdate=2008-03-14
+ |year=2008 | month=March 
+ |publisher=Kaiser Commission on Medicaid and the Uninsured}}&lt;/ref&gt;
+The municipal budget for fiscal year 2007&amp;ndash;2008 was just over $6 billion.&lt;ref&gt;{{cite news
+ |first=Cecilia
+ |last=Vega
+ |title=Newsom signs the city's largest budget
+ |url=http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/07/28/BAGAOR8Q591.DTL
+ |publisher=San Francisco Chronicle
+ |date=2007-07-28
+ |accessdate=2008-03-15}}&lt;/ref&gt;
+ 
+The federal government utilizes San Francisco as the regional hub for many arms of the federal bureaucracy, including the [[Ninth Circuit U.S. Court of Appeals|U.S. Court of Appeals]], the [[Federal Reserve Bank of San Francisco|Federal Reserve Bank]], and the [[United States Mint|U.S. Mint]]. Until decommissioning in the early 1990s, the city had three major military installations&amp;mdash;the [[Presidio of San Francisco|Presidio]], [[Treasure Island, California|Treasure Island]], and [[San Francisco Naval Shipyard|Hunters Point]]&amp;mdash;a legacy still reflected in the annual celebration of [[Fleet Week]]. The State of California uses San Francisco as the home of the state [[Supreme Court of California|supreme court]] and other state agencies. Foreign governments maintain more than thirty [[consulate]]s in San Francisco.&lt;ref&gt;{{cite web
+ |url=http://www.yellowpages.com/sp/yellowpages/ypresults.jsp?t=0&amp;v=3&amp;s=2&amp;p=1&amp;q=Consulates&amp;ci=san+francisco&amp;st=CA&amp;q=Consulates
+ |title=Search for consulates in San Francisco, CA
+ |accessdate=2006-08-27
+ |publisher=Yellowpages.com}}&lt;/ref&gt;
+
+==Demographics==
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+[[Image:SFPopulationGrowth.jpg|right|thumb|Population (thousands) by year&lt;ref name=&quot;SF Historical Population&quot;&gt;{{cite web| last = Gibson | first = Campbell | title=Population of the 100 Largest Cieties and Other Urban Places in the United States: 1790 to 1990 | publisher = U.S. Census Bureau | year = 1998 | month=June | url=http://www.census.gov/population/www/documentation/twps0027.html | accessdate=2006-01-29 }}&lt;/ref&gt;]]
+{{seealso|Demographic maps of San Francisco, California}}
+
+The estimated 2007 population of San Francisco is 764,976.&lt;ref name=&quot;SF2007pop&quot;/&gt;&lt;ref&gt; The city of San Francisco has announced it will contest the Census Bureau figure, stating that its own estimate is closer to 864,000. Ref: {{cite news|publisher=San Francisco Chronicle|title=Newsom says U.S. census missed 100,000; City to officially fight '07 population estimate of 764,000|author=Steve Rubenstein|date=2008-04-01 |accessdate=2008-04-01 |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/31/BATIVTOMG.DTL}}&lt;/ref&gt; With nearly 16,000 people per square mile, San Francisco is the second-most densely populated major American city.&lt;ref name=&quot;SF_Population_Density&quot;&gt;For cities with greater than 200,000 population. {{cite web | title=2000 Census: US Municipalities Over 50,000: Ranked by 2000 Density | url=http://www.demographia.com/db-2000city50kdens.htm | publisher = Demographia | accessdate=2007-08-23}}&lt;/ref&gt; San Francisco is the traditional focal point of the [[San Francisco Bay Area]] and forms part of the greater [[San Jose, California|San Jose]]-San Francisco-[[Oakland, California|Oakland]] [[Combined Statistical Area]] (CSA) whose population is over 7 million: the fifth largest in the U.S. as of the 2000 Census.&lt;ref&gt;{{cite web |url=http://www.census.gov/population/cen2000/phc-t29/tab06.xls |title=Population in Combined Statistical Areas (CSAs) in Alphabetical Order and Numerical and Percent Change for the United States and Puerto Rico:  1990 and 2000 |accessdate=2008-06-16  |format=Excel |work=Census 2000 and 1990 Census |publisher=U.S. Census Bureau | date=2003-12-30}}&lt;/ref&gt;
+
+Like many larger U.S. cities, San Francisco is a [[minority-majority]] city, as non-Hispanic [[White (people)|white]]s comprise less than half of the population. As of 2006, the Census Bureau estimated that 44.6 percent of the population was non-Hispanic white.&lt;ref name=&quot;SFQuickFacts&quot;&gt;{{cite web |url=http://quickfacts.census.gov/qfd/states/06/06075.html |title=State &amp; County QuickFacts: San Francisco County, California |accessdate=2008-06-16 | |publisher=U.S. Census Bureau}}&lt;/ref&gt; [[Asian American]]s make up about a third of the population; [[Chinese Americans]] constitute the largest single racial group in San Francisco at about a fifth of the population. [[Hispanics in the United States|Hispanic]]s of any race make up about 14 percent of the population. San Francisco's [[African American]] population has declined in recent decades, from 13.4 percent of the city in 1970 to 7.2 percent of the population in 2006.&lt;ref name=&quot;SFQuickFacts&quot;/&gt; The current percentage of African Americans in San Francisco is similar to that of the state of California.&lt;ref name=&quot;SFQuickFacts&quot;/&gt;
+
+Relatively few of the city's residents are native San Franciscans. Only 35 percent of its residents were born in California; 39 percent were born outside the U.S.&lt;ref name=&quot;SFEconomicStrategy&quot;/&gt;
+
+According to the 2005 American Community Survey, San Francisco has the highest percentage of gay and lesbian individuals of any of the 50 largest U.S cities, with 15.4%.&lt;ref&gt;{{cite web | url=http://www.law.ucla.edu/williamsinstitute/publications/SameSexCouplesandGLBpopACS.pdf |title=Same-sex Couples and the Gay, Lesbian, Bisexual Population: New Estimates from the American Community Survey | last=Gates | first=Gary | accessdate=2008-07-10| year=2006 | month=October | format=PDF | |publisher=The Williams Institute, UCLA School of Law }}&lt;/ref&gt; San Francisco also has the highest percentage of same-sex households of any American county, with the Bay Area having a higher concentration than any other [[metropolitan area]].&lt;ref name=&quot;gaystats&quot;&gt;{{cite web | title=Gay and Lesbian Families in the United States: Same-Sex Unmarried Partner Households | format = PDF | url=http://www.hrc.org/documents/gayandlesbianfamilies.pdf | accessdate=2006-08-26 | publisher = Human Rights Campaign }}&lt;/ref&gt;
+
+The San Francisco median household income is $57,833 and the median family income, at $67,809 in 2005, is the third-highest for any large city in the nation.&lt;ref name=&quot;MedianIncome&quot;/&gt;  Following a national trend, an out-migration of middle class families is contributing to widening income disparity&lt;ref name=&quot;MiddleClass&quot;/&gt; and has left the city with a lower proportion of children, 14.5 percent, than any other large American city.&lt;ref name=&quot;ChildPopulation&quot;&gt;{{cite web |url=http://www.colemanadvocates.org/includes/downloads/amiliesstruggletostaypg111.pdf?PHPSESSID=fe69726d1f893afa0893c110367fe07e|title=Families Struggle To Stay: Why Families are Leaving San Francisco and What Can Be Done |accessdate=2008-06-16 |date=206-03-01 |format=PDF |publisher=Coleman Advocates for Children &amp; Youth}}&lt;/ref&gt; 
+
+The city's [[poverty rate]], at 7.7 percent, is lower than the national average and among the lowest for cities ranked by the U.S. Census Bureau.&lt;ref&gt;{{cite web |url=http://www.census.gov/prod/2006pubs/07statab/income.pdf |title=Table 689 - Household Income, Family Income, Per Capita Income, and Individuals and Families Below Poverty Level by City: 2004 |accessdate=2008-06-16 |format=PDF |year=2004 |work=Statistical Abstract of the United States 2007, Section 13: Income, Expenditures and Wealth |publisher=U.S. Census Bureau}}&lt;/ref&gt;
+
+[[Homeless]]ness has been a chronic and controversial problem for San Francisco since the early 1980s. The city is believed to have the highest number of homeless inhabitants per capita of any major U.S. city.&lt;ref&gt;{{cite web
+ |title=Care Not Cash
+ |publisher=[[PBS]]
+ |date=2005-04-05
+ |url=http://www.pbs.org/newshour/bb/economy/jan-june05/homeless_4-8.html
+ |accessdate=2007-09-06}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+ |last=Pratt
+ |first=Timothy
+ |title=Critics say regional plan won't solve the problem
+ |publisher=''Las Vegas Sun''
+ |date=2006-08-12
+ |url=http://www.lasvegassun.com/news/2005/aug/12/critics-say-regional-plan-wont-solve-the-problem/
+ |accessdate=2006-08-30}}&lt;/ref&gt;
+
+The [[Crime rate|rates]] of violent and property crime, reported for 2006 as 875 and 4,958 incidents per 100,000 residents respectively,&lt;ref name=&quot;SFCrimeRank&quot;&gt;{{cite web |url=http://www.fbi.gov/ucr/cius2006/data/table_08_ca.html|title=Uniform Crime Reports: Table 8 Offenses Known to Law Enforcement by State by City, 2006 |accessdate=2008-06-16 | work=2006 Crime in the United States |publisher=Federal Bureau of Investigation}}&lt;/ref&gt; are higher than the national average.&lt;ref&gt;{{cite web |url=http://www.fbi.gov/ucr/cius2006/data/table_01.html |title=Uniform Crime Reports: Table 1 Crime in the United States by Volume and Rate per 100,000 Inhabitants, 1987–2006 |accessdate=2008-06-16 |work=2006 Crime in the United States |publisher=Federal Bureau of Investigation}}&lt;/ref&gt; In 2007, the city recorded 98 homicides, the highest number in more than a decade.&lt;ref&gt;{{cite news |first=Cecilia |last=Vega |title=Guns, crack cocaine fuel homicides in S.F. - 98 killings in 2007 |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/01/15/BAQHUF1NG.DTL&amp;hw=homicides&amp;sn=001&amp;sc=1000 |work=San Francisco Chronicle |date=2008-01-15 |accessdate=2008-01-18}}&lt;/ref&gt;
+
+==Education==
+===Colleges and universities===
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+[[Image:UCSF-Mission Bay.jpg|thumb|rightt|The [[Mission Bay, San Francisco, California|Mission Bay]] campus of [[University of California, San Francisco|UCSF]]]]
+{{seealso|List of colleges and universities in San Francisco}}
+The [[University of California, San Francisco]] is part of the [[University of California|University of California system]] but is solely dedicated to graduate education in health and biomedical sciences. It is ranked among the top-five medical schools in the U.S.&lt;ref&gt;{{cite web |url=http://grad-schools.usnews.rankingsandreviews.com/grad/mdr/search |title=America's Best Graduate Schools: Best Medical Schools |accessdate=2008-06-16 |year=2008 |publisher=''[[U.S. News and World Report]]''}}&lt;/ref&gt; and also operates the [[UCSF Medical Center]], ranked among the top 10 hospitals in the U.S.&lt;ref&gt;{{cite web |url=http://health.usnews.com/usnews/health/best-hospitals/honorroll.htm |title=America's Best Hospitals 2007 |accessdate=2008-06-16 |publisher=''U.S. News and World Report'' |year=2008 }}&lt;/ref&gt; UCSF is a major local employer, second in size only to the city and county government.&lt;ref&gt;{{cite web |url=http://www.sfced.org/docs/Largest_Employers_in_SF_2007.doc |title=San Francisco Business Information: Largest Employers in San Francisco |accessdate=2008-06-09 |work=San Francisco Business Times Book of Lists, 2007 | format=Microsoft Word |publisher=San Francisco Center for Economic Development }}&lt;/ref&gt; A 43-acre [[Mission Bay, San Francisco, California|Mission Bay]] campus was opened in 2003, complementing its original facility in [[List of hills in San Francisco, California|Parnassus Heights]]. It contains research space and facilities to foster biotechnology and life sciences entrepreneurship and will double the size of UCSF's research enterprise.&lt;ref&gt;{{cite web |url=http://pub.ucsf.edu/newsservices/releases/2003072264/ |title=New UCSF Mission Bay campus: country's largest biomedical university expansion |author=Wallace Ravven |accessdate=2008-06-09 |publisher=UCSF |date=2003-07-22 }}&lt;/ref&gt; The [[University of California, Hastings College of the Law]], founded in [[Civic Center, San Francisco, California|Civic Center]] in 1878, is the oldest law school in California and claims more judges on the state bench than any other institution.&lt;ref&gt;{{cite web |url=http://www.uchastings.edu/?pid=37 |title=Hastings Quick Facts |accessdate=2006-08-30 |publisher=University of California, Hastings College of the Law }}&lt;/ref&gt;
+
+[[San Francisco State University]] is part of the [[California State University|California State University system]] and is located near [[Lake Merced]].&lt;ref name=sfsu&gt;{{cite web |url=http://www.sfsu.edu/~puboff/sfsufact/sftoday.htm |title=SF State Facts 2006–2007: Today |accessdate=2008-06-09 |publisher=SFSU}}&lt;/ref&gt; The school has close to 30,000 students&lt;ref&gt;{{cite web |url=http://www.sfsu.edu/~puboff/sfsufact/stud.htm |title=SF State Facts 2006–2007: Students |accessdate=2008-06-09 |publisher=SFSU}}&lt;/ref&gt; and awards undergraduate and master's degrees in more than 100 disciplines.&lt;ref name=sfsu/&gt; The [[City College of San Francisco]], with its main facility in the [[Ingleside, San Francisco, California|Ingleside]] district, is one of the largest two-year [[community college]]s in the country. It has an enrollment of about 100,000 students and offers an extensive continuing education program.&lt;ref&gt;{{cite web |url=http://www.ccsf.edu/Offices/Public_Information/factsheet.html |title=City College of San Francisco Fact Sheet |accessdate=2008-06-16 |year=2008 |month=April |format=PDF |publisher=City College of San Francisco}}&lt;/ref&gt;  Founded in 1855, the [[Society of Jesus|Jesuit]]-run [[University of San Francisco]], located on [[Lone Mountain (California)|Lone Mountain]], focuses on the [[liberal arts]] and is one of the oldest universities established west of the Mississippi.&lt;ref&gt;{{cite web |url=http://www.usfca.edu/online/about_USF/USFAlmanac2007.pdf |title=University of San Francisco Fact Book and Almanac 2007 |accessdate=2008-06-16 | |date=2007-12-31 |format=PDF |publisher=University of San Francisco}}&lt;/ref&gt;
+
+Notable schools providing higher education in the arts include [[San Francisco Art Institute]], the [[Academy of Art University]], and an extension of the [[Oakland, California|Oakland]]-based [[California College of the Arts]]. The [[San Francisco Conservatory of Music]], the only school of its kind on the West Coast, grants degrees in orchestral instruments, chamber music, composition, and conducting.
+
+The [[California Culinary Academy]], associated with the [[Le Cordon Bleu]] program, offers programs in the culinary arts, baking and pastry arts, and hospitality and restaurant management.
+
+===Primary and secondary schools===
+&lt;!--Note: All PUBLIC schools are listed in San Francisco Unified School District--&gt;
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+[[Public school]]s are run by the [[San Francisco Unified School District]] as well as the State Board of Education for some charter schools. [[Lowell High School (San Francisco)|Lowell High School]], the oldest public high school in the U.S. west of the Mississippi,&lt;ref&gt;{{cite web
+  | title = The Oldest Public High School West of the Mississippi
+  | work = About Lowell: Lowell History | publisher = San Francisco Unified School District
+  | date = 2002-02-22
+  | url = http://www.sfusd.edu/schwww/sch697/about/history/
+  | accessdate = 2008-06-16}}&lt;/ref&gt; and the smaller [[School of the Arts High School (San Francisco)|School of the Arts High School]] are two of San Francisco's [[magnet school]]s at the secondary level. Just under 30 percent of the city's school-age population attends one of San Francisco's more than 100 [[private school|private]] or [[parochial school]]s, compared to a 10 percent rate nationwide.&lt;ref name=&quot;SFGPrvtSchools&quot;&gt;{{cite news 
+  | last = Knight | first = Heather
+  | title = Many reluctantly chose private schools
+  | work = San Francisco Chronicle | page = A-1
+  | publisher = Hearst Communications | date = 2006-05-31
+  | url = http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2006/05/31/MNGJIJ50T41.DTL
+  | accessdate = 2008-06-16}}&lt;/ref&gt; Nearly 40 of those schools are [[Catholic school]]s managed by the  [[Roman Catholic Archdiocese of San Francisco|Archdiocese of San Francisco]].&lt;ref&gt;{{cite web
+  | title = School Directory August 2007
+  | publisher = Roman Catholic Archdiocese of San Francisco
+  | date = 2007-08-14
+  | url = http://www.sfcatholicschools.org/school_directories/Directory_School_07-08.pdf
+  | format = PDF | accessdate = 2008-06-16}}
+[http://www.sfcatholicschools.org/school_directories/schooldirectories.htm School Directory] Archdiocese of San Francisco, Department of Catholic Schools. Retrieved on August 27, 2006.&lt;/ref&gt;
+
+==Transportation==
+[[Image:Sfbaybridge at night.jpg|thumb|right|The [[San Francisco – Oakland Bay Bridge|Bay Bridge]] connects to [[Oakland, California|Oakland]] and the [[East Bay (San Francisco Bay Area)|East Bay]].]]
+===Roads and highways===
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+{{seealso|Etymologies of street names in San Francisco, California}}
+Because of its unique geography&amp;mdash;making [[beltway]]s somewhat impractical&amp;mdash;and the results of the [[Freeway and expressway revolts|freeway revolt]]s of the late 1950s,&lt;ref name=&quot;freeway&quot;&gt;{{cite news 
+  | last = Gordon | first = Rachel
+  | title = Boulevard of dreams, the premiere
+  | work = San Francisco Chronicle | page = B-1
+  | publisher = Hearst Communications 
+  | date = 2005-09-08
+  | url = http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/08/BAGBFEJVE21.DTL
+  | accessdate = 2008-06-16}}&lt;/ref&gt; San Francisco is one of the few American cities that has opted for European-style [[arterial thoroughfares]] instead of a large network of [[freeways]]. This trend continued following the 1989 [[Loma Prieta Earthquake]], when city leaders decided to demolish the [[Embarcadero Freeway]], and voters approved demolition of a portion of the [[Central Freeway]], converting them into street-level boulevards.&lt;ref name=&quot;freeway&quot;/&gt;
+
+[[Interstate 80 in California|Interstate 80]] begins at the approach to the [[San Francisco – Oakland Bay Bridge|Bay Bridge]] and is the only direct automobile link to the East Bay. [[U.S. Highway 101 in California|U.S. Route 101]] extends Interstate 80 to the south along the San Francisco Bay toward [[Silicon Valley]]. Northbound, 101 uses arterial streets [[Van Ness Avenue (San Francisco)|Van Ness Avenue]] and [[Lombard Street (San Francisco)|Lombard Street]] to the [[Golden Gate Bridge]], the only direct road access from San Francisco to [[Marin County]] and points north. [[California State Route 1|Highway 1]] also enters San Francisco at the Golden Gate Bridge, but diverts away from 101, bisecting the west side of the city as the [[19th Avenue (San Francisco)|19th Avenue]] arterial thoroughfare, and joining with [[Interstate 280 (California)|Interstate 280]] at the city's southern border. Interstate 280 continues this route along the central portion of the Peninsula south to [[San Jose, California|San Jose]]. Northbound, 280 turns north and east and terminates in the South of Market area. [[California State Route 35|Highway 35]], which traverses the majority of the Peninsula along the ridge of the [[Santa Cruz Mountains]], enters the city from the south as [[Skyline Boulevard]], following city streets until it terminates at its intersection with Highway 1. Major east&amp;ndash;west thoroughfares include [[Geary Boulevard]], the [[List of streets in San Francisco|Lincoln Way]]/[[List of streets in San Francisco|Fell Street]] corridor, and [[Market Street (San Francisco)|Market Street]]/[[List of streets in San Francisco|Portola Drive]].
+
+[[Cycling]] is a popular mode of transportation in San Francisco, with about 40,000 residents commuting to work regularly by bicycle.&lt;ref name=&quot;SF bicycle commuters&quot;&gt;{{cite news 
+  | last = Wood | first = Daniel B
+  | title = Bicyclists winning a war of lanes in San Francisco
+  | work = Christian Science Monitor | publisher = Church of Christ, Scientist
+  | date = 2006-09-12 | url = http://www.csmonitor.com/2006/0912/p01s01-ussc.html
+  | accessdate = 2008-06-16}}&lt;/ref&gt; There are {{convert|68|mi|km|0}} of bicycle lanes and paths throughout the city.&lt;ref name=&quot;bicycle facilities&quot;&gt;{{cite web
+  | title = Bicycle Network Facilities
+  | publisher = San Francisco Municipal Transporation Agency
+  | date = 2008-05-12 | url = http://www.sfmta.com/cms/bcomm/3180.html
+  | accessdate = 2008-06-16}}&lt;/ref&gt;
+
+===Public transportation===
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+{{seealso|San Francisco Municipal Railway}}
+[[Image:Cable Car.jpg|thumb|right|A [[San Francisco cable car system|cable car]] descending [[Nob Hill]]]]
+Many people in San Francisco use [[public transport| public transportation]], nearly a third of commuters in 2005.&lt;ref&gt;{{cite web |url=http://money.cnn.com/2007/06/13/real_estate/public_transit_commutes/index.htm |title=New Yorkers are Top Transit Users |accessdate=2008-08-20 |author=Les Christie |date=2007-06-29|work=CNNMoney.com |publisher=Cable News Network}}&lt;/ref&gt; Public transit solely within the city of San Francisco is provided predominantly by the [[San Francisco Municipal Railway]] (Muni). The city-owned system operates both a combined light rail/subway system (the [[Muni Metro]]) and a bus network that includes [[trolleybus]]es, standard diesel motorcoaches and diesel hybrid buses. The Metro streetcars run on surface streets in outlying neighborhoods but underground in the downtown area.&lt;ref name=&quot;transportation&quot;&gt;{{cite news 
+  | title = Bay Area Traveler: Transportation Information
+  | work = SF Gate.com
+  | publisher = Hearst Communications Inc
+  | year = 2007 | month = March
+  | url = http://www.sfgate.com/traveler/guide/transportation/publictrans.shtml
+  | accessdate = 2008-06-16}}&lt;/ref&gt; Additionally, Muni runs the highly visible [[F Market|F Market historic streetcar line]], which runs on surface streets from [[The Castro|Castro Street]] to [[Fisherman's Wharf, San Francisco, California|Fisherman's Wharf]] (through Market Street),&lt;ref name=&quot;transportation&quot;/&gt; and the iconic [[San Francisco cable car system]],&lt;ref name=&quot;transportation&quot;/&gt; which has been designated as a [[National Historic Landmark]].&lt;ref&gt;{{cite web
+  | title = Report on San Francisco's Cable Cars
+  | publisher = San Francisco Beautiful
+  | year = 2007 | month = May
+  | url = http://www.sfbeautiful.org/images/press/5.07.Cable%20Car%20Report.pdf | format = PDF
+  | accessdate = 2008-06-16}}&lt;/ref&gt;
+
+Commuter rail is provided by two complementary agencies. [[Bay Area Rapid Transit]] (BART) is the regional rapid transit system which connects San Francisco with the [[East Bay (San Francisco Bay Area)|East Bay]] through the [[Transbay Tube]]. The line runs under Market Street to Civic Center, where it turns south to the Mission District, the southern part of the city, and through northern [[San Mateo County, California|San Mateo County]], to the [[San Francisco International Airport]], and [[Millbrae, California|Millbrae]].&lt;ref name=&quot;transportation&quot;/&gt; The [[Caltrain]] rail system runs from San Francisco along the [[San Francisco Peninsula|Peninsula]] down to [[San Jose, California|San Jose]].&lt;ref name=&quot;transportation&quot;/&gt; The line dates from 1863, and for many years was operated by [[Southern Pacific]].
+
+The [[Transbay Terminal]] serves as the terminus for long-range bus service (such as [[Greyhound Lines|Greyhound]]) and as a hub for regional bus systems [[AC Transit]] ([[Alameda County, California|Alameda County]]), [[SamTrans]] ([[San Mateo County, California|San Mateo County]]), and [[Golden Gate Transit]] (Marin and [[Sonoma County, California|Sonoma Counties]]).&lt;ref&gt;{{cite web |url= http://www.transbaycenter.org/TransBay/content.aspx?id=36 |title= Project Overview - Regional Transit |accessdate= 2008-06-08 |publisher= Transbay Transit Center}}&lt;/ref&gt; [[Amtrak]] also runs a shuttle bus from San Francisco to its [[Emeryville (Amtrak station)|rail station]] in [[Emeryville, California|Emeryville]].&lt;ref&gt;{{cite web |url= http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Station/Station_Page&amp;code=EMY |title= Profile of Emeryville Station |accessdate= 2008-06-08 |publisher= Amtrak}}&lt;/ref&gt;
+
+A small fleet of commuter and tourist [[ferries]] operate from the [[Ferry Building]] and [[Pier 39]] to points in [[Marin County, California|Marin County]], [[Oakland, California|Oakland]], and north to [[Vallejo, California|Vallejo]] in [[Solano County, California|Solano County]].&lt;ref name=&quot;transportation&quot;/&gt;
+
+===Airports===
+[[Image:International Terminal of San Francisco International Airport2.jpg|thumb|[[San Francisco International Airport]]]]
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+{{main|San Francisco International Airport}}
+[[San Francisco International Airport]] (SFO), though located 13 miles (21 km) south of the city in [[San Mateo County, California|San Mateo County]], is under the jurisdiction of the City and County of San Francisco. SFO is primarily adjacent to the cities of [[Millbrae, California|Millbrae]] and [[San Bruno, California|San Bruno]], but also borders the most southern part of the city of [[South San Francisco, California|South San Francisco]]. SFO is a hub for [[United Airlines]], its largest tenant,&lt;ref name=&quot;UAL&quot;&gt;{{cite news 
+  | last = Young | first = Eric
+  | title = Pact keeps United from flying away
+  | work = San Francisco Business Times | publisher = American City Business Journals
+  | date = 2004-04-02 | url = http://www.bizjournals.com/sanfrancisco/stories/2004/04/05/story1.html
+  | accessdate = 2008-06-16}}&lt;/ref&gt; and the decision by [[Virgin America]] to base its operations out of SFO&lt;ref name=&quot;VirginAmerica&quot;&gt;{{cite news 
+  | last = Raine | first = George
+  | title = Taking to the air: Low-fare startup Virgin America says it has the funding to fly
+  | work = San Francisco Chronicle | page = C-1 | publisher = Hearst Communications Inc
+  | date = 2005-12-09
+  | url = http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/12/09/VIRGIN.TMP
+  | accessdate = 2008-06-16}}&lt;/ref&gt; reverses the trend of [[low-cost carrier]]s opting to bypass SFO for [[Oakland International Airport|Oakland]] and [[San Jose International Airport|San Jose]]. SFO is an international gateway, with the largest international terminal in North America.&lt;ref name=&quot;intlterminalfactsheet&quot;&gt;{{cite web  | title = Fact Sheet: International Terminal
+  | publisher = San Francisco International Airport
+  | year = 2007 | month = May
+  | url = http://www.flysfo.com/web/export/sites/default/download/about/news/pressres/fact-sheet/pdf/International_Terminal_Fact_Sheet.pdf 
+  | format = PDF | accessdate = 2008-06-16}}&lt;/ref&gt; The airport is built on a [[land reclamation|landfill]] extension into the [[San Francisco Bay]]. During the economic boom of the late 1990s, when traffic saturation led to frequent delays, it became difficult to respond to calls to relieve the pressure by constructing an additional runway as that would have required additional landfill. Such calls subsided in the early 2000s as traffic declined, and, in 2006, SFO was the 14th busiest airport in the U.S. and 26th busiest in the world, handling 33.5 million passengers.&lt;ref name=&quot;23rd&quot;&gt;{{cite web
+  | title = Passenger Trafic 2006 Final | publisher = Airports Council International
+  | date = 2008-03-12 | url = http://www.aci.aero/cda/aci_common/display/main/aci_content07_c.jsp?zn=aci&amp;cp=1-5-54-55-4777_666_2__
+  | accessdate = 2008-06-16}}&lt;/ref&gt;
+
+===Seaports===
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+[[Image:FerryBuildingEmbarcaderoBayBridge.JPG|thumb|right|The [[Ferry Building]] along the [[The Embarcadero (San Francisco)|Embarcadero]]]]
+{{main|Port of San Francisco}}
+The [[Port of San Francisco]] was once the largest and busiest seaport on the West Coast. It featured rows of [[piers]] perpendicular to the shore, where cargo from the moored ships was handled by cranes and manual labor and transported to nearby warehouses. The port handled cargo to and from trans-Pacific and Atlantic destinations, and was the West Coast center of the [[West coast lumber trade|lumber trade]]. The [[1934 West Coast Longshore Strike]], an important episode in the history of the [[Labor unions in the United States|American labor movement]], brought the port to a standstill. The advent of [[container shipping]] made pier-based ports obsolete, and most commercial berths moved to the [[Port of Oakland]].
+
+Many piers remained derelict for years until the demolition of the [[Embarcadero Freeway]] reopened the downtown waterfront, allowing for redevelopment. The centerpiece of the port, the [[Ferry Building]], while still receiving commuter ferry traffic, has been restored and redeveloped as a gourmet marketplace. The port's other activities now focus on developing waterside assets to support recreation and tourism.
+
+== See also ==
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO
+     DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+&lt;!-- PLEASE KEEP THIS LIST IN ALPHABETICAL ORDER --&gt;
+{{portal|San Francisco Bay Area}}
+{{col-begin}}
+* [[Potrero Point]]
+* [[San Francisco Municipal Wireless]]
+{{col-end}}
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+{{Refbegin}}
+&lt;!-- Books &amp; Journals cited in the Notes section --&gt;
+*{{cite book
+|last = De La Perouse
+|first = Jean Francois
+|coauthors = Yamane, Linda Gonsalves; Margolin, Malcolm
+|title = Life in a California Mission: Monterey in 1786: The Journals of Jean Francois De La Perouse
+|year=1989
+|publisher=Heyday Books
+|id = ISBN 0-930588-39-8 }}
+*{{cite book
+|last = Hansen
+|first = Gladys
+|title = San Francisco Almanac: Everything you want to know about the city
+|publisher = Chronicle Books
+|date = 1995
+|location = 
+|id = ISBN 0-8118-0841-6}}
+*{{cite journal
+|last = London
+|first = Jack
+|title = The Story of an Eyewitness by Jack London
+|journal = Collier's, The National Weekly
+|date = May 5, 1906 }}
+*{{cite book
+|last = Richards
+|first = Rand
+|title = Historic San Francisco: A Concise History and Guide
+|publisher = Heritage House
+|date = 1991
+|location = 
+|id = ISBN 1-879367-00-9 }}
+*{{cite book
+|last = Ungaretti
+|first = Lorri
+|title = San Francisco's Richmond District
+|publisher = Arcadia Publishing
+|date = 2005
+|location = 
+|id = ISBN 0-7385-3053-0 }}
+*{{cite book | author=Wiley, Peter Booth | title=National trust guide San Francisco: America’s guide for architecture and history travelers | publisher=John Wiley &amp; Sons, Inc. | year=2000 | id=ISBN 0-471-19120-5}}
+{{Refend}}
+
+==Further reading==
+{{Refbegin}}
+*{{cite book | year= 1989 | publisher=Dorset Press | title=The Barbary Coast: An Informal History of the San Francisco Underworld | author=Asbury, Hubert | id=ISBN 0-88029-428-0 }}
+*{{cite book | author=Bronson, William | title=The Earth Shook, the Sky Burned | publisher=Chronicle Books |year=2006 | id=ISBN 0-8118-5047-1 }}
+*{{cite book | year= 1987 | publisher=Square Books | title=Spanning the Gate | author=Cassady, Stephen | id=ISBN 0-916290-36-0 }}
+*{{cite book | year= 1998 | publisher=Celestial Arts (Reissue edition) | title=High Steel: Building the Bridges Across San Francisco Bay | author=Dillon, Richard H. | id=ISBN 0-88029-428-0 }}
+*{{ cite book | title=Literary San Francisco: A pictorial history from its beginnings to the present day | author=Ferlinghetti, Lawrence | id=ISBN 0-06-250325-1 | year=1980 | publisher=Harper &amp; Row }}
+*{{cite book | year=2002 | publisher=University of California Press | title=City for Sale: The Transformation of San Francisco | author=Hartman, Chester | id=ISBN 0-520-08605-8 }}
+*{{ cite book | title=Rush for Riches: Gold Fever and the Making of California | author=Holliday, J. S. | id = ISBN 0-520-21402-1 | year=1999 | publisher=University of California Press }}
+*{{cite book | year= 1997 | publisher=University of Illinois Press | title=San Francisco, 1846–1856: From Hamlet to City | author=Lotchin, Roger W. | id=ISBN 0-252-06631-6 }}
+*{{cite book | year= 1981 | publisher=Heydey Books | title=The Ohlone Way: Indian Life in the San Francisco-Monterey Bay Area | author=Margolin, Malcolm | id=ISBN 0-930588-01-0 }}
+*{{cite book | year= 1971 | publisher=Stein and Day | title=The San Francisco Earthquake | author=Thomas, Gordon and Witts, Max Morgan| id=ISBN 0-8128-1360-X }}
+{{Refend}}
+
+==External links==
+&lt;!-- PLEASE CONSIDER MAKING YOUR ADDITIONS TO THE SAN FRANCISCO DAUGHTER PAGES. THIS ARTICLE IS MATURE. --&gt;
+{{sisterlinks|San Francisco}}
+*[http://transit.511.org/ Bay Area Public Transit Info, Schedules and Maps]
+*[http://www.sfgov.org/ Official website for the City and County of San Francisco]
+*{{wikitravelpar|San Francisco}}
+*[http://www.sfmuseum.org/ Virtual Museum of the City of San Francisco]
+
+{{San Francisco}}
+{{San Francisco Attractions}}
+{{SF Bay Area}}
+{{California county seats}}
+{{California}}
+{{USLargestCities}}
+{{USLargestMetros}}
+{{World's most populated urban areas}}
+
+{{coord|37|46|N|122|26|W|type:city(739,426)|display=title}}
+{{featured article}}
+
+[[Category:Settlements established in 1776]]
+[[Category:County seats in California]]
+[[Category:San Francisco, California| ]]
+[[Category:Port settlements in the United States]]
+
+{{Link FA|fr}}
+{{Link FA|mk}}
+[[af:San Francisco]]
+[[ar:سان فرانسيسكو، كاليفورنيا]]
+[[ast:San Francisco]]
+[[bn:স্যান ফ্রান্সিসকো]]
+[[be-x-old:Сан-Францыска]]
+[[bo:སན་ཧྥུ་རན་སིས་ཁོ]]
+[[bs:San Francisco]]
+[[br:San Francisco (Kalifornia)]]
+[[bg:Сан Франциско]]
+[[ca:San Francisco]]
+[[cs:San Francisco]]
+[[cy:San Francisco]]
+[[da:San Francisco]]
+[[de:San Francisco]]
+[[et:San Francisco]]
+[[el:Σαν Φρανσίσκο]]
+[[es:San Francisco (California)]]
+[[eo:San Francisco (Kalifornio)]]
+[[eu:San Frantzisko (AEB)]]
+[[fa:سان‌فرانسیسکو]]
+[[fo:San Francisco]]
+[[fr:San Francisco]]
+[[ga:San Francisco, California]]
+[[gd:San Francisco]]
+[[gl:San Francisco]]
+[[ko:샌프란시스코]]
+[[haw:Kapalakiko]]
+[[hr:San Francisco, Kalifornija]]
+[[io:San Francisco]]
+[[bpy:সান ফ্রান্সিসকো কাউন্টি, ক্যালিফোর্নিয়া]]
+[[id:San Francisco]]
+[[ia:San Francisco, California]]
+[[os:Сан-Франциско]]
+[[is:San Francisco]]
+[[it:San Francisco]]
+[[he:סן פרנסיסקו]]
+[[pam:San Francisco, California]]
+[[ka:სან-ფრანცისკო]]
+[[sw:San Francisco]]
+[[ht:San Francisco, Kalifòni]]
+[[ku:San Francisco]]
+[[la:Franciscopolis (California)]]
+[[lv:Sanfrancisko]]
+[[lb:San Francisco]]
+[[lt:San Franciskas]]
+[[hu:San Francisco]]
+[[mk:Сан Франциско, Калифорнија]]
+[[mr:सान फ्रांसिस्को]]
+[[ms:San Francisco, California]]
+[[nl:San Francisco]]
+[[ja:サンフランシスコ]]
+[[no:San Francisco]]
+[[nn:San Francisco]]
+[[oc:San Francisco]]
+[[uz:San Fransisko]]
+[[nds:San Francisco]]
+[[pl:San Francisco]]
+[[pt:São Francisco (Califórnia)]]
+[[ro:San Francisco, California]]
+[[qu:San Francisco llaqta]]
+[[ru:Сан-Франциско]]
+[[sq:San Francisco]]
+[[scn:San Franciscu]]
+[[simple:San Francisco, California]]
+[[sk:San Francisco]]
+[[sl:San Francisco, Kalifornija]]
+[[sr:Сан Франциско]]
+[[sh:San Francisco]]
+[[fi:San Francisco]]
+[[sv:San Francisco]]
+[[tl:San Francisco, California]]
+[[ta:சான் பிரான்சிஸ்கோ]]
+[[te:శాన్ ఫ్రాన్సిస్కో]]
+[[th:ซานฟรานซิสโก]]
+[[vi:San Francisco, California]]
+[[tr:San Francisco]]
+[[uk:Сан-Франциско]]
+[[vec:San Francisco]]
+[[vo:San Francisco]]
+[[yo:San Fransisco]]
+[[zh-yue:三藩市]]
+[[diq:San Francisco]]

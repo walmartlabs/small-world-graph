@@ -1,0 +1,142 @@
+{{Infobox Occupation
+| name= Agronomist
+| image= [[Image:Cropscientist.jpg|300px]]
+| caption= An agronomist measures and records corn growth and other processes.
+| official_names= agronomist&lt;br/&gt;agricultural scientist
+&lt;!------------Details-------------------&gt;
+| type= [[profession]]
+| activity_sector= [[agriculture]], [[agronomy]]
+| competencies= technical knowledge, sense of analysis
+| formation= see [[#Aerospace engineering degrees|professional requirements]]
+| employment_field= [[food industry]], [[science]], [[research and development]]
+| related_occupation= see [[#Fields or related disciplines|related disciplines]] 
+| average_salary= 
+}}
+'''Agricultural science''' is a broad multidisciplinary field that encompasses the parts of exact, natural, economic and [[social sciences]] that are used in the practice and understanding of [[agriculture]]. ([[veterinary medicine|Veterinary science]], but not [[animal science]], is often excluded from the definition.)
+
+==Agriculture and agricultural science==
+
+The two terms are often confused. However, they cover different concepts:
+*[[Agriculture]] is the set of activities that transform the environment for the production of animals and plants for human use. Agriculture concerns techniques, including the application of agronomic research.
+*[[Agronomy]] is [[research and development]] related to studying and improving plant-based agriculture.
+
+Agricultural sciences include research and development on:
+* Production techniques (e.g., [[irrigation]] management, recommended [[nitrogen]] inputs)
+* Improving [[agricultural productivity]] in terms of quantity and quality (e.g., selection of [[drought]]-resistant crops and animals, development of new [[pesticide]]s, yield-sensing technologies, simulation models of crop growth, in-vitro [[cell culture]] techniques)
+* Transformation of primary products into end-[[consumer]] products (e.g., production, preservation, and packaging of [[dairy product]]s)
+* Prevention and correction of adverse environmental effects (e.g., [[soils retrogression and degradation|soil degradation]], [[waste management]], [[bioremediation]])
+* [[Theoretical production ecology]], relating to crop production modeling
+* [[traditional agricultural systems]], sometime termed [[subsistence agriculture]], which feed most of the poorest people in the world.  These systems are of interest as they sometimes retain a level of integration with natural ecological greater than that of [[industrial agriculture]], which in may be more sustainable than some modern agricultural systems
+* Food production and demand on a global basis, with special attention paid to the major producers, such as China, India, Brazil and the USA.
+
+==Agricultural science: a local science==
+
+With the exception of [[theoretical production ecology|theoretical agronomy]], research in agronomy, more than in any other field, is strongly related to local areas. It can be considered a science of [[ecoregions]], because it is closely linked to soil properties and [[climate]], which are never exactly the same from one place to another. Many people think an agricultural production system relying on local weather, [[soil]] characteristics, and specific crops has to be studied locally. Others feel a need to know and understand production systems in as many areas as possible, and the human dimension of interaction with nature.
+
+==History of agricultural science==
+{{main|History of agricultural science}}
+
+Agricultural science began with [[Mendel]]'s genetic work, but in modern terms might be better dated from the [[chemical fertilizer]] outputs of [[plant physiology|plant physiological]] understanding in eighteenth century [[Germany]].{{Fact|date=December 2007}} In the United States, a scientific revolution in agriculture began with the [[Hatch Act]] of 1887, which used the term &quot;agricultural science&quot;. The Hatch Act was driven by farmers' interest in knowing the constituents of early artificial fertilizer. The [[Smith-Hughes Act]] of 1917 shifted agricultural education back to its vocational roots, but the scientific foundation had been built.&lt;ref&gt;Hillison J. (1996). [http://pubs.aged.tamu.edu/jae/pdf/vol37/37-04-08.pdf The Origins of Agriscience: Or Where Did All That Scientific Agriculture Come From?]. ''Journal of Agricultural Education''.&lt;/ref&gt; After 1906, public expenditures on agricultural research in the US exceeded private expenditures for the next 44 years.&lt;ref name=ScienceForAg&gt;Huffman WE, Evenson RE. (2006). ''[http://books.google.com/books?id=ZWcolrGftT0C Science for Agriculture]''. [[Blackwell Publishing]].&lt;/ref&gt;{{rp|xxi}}
+
+Intensification of agriculture since the 1960s in developed and [[developing countries]], often referred to as the [[Green Revolution]], was closely tied to progress made in  selecting and improving crops and animals for high productivity, as well as to developing additional inputs such as artificial [[fertilizer]]s and [[pesticide|phytosanitary product]]s.
+
+As the oldest and largest human intervention in nature, the environmental impact  of agriculture in general and more recently [[intensive agriculture]], industrial development, and population growth have raised many questions among agricultural scientists and have led to the development and emergence of new fields. These include technological fields  that assume the solution to technological problems lies in better technology, such as [[integrated pest management]], [[waste management|waste treatment]] technologies, [[landscape architecture]], [[genomics]], and [[agricultural philosophy]] fields that include references to [[food industry|food production]] as something essentially different from non-essential economic 'goods'. In fact, the interaction between these two approaches provide a fertile field for deeper understanding in agricultural science.
+
+New technologies, such as [[biotechnology]] and [[computer science]] (for data processing and storage), and technological advances have made it possible to develop new research fields, including [[genetic engineering]], [[agrophysics]], improved [[statistics|statistical analysis]], and [[precision farming]]. Balancing these, as above, are the natural and human sciences of agricultural science that seek to understand the human-nature interactions of [[traditional agriculture]], including interaction of [[religion and agriculture]], and the non-material components of agricultural production systems.
+
+===Prominent agricultural scientists===
+* [[Robert Bakewell (farmer)|Robert Bakewell]]
+* [[Norman Borlaug]]
+* [[Luther Burbank]]
+* [[George Washington Carver]]
+* [[René Dumont]]
+* [[Jay Lush]]
+* [[Gregor Mendel]]
+* [[Louis Pasteur]]
+* [[Eli Whitney, Jr.|Eli Whitney]]
+* [[Sewall Wright]]
+
+==Agricultural science and agriculture crisis==
+Agriculture sciences seek to feed the world's population while preventing [[biosafety]] problems that may affect human health and the [[environment (biophysical)|environment]]. This requires promoting good management of [[natural resources]] and respect for the environment, and increasingly concern for the psychological wellbeing of all concerned in the food production and consumption system.
+
+Economic, environmental, and social aspects of agriculture sciences are subjects of ongoing debate. Recent crises (such as Avian Flu, [[Bovine Spongiform Encephalopathy|mad cow disease]] and issues such as the use of [[genetically modified organism]]s) illustrate the complexity and importance of this debate.
+
+==Fields or related disciplines==
+{{Col-begin}}
+{{Col-break}}
+* [[Agricultural economics]]
+* [[Agricultural engineering]]
+* [[Agricultural philosophy]]
+* [[Agrophysics]]
+* [[Animal science]]
+** [[Animal breeding]]
+** [[Animal nutrition]]
+* [[Agronomy]]
+** [[Plant science]]
+** [[Theoretical production ecology]]
+** [[Horticulture]]
+** [[Plant breeding]]
+** [[fertilizer|Plant fertilization]]
+{{Col-break}}
+* [[Aquaculture]]
+* [[Biological engineering]]
+** [[Genetic engineering]]
+** [[Microbiology]]
+* [[Environmental science]]
+* [[Food science]]
+** [[Human nutrition]]
+* [[Irrigation]] and [[water management]]
+* [[Soil science]]
+** [[Agrology]]
+* [[Waste management]]
+{{Col-end}}
+
+==See also== 
+*[[Agricultural sciences basic topics]]
+*[[List of agriculture topics]]
+*[[History of agricultural science]]
+*[[Institute of Food and Agricultural Sciences]]
+*[[International Assessment of Agricultural Science and Technology for Development]]
+*[[Research Institute of Crop Production]] (RICP) (in the Czech Republic)
+*[[University of Agricultural Sciences]]
+
+== References ==
+{{reflist}}
+
+==Further reading==
+*[http://www.ifpri.org/pubs/jhu/agresearchlive.asp  Agricultural Research, Livelihoods, and Poverty: Studies of Economic and Social Impacts in Six Countries] Edited by Michelle Adato and Ruth Meinzen-Dick (2007),Johns Hopkins University Press [http://www.ifpri.org/pubs/fpr/pr16.pdf  Food Policy Report (Brief)]
+*Claude Bourguignon, ''Regenerating the Soil: From Agronomy to Agrology'', Other India Press, 2005
+*Pimentel David, Pimentel Marcia, ''Computer les kilocalories'', Cérès, n. 59, sept-oct. 1977
+*Russell E. Walter, ''Soil conditions and plant growth'', Longman group, London, New York 1973
+*Salamini Francesco, Oezkan Hakan, Brandolini Andrea, Schaefer-Pregl Ralf, Martin William, ''Genetics and geography of wild cereal domestication in the Near East'', in Nature, vol. 3, ju. 2002
+*Saltini Antonio, ''Storia delle scienze agrarie'', 4 vols, Bologna 1984-89, ISBN 88-206-2412-5, ISBN 88-206-2413-3, ISBN 88-206-2414-1, ISBN 88-206-2414-X 
+*Vavilov Nicolai I. (Starr Chester K. editor), ''The Origin, Variation, Immunity and Breeding of Cultivated Plants. Selected Writings'', in Chronica botanica, 13: 1-6, Waltham, Mass., 1949-50
+*Vavilov Nicolai I., ''World Resources of Cereals, Leguminous Seed Crops and Flax,'' Academy of Sciences of Urss, National Science Foundation, Washington, Israel Program for Scientific Translations, Jerusalem 1960
+*Winogradsky Serge, ''Microbiologie du sol. Problèmes et methodes. Cinquante ans de recherches,'' Masson &amp; c.ie, Paris 1949
+
+==External links==
+
+* [http://www.cgiar.org Consultative Group on International Agricultural Research (CGIAR)]
+* [http://www.icar.org.in Indian Council of Agricultural Research]
+* [http://www.iita.org International Institute of Tropical Agriculture]
+* [http://www.ilri.org International Livestock Research Institute]
+* [http://nal.usda.gov/ The National Agricultural Library (NAL)] - The most comprehensive agricultural library in the world.
+
+[[Category:Agronomy]]
+
+[[bg:Аграрни науки]]
+[[da:Agronomi]]
+[[de:Agrarwissenschaft]]
+[[fr:Agronomie]]
+[[id:Agronomi]]
+[[it:Agronomia]]
+[[he:אגרונומיה]]
+[[nl:Landbouwkunde]]
+[[ja:農学]]
+[[pl:Agronomia]]
+[[pt:Agronomia]]
+[[ru:Агрономия]]
+[[fi:Maataloustiede]]
+[[sv:Lantbruksvetenskap]]
+[[th:เกษตรศาสตร์]]
+[[zh:农业科学]]

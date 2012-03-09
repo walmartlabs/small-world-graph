@@ -1,0 +1,27 @@
+<mediawiki>
+  <page>
+    <title>Addition</title>
+    <id>22</id>
+    <revision>
+      <id>1577598</id>
+      <timestamp>2009-06-08T17:15:07Z</timestamp>
+      <contributor>
+        <username>EhJJ</username>
+        <id>49567</id>
+      </contributor>
+      <minor />
+      <comment>Reverted 1 edit by [[Special:Contributions/206.209.103.67|206.209.103.67]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Gesslein|Gesslein]]. ([[WP:TW|TW]])</comment>
+      <text xml:space="preserve">
+===A measurement example===
+Tom wants to know the distance between his house and Sally's house. Bob's house is 300 meters  east of Tom's house. Sally's house is 120 meters east of Bob's house:
+
+Tom's house&lt;------------300 meters--------------&gt;Bob's house&lt;-----120 meters-----&gt;Sally's house
+
+The distance from Tom's house to Sally's house can be found by adding the distances already measured. The distance from Tom's house to Bob's house added to the distance from Bob's house to Sally's house is the same as the distance from Tom's house to Sally's house. That is, three hundred meters plus 120 meters.
+ 300 + 120 = 420
+
+== Addition as increase ==
+      </text>
+    </revision>
+  </page>
+</mediawiki>

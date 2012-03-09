@@ -1,0 +1,24 @@
+
+<mediawiki>
+  <page>
+    <title>Textman</title>
+    <id>43715</id>
+    <revision>
+      <id>244657982</id>
+      <timestamp>2008-10-11T22:25:17Z</timestamp>
+      <contributor>
+        <username>S711</username>
+        <id>4257015</id>
+      </contributor>
+      <minor />
+      <comment>wikif.</comment>
+      <text xml:space="preserve">
+{{ambox
+|type=content
+|image=[[Image:Globe important.svg|50px]]
+|text=Some or all of this {{#switch:{{{1|}}}|article=article|section=section|article or section}} may not represent a '''worldwide view'''.&lt;br&gt;Please [{{SERVER}}{{localurl:{{PAGENAME}}|action=edit}} make the article better] or talk about the issue on the [[:{{NAMESPACE}} talk:{{PAGENAME}}|talk page]].
+}}
+      </text>
+    </revision>
+  </page>
+</mediawiki>

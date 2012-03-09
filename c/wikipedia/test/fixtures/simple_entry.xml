@@ -1,0 +1,27 @@
+<mediawiki>
+  <page>
+    <title>John McCain</title>
+    <id>43715</id>
+    <revision>
+      <id>244657982</id>
+      <timestamp>2008-10-11T22:25:17Z</timestamp>
+      <contributor>
+        <username>S711</username>
+        <id>4257015</id>
+      </contributor>
+      <minor />
+      <comment>wikif.</comment>
+      <text xml:space="preserve">
+        {{ Infobox Simple <!-- This is a B.S. Infobox --> }}
+        This is just a super simple entry with a [[Basic Alias Link|link name]] and some more '''bold text''' behind it.&lt;ref&gt;Roberts, Gary. [http://www.newenglandancestors.org/research/services/56_ancestry_john_mccain.asp &quot;On the Ancestry, Royal Descent, and English and American Notable Kin of Senator John Sidney McCain IV&quot;], New England Historic Genealogical Society ([[2008-04-01]]). Retrieved [[2008-05-19]].&lt;/ref&gt;
+        &lt;ref name="somebody" &gt;Roberts, Gary&lt;/ref&gt;
+        Text In Between Refs
+        &lt;ref name="somebody" /&gt;
+       There is an embedded image link here: [[Image:McCain2008MemorialDay.jpg|thumb|left|Speaking in [[Albuquerque, New Mexico]] on [[Memorial Day]], 2008, wearing his [[purple heart]]]]       Text after Refs
+       Also a [[non aliased link]] here.
+
+       Here is a quoted link [[Earl "The Pearl" Little|little mister pearl]]
+      </text>
+    </revision>
+  </page>
+</mediawiki>

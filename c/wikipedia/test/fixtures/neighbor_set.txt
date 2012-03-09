@@ -1,0 +1,8 @@
+A>Baby
+Baby|C|1
+Baby|D|2
+Baby|E|255
+C|Baby|3
+C|G|4
+G|Baby|200
+Z>C

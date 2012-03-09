@@ -1,0 +1,319 @@
+[[File:JRE-E231-500-for-JRyamanote-line.jpg|300px|thumb|Yamanote Line E231 series EMU]]
+[[File:Yamanote.png|300px|thumb|Route map]]
+The '''Yamanote Line''' (山手線 やまのてせん) is a [[railway line]] of [[East Japan Railway Company]] (JR East) in [[Tokyo]], [[Japan]].
+
+==Station==
+{| class=wikitable
+!style="border-bottom:3px solid #9acd32;" rowspan=2|Line<sup>1</sup>
+!style="border-bottom:3px solid #9acd32;" rowspan=2|Station
+!style="border-bottom:3px solid #9acd32;" rowspan=2|In Japanese
+!style="border-bottom:3px solid #9acd32;" rowspan=2 colspan=2|Distance<sup>2</sup>
+!colspan=2|Transfers
+!style="border-bottom:3px solid #9acd32;" rowspan=2|Location
+|-
+!style="border-bottom:3px solid #9acd32;"|JR East
+!style="border-bottom:3px solid #9acd32;"|Others
+|-
+|rowspan=17|Yamanote<br />Line
+|[[Shinagawa Station|Shinagawa]]
+|品川
+|align="right"|2.2
+|align="right"|0.0
+|
+<span style="color:#FFA500">■</span>[[Tōkaidō Main Line]]<br />
+<span style="color:navy">■</span>[[Yokosuka Line]]<br />
+<span style="color:#00b2e5">■</span>[[Keihin-Tōhoku Line]] (R)<sup>3</sup>
+|[[Central Japan Railway Company|JR Central]]: [[Tōkaidō Shinkansen]]<br />[[Keihin Electric Express Railway|Keikyu]]: [[Keikyu Main Line|Main Line]]
+|[[Minato, Tokyo|Minato]]
+|-
+|[[Osaki Station|Ōsaki]]
+|大崎
+|align="right"|2.0
+|align="right"|2.0
+|
+<span style="color:orange">■</span>[[Shōnan-Shinjuku Line]]<br />
+<span style="color:seagreen">■</span>[[Saikyō Line]]
+|[[Tokyo Waterfront Area Rapid Transit|Rinkai Line]]
+|rowspan=3|[[Shinagawa, Tokyo|Shinagawa]]
+|-
+|[[Gotanda Station|Gotanda]]
+|五反田
+|align="right"|0.9
+|align="right"|2.9
+|
+|[[Tokyu Corporation|Tōkyū]]: [[Tōkyū Ikegami Line|Ikegami Line]]<br />[[Tokyo Metropolitan Bureau of Transportation|Toei]]: <span style="color: lightcoral;">'''○'''</span>[[Toei Asakusa Line|Asakusa Line]] (A-05)
+|-
+|[[Meguro Station|Meguro]]
+|目黒
+|align="right"|1.2
+|align="right"|4.1
+|
+|Tōkyū: [[Tokyu Meguro Line|Meguro Line]]<br />[[Tokyo Metro]]: <span style="color: #339992;">'''○'''</span>[[Tokyo Metro Namboku Line|Namboku Line]] (N-01)<br />Toei: <span style="color: blue;">'''○'''</span>[[Toei Mita Line|Mita Line]] (I-01)
+|-
+|[[Ebisu Station (Tokyo)|Ebisu]]
+|恵比寿
+|align="right"|1.5
+|align="right"|5.6
+|
+<span style="color:orange">■</span>Shōnan-Shinjuku Line<br />
+<span style="color:seagreen">■</span>Saikyō Line
+|Tokyo Metro: <span style="color:#95989f">'''○'''</span>[[Tokyo Metro Hibiya Line|Hibiya Line]] (H-02)
+|rowspan=4|[[Shibuya, Tokyo|Shibuya]]
+|-
+|[[Shibuya Station|Shibuya]]
+|渋谷
+|align="right"|1.6
+|align="right"|7.2
+|
+<span style="color:orange">■</span>Shōnan-Shinjuku Line<br />
+<span style="color:seagreen">■</span>Saikyō Line
+|[[Keio Corporation|Keio]]: [[Keiō Inokashira Line|Inokashira Line]]<br />Tōkyū: [[Tōkyū Den-en-toshi Line|Den-en-toshi Line]], [[Tōkyū Tōyoko Line|Tōyoko Line]]<br />Tokyo Metro: <span style="color: orange">'''○'''</span>[[Tokyo Metro Ginza Line|Ginza Line]] (G-01), <span style="color: darkviolet">'''○'''</span>[[Tokyo Metro Hanzōmon Line|Hanzōmon Line]] (N-01), <span style="color: #ba6832;">'''○'''</span>[[Tokyo Metro Fukutoshin Line|Fukutoshin Line]] (F-16)
+|-
+|[[Harajuku Station|Harajuku]]
+|原宿
+|align="right"|1.2
+|align="right"|8.4
+|
+|Tokyo Metro: <span style="color: green">'''○'''</span>[[Tokyo Metro Chiyoda Line|Chiyoda Line]] (at [[Meiji-Jingūmae Station|Meiji-jingūmae]], C-03)
+|-
+|[[Yoyogi Station|Yoyogi]]
+|代々木
+|align="right"|1.5
+|align="right"|9.9
+|
+<span style="color:yellow">■</span>[[Chūō-Sōbu Line]]
+|Toei: <span style="color: #b51e82;">'''○'''</span>[[Toei Ōedo Line|Ōedo Line]] (E-26)
+|-
+|[[Shinjuku Station|Shinjuku]]
+|新宿
+|align="right"|0.7
+|align="right"|10.6
+|
+<span style="color:blue">■</span>[[Chūō Main Line]]<br />
+<span style="color:#F15A22">■</span>[[Chūō Line (Rapid)]]<br />
+<span style="color:yellow">■</span>Chūō-Sōbu Line<br />
+<span style="color:orange">■</span>Shōnan-Shinjuku Line<br />
+<span style="color:seagreen">■</span>Saikyō Line
+|Keio: [[Keiō Line]], [[Keio New Line]]<br />[[Odakyu Electric Railway|Odakyu]]: [[Odakyū Odawara Line|Odawara Line]]<br />[[Seibu Railway|Seibu]]: [[Seibu Shinjuku Line|Shinjuku Line]] (at [[Seibu-Shinjuku Station|Seibu-Shinjuku]])<br />Tokyo Metro: <span style="color: red">'''○'''</span>[[Tokyo Metro Marunouchi Line|Marunouchi Line]] (M-08)<br />Toei: <span style="color: yellowgreen;">'''○'''</span>[[Toei Shinjuku Line|Shinjuku Line]] (S-01), <span style="color: #b51e82;">'''○'''</span>Ōedo Line (at Shinjuku (E-27) and [[Shinjuku Nishiguchi Station|Shinjuku-Nishiguchi]] (E-01))
+|rowspan=3|[[Shinjuku, Tokyo|Shinjuku]]
+|-
+|[[Shin-Ōkubo Station|Shin-Ōkubo]]
+|新大久保
+|align="right"|1.3
+|align="right"|11.9
+|
+|
+|-
+|[[Takadanobaba Station|Takadanobaba]]
+|高田馬場
+|align="right"|1.4
+|align="right"|13.3
+|
+|Seibu: Shinjuku Line<br />Tokyo Metro: <span style="color:#0080ff">'''○'''</span>[[Tokyo Metro Tōzai Line|Tōzai Line]] (T-03)
+|-
+|[[Mejiro Station|Mejiro]]
+|目白
+|align="right"|0.9
+|align="right"|14.2
+|
+|
+|rowspan=5|[[Toshima, Tokyo|Toshima]]
+|-
+|[[Ikebukuro Station|Ikebukuro]]
+|池袋
+|align="right"|1.2
+|align="right"|15.4
+|
+<span style="color:orange">■</span>Shōnan-Shinjuku Line<br />
+<span style="color:seagreen">■</span>Saikyō Line
+|Seibu: [[Seibu Ikebukuro Line|Ikebukuro Line]]<br />[[Tobu Railway|Tobu]]: [[Tōbu Tōjō Line|Tōjō Line]]<br />Tokyo Metro: <span style="color: red">'''○'''</span>Marunouchi Line (M-25), <span style="color: #e5d100;">'''○'''</span>[[Tokyo Metro Yūrakuchō Line|Yūrakuchō Line]] (Y-09), <span style="color: #ba6832;">'''○'''</span>[[Tokyo Metro Fukutoshin Line|Fukutoshin Line]] (F-09)
+|-
+|[[Ōtsuka Station (Tokyo)|Ōtsuka]]
+|大塚
+|align="right"|1.8
+|align="right"|17.2
+|
+|[[Toden Arakawa Line]] at [[Ōtsuka Ekimae Station]]
+|-
+|[[Sugamo Station|Sugamo]]
+|巣鴨
+|align="right"|1.1
+|align="right"|18.3
+|
+|Toei: <span style="color:blue">'''○'''</span>Mita Line (I-15)
+|-
+|[[Komagome Station|Komagome]]
+|駒込
+|align="right"|0.7
+|align="right"|19.0
+|
+|Tokyo Metro: <span style="color: #339992;">'''○'''</span>Namboku Line (N-14)
+|-
+|rowspan=2|[[Tabata Station (Tokyo)|Tabata]]
+|田端
+|rowspan=2 align="right"|1.6
+|rowspan=2 align="right"|20.6
+|rowspan=2|
+<span style="color:#00b2e5">■</span>Keihin-Tōhoku Line (R)
+|rowspan=2|
+|rowspan=2|[[Kita, Tokyo|Kita]]
+|-
+|rowspan=9|Tōhoku<br />Main<br />Line
+|-
+|[[Nishi-Nippori Station|Nishi-Nippori]]
+|西日暮里
+|align="right"|0.8
+|align="right"|21.4
+|
+<span style="color:#00b2e5">■</span>Keihin-Tōhoku Line
+|Tokyo Metro: <span style="color: green">'''○'''</span>Chiyoda Line (C-16)<br />[[Nippori-Toneri Liner]]
+|rowspan=2|[[Arakawa, Tokyo|Arakawa]]
+|-
+|[[Nippori Station|Nippori]]
+|日暮里
+|align="right"|0.5
+|align="right"|21.9
+|
+<span style="color:green">■</span>[[Jōban Line]]<br />
+<span style="color:#00b2e5">■</span>Keihin-Tōhoku Line
+|[[Keisei Electric Railway|Keisei]]: [[Keisei Main Line|Main Line]]<br />Nippori-Toneri Liner
+|-
+|[[Uguisudani Station|Uguisudani]]
+|鶯谷
+|align="right"|1.1
+|align="right"|23.0
+|
+<span style="color:#00b2e5">■</span>[[Keihin-Tōhoku Line]]
+|
+|rowspan=3|[[Taitō, Tokyo|Taitō]]
+|-
+|[[Ueno Station|Ueno]]
+|上野
+|align="right"|1.1
+|align="right"|24.1
+|
+<span style="color:darkgreen">■</span>[[Shinkansen]] ([[Tōhoku Shinkansen|Tōhoku]], [[Jōetsu Shinkansen|Jōetsu]], [[Nagano Shinkansen|Nagano]], [[Yamagata Shinkansen|Yamagata]], [[Akita Shinkansen|Akita]])<br />
+<span style="color:green">■</span>Jōban Line<br />
+<span style="color:#00b2e5">■</span>Keihin-Tōhoku Line (R)<br />
+<span style="color:orange">■</span>[[Utsunomiya Line]]<br />
+<span style="color:orange">■</span>[[Takasaki Line]]
+|Keisei: Main Line (at [[Keisei Ueno Station|Keisei Ueno]])<br />Tokyo Metro: <span style="color: orange">'''○'''</span>Ginza Line (G-16), <span style="color:#95989f">'''○'''</span>Hibiya Line (H-17)
+|-
+|[[Okachimachi Station|Okachimachi]]
+|御徒町
+|align="right"|0.6
+|align="right"|24.7
+|
+<span style="color:#00b2e5">■</span>Keihin-Tōhoku Line
+|
+|-
+|[[Akihabara Station|Akihabara]]
+|秋葉原
+|align="right"|1.0
+|align="right"|25.7
+|
+<span style="color:yellow">■</span>[[Chūō-Sōbu Line]]<br />
+<span style="color:#00b2e5">■</span>Keihin-Tōhoku Line (R)
+|[[Tsukuba Express]]<br />Tokyo Metro: <span style="color:#95989f">'''○'''</span>Hibiya Line (H-15)
+|rowspan=5|[[Chiyoda, Tokyo|Chiyoda]]
+|-
+|[[Kanda Station (Tokyo)|Kanda]]
+|神田
+|align="right"|0.7
+|align="right"|26.4
+|
+<span style="color:#F15A22">■</span>Chūō Line (Rapid)<br />
+<span style="color:#00b2e5">■</span>Keihin-Tōhoku Line
+|Tokyo Metro: <span style="color: orange">'''○'''</span>Ginza Line (G-13)
+|-
+|rowspan=2|[[Tokyo Station|Tokyo]]
+|東京
+|rowspan=2 align="right"|1.3
+|rowspan=2 align="right"|27.7
+|
+<span style="color:darkgreen">■</span>Shinkansen (Tōhoku, Jōetsu, Nagano, Yamagata, Akita)<br />
+<span style="color:#00b2e5">■</span>Keihin-Tōhoku Line (R)<br />
+<span style="color:#FFA500">■</span>Tōkaidō Main Line<br />
+<span style="color:#F15A22">■</span>Chūō Line (Rapid)<br />
+<span style="color:navy">■</span>Yokosuka Line<br />
+<span style="color:#FF0066">■</span>[[Keiyō Line]]<br />
+<span style="color:navy">■</span>[[Sōbu Line (Rapid)]]<br />
+|rowspan=2|JR Central: Tōkaidō Shinkansen<br />Tokyo Metro: <span style="color: red">'''○'''</span>Marunouchi Line (M-17)
+|-
+|rowspan=6|Tōkaidō<br />Main<br />Line
+|-
+|[[Yūrakuchō Station|Yūrakuchō]]
+|有楽町
+|align="right"|0.8
+|align="right"|28.5
+|
+<span style="color:#00b2e5">■</span>Keihin-Tōhoku Line
+|Tokyo Metro: <span style="color: #e5d100;">'''○'''</span>Yūrakuchō Line (Y-18), <span style="color:#95989f">'''○'''</span>[[Tokyo Metro Hibiya Line|Hibiya Line]] (at [[Hibiya Station|Hibiya]], H-07), <span style="color: green">'''○'''</span>Chiyoda Line (at Hibiya, C-09)<br />Toei: <span style="color:blue">'''○'''</span>Mita Line (at Hibiya, C-09)
+|-
+|[[Shimbashi Station|Shimbashi]]
+|新橋
+|align="right"|1.1
+|align="right"|29.6
+|
+<span style="color:#FFA500">■</span>Tōkaidō Main Line<br />
+<span style="color:navy">■</span>Yokosuka Line<br />
+<span style="color:#00b2e5">■</span>Keihin-Tōhoku Line
+|[[Tokyo Metro]]: <span style="color: orange">'''○'''</span>Ginza Line (G-08)<br />Toei: <span style="color: lightcoral;">'''○'''</span>Asakusa Line (A-10)<br />[[Yurikamome]]
+|rowspan=4|[[Minato, Tokyo|Minato]]
+|-
+|[[Hamamatsuchō Station|Hamamatsuchō]]
+|浜松町
+|align="right"|1.2
+|align="right"|30.8
+|
+<span style="color:#00b2e5">■</span>Keihin-Tōhoku Line (R)
+|[[Tokyo Monorail]]<br />Toei: <span style="color: lightcoral;">'''○'''</span>Asakusa Line (at [[Daimon Station (Tokyo)|Daimon]], A-09), <span style="color: #b51e82;">'''○'''</span>Ōedo Line (at Daimon, E-20)
+|-
+|[[Tamachi Station (Tokyo)|Tamachi]]
+|田町
+|align="right"|1.5
+|align="right"|32.3
+|
+<span style="color:#00b2e5">■</span>Keihin-Tōhoku Line (R)
+|
+|-
+|Shinagawa
+|品川
+|align="right"|2.2
+|align="right"|34.5
+|colspan=2|''See above.''
+|}
+'''Notes'''
+:1: Official line names
+:2: Left column is distance from previous station (km) and right column is distance from Shinagawa Station (km).
+:3: "(R)" indicates rapid train stops of the Keihin-Tōhoku Line.
+
+
+
+==See also==
+*[[Tokyo]]
+
+[[Category:Japanese railways]]
+
+{{Transport-stub}}
+
+[[ar:خط يامانوته]]
+[[ca:Yamanote]]
+[[cs:Linie Jamanote]]
+[[de:Yamanote-Linie]]
+[[en:Yamanote Line]]
+[[es:Línea Yamanote]]
+[[eo:Yamanote-Linio]]
+[[fr:Ligne Yamanote]]
+[[ko:야마노테 선]]
+[[id:Jalur Yamanote]]
+[[it:Linea Yamanote]]
+[[nl:Yamanote-lijn]]
+[[ja:山手線]]
+[[pl:Linia Yamanote]]
+[[ru:Линия Яманотэ]]
+[[su:Jalur Yamanote]]
+[[fi:Yamanote-linja]]
+[[sv:Yamanotelinjen]]
+[[zh-yue:山手線]]
+[[zh:山手線]]

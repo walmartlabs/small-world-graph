@@ -1,0 +1,64 @@
+# g_args = "-g -Wall -I/usr/local/include/boost-1_35 -I/usr/local/include"
+g_args = "-O3 -Wall -Wunused-function -I/usr/local/include/boost-1_35 -I/usr/local/include `mysql_config --cflags`"
+g_libs = "-L/usr/local/lib -levent `mysql_config --libs` -lsphinxclient -lyaml"
+g_libs_mysql_sphinx = "-L/usr/local/lib -levent `mysql_config --libs` -lsphinxclient"
+task :default => ['test_relationship_holder','test_relationship_glue','benchmark_relationship_holder','benchmark_relationship_glue','relationship_server','relationship_indexer','benchmark_indexer','relationship_outputter','distance_between']
+
+file 'distance_between' => ['distance_between.cpp', 'relationship_holder.o'] do
+  sh "g++ #{g_args} -o distance_between distance_between.cpp relationship_holder.o benchmark.o #{g_libs}"
+end
+
+file 'relationship_outputter' => ['relationship_outputter.cpp', 'relationship_holder.o'] do
+  sh "g++ #{g_args} -o relationship_outputter relationship_outputter.cpp relationship_holder.o benchmark.o #{g_libs}"
+end
+
+file 'benchmark_indexer' => ["benchmark_indexer.cpp","relationship_holder.o","benchmark.o"] do
+  sh "g++ #{g_args} -o benchmark_indexer benchmark_indexer.cpp relationship_holder.o benchmark.o #{g_libs}"
+end
+
+file 'relationship_indexer' => ["relationship_indexer.cpp","relationship_holder.o","benchmark.o"] do
+  sh "g++ #{g_args} -o relationship_indexer relationship_indexer.cpp relationship_holder.o benchmark.o #{g_libs}"
+end
+
+file 'relationship_server' => ["relationship_server.cpp","relationship_holder.o","relationship_glue.o","benchmark.o"] do
+  sh "g++ #{g_args} -o relationship_server relationship_server.cpp relationship_holder.o relationship_glue.o benchmark.o #{g_libs}"
+end
+
+file 'benchmark_relationship_glue' => ["relationship_glue.o","benchmark_relationship_glue.cpp","benchmark.o"] do
+  sh "g++ #{g_args} -o benchmark_relationship_glue  benchmark_relationship_glue.cpp relationship_glue.o relationship_holder.o benchmark.o #{g_libs}"
+end
+
+file 'test_relationship_glue' => ["relationship_glue.o","test_relationship_glue.cpp"] do
+  sh "g++ #{g_args} -o test_relationship_glue  test_relationship_glue.cpp relationship_glue.o relationship_holder.o benchmark.o #{g_libs}"
+end
+
+file 'relationship_glue.o' => ["relationship_glue.h","relationship_glue.cpp","pack.h"] do
+  sh "g++ #{g_args} -c -o relationship_glue.o relationship_glue.cpp"
+end
+
+file 'benchmark_relationship_holder' => ["relationship_holder.o","benchmark_relationship_holder.cpp","benchmark.o"] do
+  sh "g++ #{g_args} -o benchmark_relationship_holder  benchmark_relationship_holder.cpp relationship_holder.o benchmark.o #{g_libs}"
+end
+
+file "test_relationship_holder" => ["relationship_holder.o","test_relationship_holder.cpp","benchmark.o"] do
+  sh "g++ #{g_args} -o test_relationship_holder test_relationship_holder.cpp relationship_holder.o benchmark.o #{g_libs}"
+end
+
+file 'relationship_holder.o' => ["relationship_holder.h","relationship_holder.cpp","sixty_four_bit_hash.h","benchmark.o"] do
+  sh "g++ #{g_args} -c -o relationship_holder.o relationship_holder.cpp"
+end
+
+file 'benchmark.o' => ["benchmark.h","benchmark.cpp"] do
+  sh "g++ #{g_args} -c -o benchmark.o benchmark.cpp"
+end
+
+task :clean do
+  sh "rm -f *.o"
+  sh "rm -f relationship_server"
+  sh "rm -f relationship_indexer"
+  sh "rm -f test_relationship_holder"
+  sh "rm -f test_relationship_glue"
+  sh "rm -f benchmark_relationship_holder"
+  sh "rm -f benchmark_relationship_glue"
+  sh "rm -f benchmark_indexer"
+end

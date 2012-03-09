@@ -1,0 +1,38 @@
+{{Infobox_Film |
+  name                = Actrius|
+| image               = 
+| director            = [[Ventura Pons]] |
+  writer              = [[Ventura Pons]]&lt;br/&gt; [[Josep Maria Benet i Jornet]] |
+  starring            = [[Núria Espert]]&lt;br/&gt; [[Rosa Maria Sardà]]&lt;br/&gt; [[Anna Lizaran]]&lt;br/&gt;[[Mercè Pons]] |
+  producer            = [[Ventura Pons]] |
+  released        = 1996 |
+  runtime             = 90 minutes |
+  language            = [[Catalan language|Catalan]] |
+  budget              =  |
+  music               = [[Carles Cases]]  |
+  imdb_id             = 0115462 |
+  country             = [[Spain]] |
+  production_company  = [[Els Films de la Rambla, S.A.]] 
+|}}
+
+'''''Actrius''''' (''Actresses'') is a [[1996 in film|1996 film]] directed by [[Ventura Pons]]. In the film, there are no male actors and the four leading actresses dubbed themselves in the Castilian version.
+
+==Synopsis==
+In order to prepare the role of an important old actress, a theatre student interviews three actresses who were her pupils: an international diva (Glòria Marc, played by [[Núria Espert]]), a television star (Assumpta Roca, played by [[Rosa Maria Sardà]]) and a dubbing director (Maria Caminal, played by [[Anna Lizaran]]).
+
+==External links==
+*{{imdb title|id=0115462|title=Actrius}}
+*[http://www.venturapons.com/filmografia/actrices.html Ficha técnica]
+
+{{1990s-drama-film-stub}}
+{{Spain-film-stub}}
+
+[[Category:1996 films]]
+[[Category:Drama films]]
+[[Category:Spanish films]]
+[[Category:Catalan-language films]]
+[[Category:Barcelona in fiction]]
+
+[[ca:Actrius]]
+[[es:Actrices]]
+[[fr:Actrices (film, 1996)]]

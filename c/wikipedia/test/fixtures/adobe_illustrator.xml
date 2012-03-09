@@ -1,0 +1,115 @@
+<mediawiki>
+  <page>
+    <title>Adobe Illustrator</title>
+    <id>17</id>
+    <revision>
+      <id>1360326</id>
+      <timestamp>2009-02-13T20:27:22Z</timestamp>
+      <contributor>
+        <username>Darkicebot</username>
+        <id>13898</id>
+      </contributor>
+      <minor />
+      <comment>robot  Removing: [[zh-classical:Adobe Illustrator]]</comment>
+      <text xml:space="preserve">{{Infobox Software 
+| name = Adobe Illustrator
+| developer = [[Adobe Systems]] 
+| latest_release_version = CS3 (13.0.3) 
+| latest_release_date = [[February 27]] [[2008]] 
+| latest_preview_version =  
+| latest_preview_date = 
+| programming language = [[C++]] 
+| operating_system = [[Mac OS X]], [[Microsoft Windows]]
+| genre = [[Vector graphics editor]] 
+| license = [[Proprietary software|Proprietary]] 
+| website = [http://www.adobe.com/products/illustrator/ Adobe Illustrator Homepage]
+}}
+'''''Adobe Illustrator''''' is a [[computer program]] for making [[graphic design]] and [[illustration]]s. It is made by [[Adobe Systems]]. Pictures created in ''Adobe Illustrator'' can be made bigger or smaller, and look exactly the same at any size. It works well with the rest of the products with the Adobe name.
+
+==History==
+
+It was first released in [[1986]] for the [[Apple Macintosh]]. The latest version is '''''Adobe Illustrator CS2''''', part of [[Creative Suite]] 2.
+
+==Release history==
+
+{| class=&quot;prettytable&quot;
+| '''Version''' || '''Platforms''' || '''Release date''' || '''[[Code name]]'''
+|-
+| 1.0 || [[Mac OS]] || January 1987 ||  [[Pablo Picasso|Picasso]]
+|-
+| 1.1 || Mac OS || [[March 19]] [[1987]] || [[Inca]]
+|-
+| 88 || Mac OS || March 1988 ||
+|-
+| 2.0 || Windows || January 1989 || Pinnacle
+|-
+| 3 || Mac OS, [[NeXT]], other [[Unix|Unices]] || October 1990 || Desert [[Moose]]
+|-
+| 3.5 || [[Silicon Graphics]] || 1991 ||
+|-
+| 4 || [[Microsoft Windows|Windows]] || May 1992 || [[Kangaroo]]se
+|-
+| 3.5 || [[Solaris (operating system)|Solaris]] || 1993 ||
+|-
+| 5 || Mac OS || June 1993 || [[Saturn]]
+|-
+| 5.5 || Mac OS, Solaris &lt;ref&gt;[http://www.sunmanagers.org/archives/1999/0973.html 1999: SUMMARY: Solaris-Adobe Products (a little long)&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; || June 1994 || [[Janus]]
+|-
+| 4.1 || Windows || 1995 ||
+|-
+| 6 || Mac OS || February 1996 || [[Popeye]]
+|-
+| 7 || Mac/Windows || May 1997 || [[Simba]]
+|-
+| 8 || Mac/Windows || September 1998 || [[Elvis Presley|Elvis]]
+|-
+| 9 || Mac/Windows || June 2000 || Matisse
+|-
+| 10 || Mac/Windows || November 2001 || Paloma
+|-
+| CS (11) || Mac/Windows || October 2003 || [[Pangaea]]/Sprinkles
+|-
+| CS2 (12, 12.0.1) || Mac/Windows || [[April 27]], [[2005]] || [[Zodiac]]
+|-
+| CS3 (13) || Mac/Windows || April 2007 || [[Jason Voorhees|Jason]]
+|}
+
+==References==
+{{reflist}}
+
+{{stub}}
+
+[[Category:Graphics software]]
+[[Category:Vector graphics editors]]
+
+[[ar:أدوبي إليستريتور]]
+[[ca:Adobe Illustrator]]
+[[cs:Adobe Illustrator]]
+[[da:Adobe Illustrator]]
+[[de:Adobe Illustrator]]
+[[et:Adobe Illustrator]]
+[[en:Adobe Illustrator]]
+[[es:Adobe Illustrator]]
+[[fa:ادوبی ایلاستریتر]]
+[[fr:Adobe Illustrator]]
+[[ko:어도비 일러스트레이터]]
+[[hr:Adobe Illustrator]]
+[[it:Adobe Illustrator]]
+[[he:אדובי אילוסטרייטור]]
+[[lb:Adobe Illustrator]]
+[[nl:Adobe Illustrator]]
+[[ja:Adobe Illustrator]]
+[[pl:Adobe Illustrator]]
+[[pt:Adobe Illustrator]]
+[[ro:Adobe Illustrator]]
+[[ru:Adobe Illustrator]]
+[[sl:Adobe Illustrator]]
+[[fi:Adobe Illustrator]]
+[[sv:Adobe Illustrator]]
+[[th:อะโดบี อิลลัสเตรเตอร์]]
+[[tr:Adobe Illustrator]]
+[[uk:Adobe Illustrator]]
+[[zh:Adobe Illustrator]]</text>
+    </revision>
+  </page>
+</mediawiki>

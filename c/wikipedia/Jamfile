@@ -1,0 +1,114 @@
+project wikipedia
+  : requirements <library>/site-config//expat <library>/site-config//regex <library>/hash_fns <library>/string_utils <library>/benchmark <library>/site-config//event <library>/site-config//thrift <library>/site-config//hunspell <library>/site-config//pillowtalk <library>/site-config//yajl
+  : usage-requirements <include>. <include>./thrift
+  ;
+
+make wiki_scanner.cpp : wiki_scanner.rl : @ragel ;
+make wiki_infobox_parser.c : wiki_infobox_parser.rl : @ragel ;
+make wiki_title_validator.cpp : wiki_title_validator.rl : @ragel ;
+make wiki_comment_scanner.cpp : wiki_comment_scanner.rl : @ragel ;
+make wiki_sequential_scanner.cpp : wiki_sequential_scanner.rl : @ragel ;
+actions ragel
+{
+  ragel -o $(<) $(>)
+}
+
+obj wikipedia_sequential_parser : wikipedia_sequential_parser.cpp ; 
+obj wiki_sequential_scanner : wiki_sequential_scanner.cpp ; 
+obj sequential_tree_string_outputter : sequential_tree_string_outputter.cpp ; 
+obj sequential_tree_json_outputter : sequential_tree_json_outputter.cpp ; 
+obj wikipedia_tuple_map_impl : wikipedia_tuple_map_impl.cpp ;
+obj wiki_infobox_parser : wiki_infobox_parser.c : <include>./ ;
+obj wiki_scanner : wiki_scanner.cpp : <include>./ ;
+obj md5 : md5.c ;
+obj wikipedia_xml_parser : wikipedia_xml_parser.c ;
+obj wikipedia_page_impl : wikipedia_page_impl.cpp ;
+obj wikipedia_image_impl : wikipedia_image_impl.cpp ;
+obj wikipedia_graph : wikipedia_graph.cpp ;
+obj wikipedia_neighbor_set_impl : wikipedia_neighbor_set_impl.cpp ;
+obj wiki_parser : wiki_parser.cpp ;
+obj wiki_comment_scanner : wiki_comment_scanner.cpp ;
+obj wiki_preprocessor : wiki_preprocessor.cpp ;
+obj wiki_title_validator : wiki_title_validator.cpp : <include>./ ;
+obj radixheap : radixheap.cpp ;
+#obj dbpedia_ontology : dbpedia_ontology.cpp ;
+
+# Thrift 
+obj wiki_distance_calculator : thrift/WikiDistanceCalculator.cpp ;
+obj wiki_distance_calculator_constants : thrift/wiki_distance_calculator_constants.cpp ;
+obj wiki_distance_calculator_types : thrift/wiki_distance_calculator_types.cpp ;
+obj image_download_queue : thrift/ImageDownloadQueue.cpp ;
+obj image_download_queue_constants : thrift/image_download_queue_constants.cpp ;
+obj image_download_queue_types : thrift/image_download_queue_types.cpp ;
+obj page_parse_queue : thrift/PageParseQueue.cpp ;
+obj page_parse_queue_constants : thrift/page_parse_queue_constants.cpp ;
+obj page_parse_queue_types : thrift/page_parse_queue_types.cpp ;
+
+# Executables
+exe wikipedia_indexer             : wikipedia_indexer.cpp wikipedia_xml_parser wikipedia_page_impl wiki_scanner wiki_infobox_parser wikipedia_image_impl wiki_parser md5 wiki_title_validator /site-config//tokyocabinet ;
+exe wikipedia_page_console : wikipedia_page_console.cpp wikipedia_xml_parser wikipedia_page_impl wiki_scanner wiki_infobox_parser wikipedia_image_impl wiki_parser md5 wiki_title_validator /site-config//tokyocabinet ;
+exe wikipedia_page_metrics : wikipedia_page_metrics.cpp wikipedia_xml_parser wikipedia_page_impl wiki_scanner wiki_infobox_parser wikipedia_image_impl wiki_parser md5 wiki_title_validator /site-config//tokyocabinet ;
+exe wikipedia_subgraph_generator : wikipedia_subgraph_generator.cpp wikipedia_xml_parser wikipedia_page_impl wiki_scanner wiki_infobox_parser wikipedia_image_impl wiki_parser md5 wiki_title_validator /site-config//tokyocabinet ;
+exe wikipedia_console : wikipedia_console.cpp wikipedia_graph wikipedia_neighbor_set_impl ;
+exe wikipedia_snippet_console : wikipedia_snippet_console.cpp wikipedia_tuple_map_impl ;
+exe wikipedia_relationship_reader : wikipedia_relationship_reader.cpp ;
+exe wikipedia_dc_server           : WikiDistanceCalculator_server.cpp wiki_distance_calculator_types wiki_distance_calculator wiki_distance_calculator_constants wikipedia_neighbor_set_impl : <include>./thrift ;
+#exe image_resizer_worker : image_resizer_worker.cpp /svg_helper /site-config//filesystem /gd_helper /s3_helper image_download_queue_constants image_download_queue_types image_download_queue : <include>./thrift ;
+exe image_resizer_producer : image_resizer_producer.cpp /s3_helper image_download_queue_constants image_download_queue_types image_download_queue : <include>./thrift ;
+exe tuple_image_validator : tuple_image_validator.cpp /s3_helper /tuple_image_mapper ;
+exe article_xml_converter : article_xml_converter.cpp wiki_scanner ;
+exe image_replacer : image_replacer.cpp /s3_helper ;
+exe wikipedia_index_validator : wikipedia_index_validator.cpp wikipedia_neighbor_set_impl ;
+exe wikipedia_to_files : wikipedia_to_files.cpp wikipedia_xml_parser wiki_parser wiki_scanner wiki_infobox_parser wiki_title_validator /s3_helper ;
+exe page_parse_queue_server : page_parse_queue_server.cpp page_parse_queue_constants page_parse_queue_types page_parse_queue /thread_safe_queue ;
+exe page_parse_dequeuer : page_parse_dequeuer.cpp /s3_helper page_parse_queue page_parse_queue_types page_parse_queue_constants wikipedia_xml_parser wiki_parser wiki_scanner wiki_infobox_parser wiki_title_validator : <include>./thrift ;
+exe page_parse_enqueuer : page_parse_enqueuer.cpp /s3_helper page_parse_queue page_parse_queue_types page_parse_queue_constants wikipedia_xml_parser wiki_parser wiki_scanner wiki_infobox_parser wiki_title_validator : <include>./thrift ;
+exe concept_frequency_counter : concept_frequency_counter.cpp page_parse_queue page_parse_queue_types page_parse_queue_constants wikipedia_xml_parser wiki_parser wiki_scanner wiki_infobox_parser wiki_title_validator wikipedia_tuple_map_impl : <include>./thrift ;
+exe tiny_graph_generator : tiny_graph_generator.cpp ;
+exe tc_parsed_importer : tc_parsed_importer.cpp wiki_parser wikipedia_xml_parser wiki_scanner wiki_title_validator wiki_infobox_parser /site-config//tokyocabinet ;
+exe xml_to_hadoop_inputs : xml_to_hadoop_inputs.cpp wiki_parser wikipedia_xml_parser wiki_scanner wiki_title_validator wiki_infobox_parser /site-config//tokyocabinet ;
+exe wikipedia_sequential_parser_console : wikipedia_sequential_parser_console.cpp wiki_sequential_scanner wikipedia_xml_parser wikipedia_sequential_parser wiki_preprocessor wiki_comment_scanner sequential_tree_string_outputter sequential_tree_json_outputter /site-config//tokyocabinet ;
+exe wikipedia_to_tokyocabinet : wikipedia_to_tokyocabinet.cpp wikipedia_xml_parser /site-config//tokyocabinet ;
+
+# Shared Libraries
+lib wikipedia_dc_client : wiki_distance_calculator_types wiki_distance_calculator wiki_distance_calculator_constants ;
+lib wikipedia_tuple_map : wikipedia_tuple_map_impl ;
+lib wikipedia_spell_checker : wikipedia_spell_checker.cpp ;
+lib wikipedia_topic_suggester : wikipedia_topic_suggester.cpp ;
+
+# Install
+explicit install install-bin install-lib ;
+alias install : install-bin install-lib ;
+#install install-bin : image_resizer_worker image_resizer_producer image_download_queue_server : <install-dependencies>on <install-type>EXE <location>/usr/local/bin ;
+install install-bin :  wiki_path_finder_server : <install-dependencies>on <install-type>EXE ;
+#install install-lib : image_resizer_worker image_resizer_producer image_download_queue_server : <install-dependencies>on <install-type>LIB <location>/usr/local/lib ;
+install install-lib :  wiki_path_finder_server : <install-dependencies>on <install-type>LIB ;
+
+# Unit Tests
+unit-test test_wikipedia_image : test/test_wikipedia_image.cpp wikipedia_image_impl md5 : <include>./ ;
+unit-test test_wikipedia_page : test/test_wikipedia_page.cpp wikipedia_xml_parser wikipedia_page_impl wiki_scanner wiki_infobox_parser wikipedia_image_impl md5 wiki_parser wiki_title_validator /site-config//tokyocabinet : <include>./ ;
+unit-test test_wikipedia_graph : test/test_wikipedia_graph.cpp wikipedia_graph : <include>./ ;
+unit-test test_wikipedia_neighbor_set : test/test_wikipedia_neighbor_set.cpp wikipedia_neighbor_set_impl : <include>./ ;
+unit-test test_wiki_scanner : test/test_wiki_scanner.cpp wiki_scanner : <include>./ ;
+unit-test test_wiki_infobox_parser : test/test_wiki_infobox_parser.cpp wiki_infobox_parser : <include>./ ;
+unit-test test_wiki_parser : test/test_wiki_parser.cpp wiki_parser wiki_scanner wiki_infobox_parser wikipedia_xml_parser : <include>./ ;
+unit-test test_wikipedia_tuple_map : test/test_wikipedia_tuple_map.cpp wikipedia_tuple_map : <include>./ ;
+unit-test test_wiki_title_validator : test/test_wiki_title_validator.cpp wiki_title_validator : <include>./ ;
+unit-test test_wikipedia_sequential_parser : test/test_wikipedia_sequential_parser.cpp wikipedia_sequential_parser wikipedia_xml_parser wiki_sequential_scanner wiki_preprocessor wiki_comment_scanner : <include>./ ;
+unit-test test_wiki_comment_scanner : test/test_wiki_comment_scanner.cpp wiki_comment_scanner wikipedia_xml_parser : <include>./ ;
+unit-test test_wiki_preprocessor : test/test_wiki_preprocessor.cpp wiki_comment_scanner wiki_preprocessor wikipedia_xml_parser : <include>./ ;
+unit-test test_wiki_sequential_scanner.cpp : test/test_wiki_sequential_scanner.cpp wiki_sequential_scanner wiki_preprocessor wikipedia_xml_parser wiki_comment_scanner : <include>./ ;
+
+alias test : test_wikipedia_image test_wikipedia_page test_wikipedia_graph test_wikipedia_neighbor_set test_wiki_scanner test_wiki_infobox_parser test_wiki_parser test_wiki_title_validator ;
+#explicit test test_wikipedia_image test_wikipedia_page test_wikipedia_graph test_wikipedia_neighbor_set test_wiki_scanner test_wiki_infobox_parser test_wiki_parser test_wiki_title_validator ;
+
+# Benchmarks
+exe benchmark_wiki_distance_client : benchmark/benchmark_wiki_distance_client.cpp wiki_distance_calculator_types wiki_distance_calculator wiki_distance_calculator_constants : <include>./ <include>./thrift ;
+exe benchmark_wikipedia_neighbor_set.cpp : benchmark/benchmark_wikipedia_neighbor_set.cpp wikipedia_neighbor_set_impl : <include>./ ;
+exe benchmark_wikipedia_tuple_map : benchmark/benchmark_wikipedia_tuple_map.cpp wikipedia_tuple_map_impl : <include>./ ;
+exe benchmark_wikipedia_graph : benchmark/benchmark_wikipedia_graph.cpp wikipedia_graph : <include>./ ;
+exe benchmark_spell_checker : benchmark/benchmark_spell_checker.cpp wikipedia_spell_checker : <include>./ ;
+exe benchmark_topic_suggester : benchmark/benchmark_topic_suggester.cpp wikipedia_topic_suggester : <include>./ ;
+#exe benchmark_dbpedia_ontology : benchmark/benchmark_dbpedia_ontology.cpp dbpedia_ontology /site-config//raptor /site-config//raptor_curl ;
+
+#explicit test_wikipedia_image ;

@@ -1,0 +1,15 @@
+project graph 
+  : requirements <library>/hash_fns <library>/benchmark <library>/site-config//pillowtalk <library>/site-config//tokyocabinet <library>/site-config//chibi
+  : usage-requirements <include>.
+  ;
+
+
+obj sparse_graph : sparse_graph.cpp ;
+
+# Executables
+exe sparse_graph_console : sparse_graph_console.cpp sparse_graph ;
+
+lib sparse_graph_controller : sparse_graph_controller.cpp sparse_graph ; 
+
+# Benchmarks
+#exe benchmark_sparse_graph : benchmark/benchmark_sparse_graph.cpp sparse_graph radixheap : <include>./ ;

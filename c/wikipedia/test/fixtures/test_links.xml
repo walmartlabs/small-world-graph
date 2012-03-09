@@ -1,0 +1,23 @@
+<mediawiki>
+  <page>
+    <title>Textman</title>
+    <id>43715</id>
+    <revision>
+      <id>244657982</id>
+      <timestamp>2008-10-11T22:25:17Z</timestamp>
+      <contributor>
+        <username>S711</username>
+        <id>4257015</id>
+      </contributor>
+      <minor />
+      <comment>wikif.</comment>
+      <text xml:space="preserve">
+<!-- A set of interesting links -->
+[http://www.yahoo.com Link to Yahoo]
+[ftp://ftp.com FTP Link]
+[{{SERVER}}{{localurl:{{PAGENAME}}|action=edit}} make the article better]
+[http://www.buy.com/retail/proreviews/product.asp?sku=60448845&amp;loc=109&amp;PageFormat=[[7 April]] [[2001]], p. 84]
+      </text>
+    </revision>
+  </page>
+</mediawiki>

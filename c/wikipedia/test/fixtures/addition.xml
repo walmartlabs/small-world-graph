@@ -1,0 +1,116 @@
+<mediawiki>
+  <page>
+    <title>Addition</title>
+    <id>22</id>
+    <revision>
+      <id>1577598</id>
+      <timestamp>2009-06-08T17:15:07Z</timestamp>
+      <contributor>
+        <username>EhJJ</username>
+        <id>49567</id>
+      </contributor>
+      <minor />
+      <comment>Reverted 1 edit by [[Special:Contributions/206.209.103.67|206.209.103.67]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Gesslein|Gesslein]]. ([[WP:TW|TW]])</comment>
+      <text xml:space="preserve">{{redirect|Add|other articles with the same name|ADD}}
+
+'''Addition''' is the [[mathematics|mathematical]] way of putting things together.
+
+== Arithmetic ==
+
+In [[arithmetic]], addition is finding the total of two or more [[number]]s. The sign for addition is &quot;+&quot;. The name for the sign &quot;+&quot; is &quot;plus&quot;.  
+
+=== Counting examples ===
+For example, there are [[wikt:object|objects]] in two [[group]]s. The objects are small circles: &quot;o&quot;. One group has five of these objects. The other group has 3 of these objects. To find the total number of objects in both groups, the objects can be counted. Another way to find the number of objects in both groups is to add the numbers in each group.  
+
+====Adding====
+Another method is to add the numbers of objects in group A and group B, since they are already counted. In symbols:
+
+ 5 + 3 
+
+There are [[rule]]s for adding numbers that people [[learn]]. There are also rules for adding numbers that are built into machines. The rule says that:
+
+ 5 + 3 = 8
+
+In another counting example, Sally and Bill have 2 children. Sally and Bill get 3 more children. Sally and Bill have added three children to their two children and now have five children.
+
+===A measurement example===
+Tom wants to know the distance between his house and Sally's house. Bob's house is 300 meters  east of Tom's house. Sally's house is 120 meters east of Bob's house:
+
+Tom's house&lt;------------300 meters--------------&gt;Bob's house&lt;-----120 meters-----&gt;Sally's house
+
+The distance from Tom's house to Sally's house can be found by adding the distances already measured. The distance from Tom's house to Bob's house added to the distance from Bob's house to Sally's house is the same as the distance from Tom's house to Sally's house. That is, three hundred meters plus 120 meters.
+ 300 + 120 = 420
+
+== Addition as increase ==
+Addition can also mean to make bigger.
+
+=== Example of addition as increase ===
+* For example, Tom has a house. Tom puts a new room on the house. This new room is called an addition.
+
+* John is making [[food]]. To make the food [[taste]] better, John puts [[salt]] in the food. That is, John adds salt to the food. The [[salt]] is an addition to the food.
+
+== Less simple ==
+''Addition'' is the [[arithmetic]] [[operation]] for finding the [[total]], or sum, of two or more [[number]]s. If you are adding three or more terms together, mathematicians call those numbers ''summands;'' if you are only adding two numbers they are called the ''augend'' and the ''addend.'' Augend + addend = sum; summand + summand + summand = sum. The addition expression 3 + 8 = 11 is spoken as &quot;three plus eight equals eleven.&quot;
+
+Adding two numbers together is a [[dyadic]] operation.  Addition of summands is [[calculated]] by putting dyadic additions together.
+
+&lt;math&gt;40+20+3=(40+20)+3=60+3=63&lt;/math&gt;
+
+== Other websites ==
+* [http://www.aaamath.com/add.html AAA Math web page on teaching addition]
+* [http://www.aplusmath.com/Flashcards/addition.html addition flashcard website]
+* [http://www.dositey.com/addsub/addition.htm Addition facts and games]
+
+[[Category:Basic English 850 words]]
+[[Category:Arithmetics]]
+
+[[ar:جمع]]
+[[be-x-old:Складаньне]]
+[[bs:Sabiranje]]
+[[ca:Suma]]
+[[cs:Sčítání]]
+[[da:Addition]]
+[[de:Addition]]
+[[et:Liitmine]]
+[[el:Άθροιση]]
+[[en:Addition]]
+[[es:Suma]]
+[[fa:جمع (ریاضی)]]
+[[fr:Addition]]
+[[gd:Cur-ris]]
+[[ko:덧셈]]
+[[hr:Zbrajanje]]
+[[io:Adiciono]]
+[[id:Penjumlahan]]
+[[is:Samlagning]]
+[[it:Addizione]]
+[[he:סכום]]
+[[la:Additio]]
+[[lt:Sudėtis]]
+[[jbo:sumji]]
+[[hu:Összegzés]]
+[[ml:സങ്കലനം]]
+[[nl:Optellen]]
+[[ja:加法]]
+[[no:Addisjon]]
+[[nn:Addisjon]]
+[[nov:Aditione]]
+[[pl:Dodawanie]]
+[[pt:Adição]]
+[[qu:Yapay]]
+[[ru:Сложение (математика)]]
+[[sk:Sčítanie]]
+[[sl:Vsota]]
+[[sr:Сабирање]]
+[[fi:Yhteenlasku]]
+[[sv:Addition]]
+[[tl:Pagdaragdag]]
+[[ta:கூட்டல் (கணிதம்)]]
+[[th:การบวก]]
+[[tr:Toplama]]
+[[uk:Сума]]
+[[yi:צוגעבן]]
+[[zh:加法]]</text>
+    </revision>
+  </page>
+</mediawiki>

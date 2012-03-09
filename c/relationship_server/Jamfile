@@ -1,0 +1,24 @@
+local mysql_includes = [ SHELL "mysql_config --cflags" ] ;
+local mysql_libs = [ SHELL "mysql_config --libs_r" ] ;
+
+project rs
+  : requirements <include>/usr/local/include/thrift/ <include>/usr/local/include/boost-1_35/ <library>/benchmark//benchmark <library>/site-config//sphinx <library>/cruxlux_config//cruxlux_config <library>/site-config//event <linkflags>$(mysql_libs) <library>/site-config//thrift <library>/hash_fns
+  : usage-requirements <include>/usr/local/include/thrift/ <include>/usr/local/include/boost-1_35/ <include>. <include>./thrift 
+  ;
+
+
+# Thrift
+obj site_relationships : thrift/SiteRelationships.cpp ;
+obj site_relationships_constants : thrift/site_relationships_constants.cpp ;
+obj site_relationships_types : thrift/site_relationships_types.cpp ;
+
+# shared libraries
+lib site_relationships_client : site_relationships site_relationships_constants site_relationships_types ;
+
+obj relationship_holder : relationship_holder.cpp /cruxlux_config /benchmark ;
+unit-test test_relationship_holder : test_relationship_holder.cpp relationship_holder ;
+
+exe distance_between : distance_between.cpp relationship_holder ;
+exe relationship_indexer : relationship_indexer.cpp relationship_holder ;
+exe relationship_console : relationship_console.cpp relationship_holder /site_mapper//site_holder ;
+exe site_relationships_server : site_relationships_server.cpp site_relationships site_relationships_types site_relationships_constants relationship_holder : <include>thrift/ ;

@@ -1,0 +1,36 @@
+<mediawiki>
+  <page>
+    <title>Textman</title>
+    <id>43715</id>
+    <revision>
+      <id>244657982</id>
+      <timestamp>2008-10-11T22:25:17Z</timestamp>
+      <contributor>
+        <username>S711</username>
+        <id>4257015</id>
+      </contributor>
+      <minor />
+      <comment>wikif.</comment>
+      <text xml:space="preserve">
+&lt;ref name=&quot;whitehouse.gov bio&quot;&gt;{{cite web |title=Biography of William J. Clinton |publisher=[[The White House]] |url=http://www.whitehouse.gov/history/presidents/bc42.html |accessdate=2008-10-29}}&lt;/ref&gt;
+&lt;ref name=&quot;test&quot;/&gt;
+This is some &lt;nowiki&gt;[[Link to Something|this is the alias text]] {{disambig}}&lt;/nowiki&gt; syntax
+&lt;pre&gt;
+  Link to Something
+  [[Link should be maintained]]
+  [[Image:Blah.jpg]]
+
+&lt;/pre&gt; 
+&lt;math&gt;a[[0]]\x\ymath&lt;/math&gt; 
+&lt;source lang=cpp&gt;
+#include &lt;string.h&gt;
+void main(argv,argc)
+{
+  a[100] = "Ten"
+  printf("%s\n",a[a[100]]);
+}
+&lt;/source&gt; 
+      </text>
+    </revision>
+  </page>
+</mediawiki>
